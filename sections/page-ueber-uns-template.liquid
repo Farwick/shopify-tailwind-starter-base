@@ -1,0 +1,38 @@
+<div class="ueber-uns-container">
+<div class="grid">
+    {% for block in section.blocks %}
+      {% assign input = block.settings %}
+<div class="input">
+<p>
+          {{ input.ueber }}
+          {{ input['ueber-image'] }}
+</p>
+<img width="100px" height="100px" src="{{ input['ueber-image'] | image_url }}">
+</div>
+    {% endfor %}
+</div>
+</div>
+ 
+{% schema %}
+{
+  "name": "Über Uns",
+  "blocks": [
+    {
+      "name": "Text",
+      "type": "text",
+      "settings": [
+        {
+          "type": "text",
+          "label": "ueber-uns",
+          "id": "ueber"
+        },
+        {
+          "type": "image_picker",
+          "label": "image",
+          "id": "ueber-image"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
