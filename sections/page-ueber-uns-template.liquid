@@ -1,14 +1,14 @@
 <div class="ueber-uns-container">
-<div class="grid">
+<div class="twcss-grid twcss-grid-cols-2 twcss-gap-2">
     {% for block in section.blocks %}
       {% assign input = block.settings %}
-<div class="input">
-<p>
-          {{ input.ueber }}
-          {{ input['ueber-image'] }}
-</p>
-<img width="100px" height="100px" src="{{ input['ueber-image'] | image_url }}">
-</div>
+        <div class="input">
+            <p>
+            {{ input.ueber }}
+            {{ input['ueber-image'] }}
+            </p>
+            <img width="100px" height="100px" src="{{ input['ueber-image'] | image_url }}">
+        </div>
     {% endfor %}
 </div>
 </div>
