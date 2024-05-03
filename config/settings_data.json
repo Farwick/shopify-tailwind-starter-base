@@ -133,10 +133,18 @@
               "ueber": "test",
               "ueber-image": "shopify:\/\/shop_images\/praxis-ergotherapie-bulthaup.jpg"
             }
+          },
+          "text_HjKji6": {
+            "type": "text",
+            "settings": {
+              "ueber": "test",
+              "ueber-image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Lerntherapie_vorschau.jpg"
+            }
           }
         },
         "block_order": [
-          "text_47Fczr"
+          "text_47Fczr",
+          "text_HjKji6"
         ],
         "settings": {
         }
