@@ -1,9 +1,9 @@
 <div class="ueber-uns-container">
-<div class="twcss-grid twcss-grid-cols-2 twcss-gap-2">
+<div class="!twcss-grid !twcss-grid-cols-2 !twcss-gap-2">
     {% for block in section.blocks %}
       {% assign input = block.settings %}
-        <div class="input">
-            <p>
+        <div class="input !twcss-text-center">
+            <p class="!twcss-w-full !twcss-text-center">xxxx
             {{ input.ueber }}
             {{ input['ueber-image'] }}
             </p>

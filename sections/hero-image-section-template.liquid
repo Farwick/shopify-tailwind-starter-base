@@ -1,0 +1,29 @@
+<div class="ueber-uns-container">
+<div >
+    {% for block in section.blocks %}
+      {% assign input = block.settings %}
+        <div class="input !twcss-text-center">
+            <img class="twcss-w-full" src="{{ input['hero-image'] | image_url }}">
+        </div>
+    {% endfor %}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Hero",
+  "blocks": [
+    {
+        "name": "Heroimage",
+        "type": "image",
+        "settings": [
+            {
+            "type": "image_picker",
+            "label": "hero image",
+            "id": "hero-image"
+          }
+        ]
+    }
+  ]
+}
+{% endschema %}
