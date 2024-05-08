@@ -143,17 +143,6 @@
       },
       "hero-image-section-template": {
         "type": "hero-image-section-template",
-        "blocks": {
-          "image_eMN6Tw": {
-            "type": "image",
-            "settings": {
-              "hero-image": "shopify:\/\/shop_images\/praxis-ergotherapie-bulthaup.jpg"
-            }
-          }
-        },
-        "block_order": [
-          "image_eMN6Tw"
-        ],
         "settings": {
         }
       },
