@@ -177,15 +177,49 @@
       },
       "multicolumn": {
         "type": "multicolumn",
+        "blocks": {
+          "column_XAiRGQ": {
+            "type": "column",
+            "settings": {
+              "title": "Therapie mit Kindern",
+              "text": "<p>Wir sind spezialisiert auf die Behandlung von Kindern mit Lese- und Rechtschreibschwierigkeiten sowie Rechenschwächen. Außerdem bieten wir den Kurs „Fit für die Schule“ und das Marburger Konzentrationstraining an.<\/p>",
+              "link_label": "",
+              "link": ""
+            }
+          },
+          "column_eX3xLm": {
+            "type": "column",
+            "settings": {
+              "title": "Therapie bei Erwachsenen",
+              "text": "<p>Therapie nach Bobath, Perfetti bei neurologischen Erkrankungen wie Schlaganfall, Multiple Sklerose, Parkinson, Schädel-Hirn-Traumata (SHT), Training der Feinmotorik, Hirnleistungstraining, Behandlung bei psychischen Beeinträchtigungen, Beratung von Angehörigen, Hilfsmittelberatung und -erprobung u.a.<\/p>",
+              "link_label": "",
+              "link": ""
+            }
+          },
+          "column_aKVbDj": {
+            "type": "column",
+            "settings": {
+              "title": "Information & Beratung",
+              "text": "<p>Sie wollen mehr wissen über die Lern- oder Wahrnehmungsstörungen Ihres Kindes? Besuchen Sie unsere Informationsveranstaltungen im Kindergarten oder in der Schule. Wir bieten Eltern auch eine individuelle Beratung. Rufen Sie uns an und vereinbaren Sie einen Termin.<\/p>",
+              "link_label": "",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "column_XAiRGQ",
+          "column_eX3xLm",
+          "column_aKVbDj"
+        ],
         "settings": {
-          "title": "Multicolumn",
+          "title": "",
           "heading_size": "h1",
           "image_width": "full",
           "image_ratio": "adapt",
           "columns_desktop": 3,
           "column_alignment": "left",
           "background_style": "primary",
-          "button_label": "Button label",
+          "button_label": "",
           "button_link": "",
           "color_scheme": "",
           "columns_mobile": "1",
