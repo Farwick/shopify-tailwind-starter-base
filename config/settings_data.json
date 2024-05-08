@@ -159,6 +159,19 @@
       },
       "paralax-template": {
         "type": "paralax-template",
+        "blocks": {
+          "text_Ei4Fkx": {
+            "type": "text",
+            "settings": {
+              "text": "Haben wir Ihr Interesse geweckt?",
+              "subtext": "Dann rufen Sie uns an!",
+              "paralax-image": "shopify:\/\/shop_images\/interesse-geweckt.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "text_Ei4Fkx"
+        ],
         "settings": {
         }
       },
