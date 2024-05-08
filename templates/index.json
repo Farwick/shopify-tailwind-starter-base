@@ -95,7 +95,118 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_XFXaUp": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3knPBf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Neurologie_vorschau.jpg",
+            "title": "Neurologie",
+            "text": "<p>Mehr Lebensqualität bei neurologischen Erkrankungen.<\/p>",
+            "link_label": "mehr Infos",
+            "link": ""
+          }
+        },
+        "column_ENKJ4D": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Paediatrie_vorschau.jpg",
+            "title": "Pädiatrie",
+            "text": "<p>Unterstützung bei Entwicklung und Lernverhalten.<\/p>",
+            "link_label": "mehr Infos",
+            "link": ""
+          }
+        },
+        "column_tY3wfJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Psychiatrie_vorschau.jpg",
+            "title": "Psychiatrie",
+            "text": "<p>Psychotherapeutische und sozialpsychiatrische Therapieansätze<\/p>",
+            "link_label": "mehr Infos",
+            "link": ""
+          }
+        },
+        "column_FdBwVp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup__Handtherapie_vorschau.jpg",
+            "title": "Handtherapie",
+            "text": "<p>Therapie nach Verletzungen, OP's und chronischen Erkrankungen.<\/p>",
+            "link_label": "mehr Infos",
+            "link": ""
+          }
+        },
+        "column_j73BKK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vorschau_geriatrie.jpg",
+            "title": "Geriatrie",
+            "text": "<p>Behandlung alter und chronisch kranker Menschen.<\/p>",
+            "link_label": "mehr Infos",
+            "link": ""
+          }
+        },
+        "column_VHaxVf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Orthopaedie_vorschau.jpg",
+            "title": "Orthopädie \/ Rheumatologie \/ Traumatologie",
+            "text": "",
+            "link_label": "mehr Infos",
+            "link": ""
+          }
+        },
+        "column_tU7Vmw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Neurofeedback_vorschau.jpg",
+            "title": "Neurofeedback",
+            "text": "<p>Optimierung elektrochemischer Vorgänge im Gehirn.<\/p>",
+            "link_label": "mehr Infos",
+            "link": ""
+          }
+        },
+        "column_fKgKhH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Lerntherapie_vorschau.jpg",
+            "title": "Lerntherapie",
+            "text": "<p>Therapie von Lern-Leistungsstörungen.<\/p>",
+            "link_label": "mehr Infos",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3knPBf",
+        "column_ENKJ4D",
+        "column_tY3wfJ",
+        "column_FdBwVp",
+        "column_j73BKK",
+        "column_VHaxVf",
+        "column_tU7Vmw",
+        "column_fKgKhH"
+      ],
+      "settings": {
+        "title": "UNSERE SCHWERPUNKTE",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
@@ -214,68 +325,15 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "image_banner",
     "multicolumn_HbfKfr",
+    "multicolumn_XFXaUp",
     "rich_text",
     "featured_collection",
     "collage",
-    "video",
-    "multicolumn"
+    "video"
   ]
 }
