@@ -1,0 +1,42 @@
+<div class="ueber-uns-container">
+    {% for block in section.blocks %}
+      {% assign input = block.settings %}
+        <div class="twcss-relative twcss-max-w-full twcss-mx-auto twcss-mt-20">
+            <img class="twcss-w-full twcss-object-cover twcss-rounded-md" src="{{ input['paralax-image'] | image_url }}" alt="Random image">
+            <div class="twcss-absolute twcss-inset-0 bg-gray-700 twcss-opacity-60 twcss-rounded-md"></div>
+            <div class="twcss-absolute twcss-inset-0 twcss-flex twcss-items-center twcss-justify-center">
+                <h2 class="twcss-text-white twcss-text-4xl twcss-font-bold twcss-text-center">{{ input.text }} <br>{{ input.subtext }}
+            </h2>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+{% schema %}
+{
+  "name": "Paralax",
+  "blocks": [
+    {
+      "name": "Text",
+      "type": "text",
+      "settings": [
+        {
+          "type": "text",
+          "label": "Text",
+          "id": "text"
+        },
+        {
+            "type": "text",
+            "label": "subtext",
+            "id": "subtext"
+          },
+        {
+          "type": "image_picker",
+          "label": "image",
+          "id": "paralax-image"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

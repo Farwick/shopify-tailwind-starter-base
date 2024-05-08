@@ -1,16 +1,20 @@
-<div class="ueber-uns-container">
-<div class="!twcss-grid !twcss-grid-cols-2 !twcss-gap-2">
+<div class="ueber-uns-container twcss-p-16">
     {% for block in section.blocks %}
       {% assign input = block.settings %}
-        <div class="input !twcss-text-center">
-            <p class="!twcss-w-full !twcss-text-center">xxxx
-            {{ input.ueber }}
-            {{ input['ueber-image'] }}
-            </p>
-            <img width="100px" height="100px" src="{{ input['ueber-image'] | image_url }}">
+      <div class="!twcss-grid !twcss-grid-cols-2 !twcss-gap-6">
+        <div>
+            <p class="">
+
+        {{ input.ueber }}
+        </p>
         </div>
+            <div>
+                <img class="twcss-w-full" src="{{ input['ueber-image'] | image_url }}">
+                </div>
+
+        </div>
+
     {% endfor %}
-  </div>
 </div>
 
 {% schema %}
@@ -22,7 +26,7 @@
       "type": "text",
       "settings": [
         {
-          "type": "text",
+          "type": "richtext",
           "label": "ueber-uns",
           "id": "ueber"
         },
