@@ -1,0 +1,42 @@
+<div class="ueber-uns-container twcss-p-16">
+    {% for block in section.blocks %}
+      {% assign input = block.settings %}
+      <div class="!twcss-grid !twcss-grid-cols-2 !twcss-gap-6">
+        <div>
+            <p class="twcss-grid-col-span-2">
+
+        {{ input.text }}
+        </p>
+        </div>
+            <div>
+                <p>{{ input.kontakt }}</p>
+                </div>
+
+        </div>
+
+    {% endfor %}
+</div>
+
+{% schema %}
+{
+  "name": "Über die Praxis",
+  "blocks": [
+    {
+      "name": "Text",
+      "type": "text",
+      "settings": [
+        {
+          "type": "richtext",
+          "label": "ueber-praxis",
+          "id": "text"
+        },
+        {
+            "type": "richtext",
+            "label": "kontakt",
+            "id": "kontakt"
+          }
+      ]
+    }
+  ]
+}
+{% endschema %}
