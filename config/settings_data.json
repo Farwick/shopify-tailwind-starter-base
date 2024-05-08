@@ -130,21 +130,13 @@
           "text_47Fczr": {
             "type": "text",
             "settings": {
-              "ueber": "test",
+              "ueber": "<p><strong>Zwei Standorte. Ein Team.<\/strong><\/p><p>Mit unserem hohen Qualitätsanspruch sind wir seit 2000 in Rheda und seit 2006 in Herzebrock mit aktuell vierzehn Ergotherapeutinnen und zwei Mitarbeiterinnen am Empfang bzw. Praxisorganisation erfolgreich im Einsatz.<\/p><p>Die Schwerpunkte unserer Praxis.<\/p><p>Ein Teil unserer Patienten sind Kinder mit Problemen der Integration ihrer Wahrnehmung in Alltagshandlungen (Wahrnehmungsstörungen), Lernstörungen wie Legasthenie und Dyskalkulie. Unsere Ergotherapeutinnen begleiten Ihr Kind auf dem Weg zu einem selbstständigen und handlungsfähigen Individuum. Sie arbeiten gezielt in den Bereichen, in denen Ihr Kinder Unterstützung und Hilfe benötigt.<\/p><p>Unsere Ergotherapeutinnen arbeiten außerdem mit neurologisch erkrankten Patienten. Bei ihnen ist das zentrale Nervensystem (ZNS) durch Schädigungen, einen Unfall oder Erkrankungen beeinträchtigt. Sehr häufig kommen Menschen mit Schlaganfall, Multipler Sklerose, Morbus Parkinson, Querschnittslähmung und Schädel-Hirn-Trauma in unsere Praxis. Weitere Schwerpunkte sind die Gerontopsychiatrie (Alzheimer, Demenz, Depressionen) und die Handtherapie.<\/p><p>Behandlungsziele sind immer größtmögliche Lebensqualität und Erhalt bzw. Erarbeitung der Selbständigkeit.<\/p>",
               "ueber-image": "shopify:\/\/shop_images\/praxis-ergotherapie-bulthaup.jpg"
-            }
-          },
-          "text_HjKji6": {
-            "type": "text",
-            "settings": {
-              "ueber": "test",
-              "ueber-image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Lerntherapie_vorschau.jpg"
             }
           }
         },
         "block_order": [
-          "text_47Fczr",
-          "text_HjKji6"
+          "text_47Fczr"
         ],
         "settings": {
         }
@@ -155,7 +147,7 @@
           "image_eMN6Tw": {
             "type": "image",
             "settings": {
-              "hero-image": "shopify:\/\/shop_images\/praxis-ergotherapie-bulthaup.jpg"
+              "hero-image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_ueber_uns_Theke_header.jpg"
             }
           }
         },
@@ -163,6 +155,30 @@
           "image_eMN6Tw"
         ],
         "settings": {
+        }
+      },
+      "paralax-template": {
+        "type": "paralax-template",
+        "settings": {
+        }
+      },
+      "multicolumn": {
+        "type": "multicolumn",
+        "settings": {
+          "title": "Multicolumn",
+          "heading_size": "h1",
+          "image_width": "full",
+          "image_ratio": "adapt",
+          "columns_desktop": 3,
+          "column_alignment": "left",
+          "background_style": "primary",
+          "button_label": "Button label",
+          "button_link": "",
+          "color_scheme": "",
+          "columns_mobile": "1",
+          "swipe_on_mobile": false,
+          "padding_top": 36,
+          "padding_bottom": 36
         }
       }
     },
