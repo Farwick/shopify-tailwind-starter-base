@@ -48,6 +48,62 @@
         "show_text_below": false
       }
     },
+    "multicolumn_HbfKfr": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_GAhNq6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ergotherapie-icon.png",
+            "title": "Ergotherapie",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hQt8Va": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/praxis-rheda.png",
+            "title": "Praxis Rheda",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_A7qdfc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/praxis-rheda.png",
+            "title": "Praxis Herzebrock",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_GAhNq6",
+        "column_hQt8Va",
+        "column_A7qdfc"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -215,6 +271,7 @@
   },
   "order": [
     "image_banner",
+    "multicolumn_HbfKfr",
     "rich_text",
     "featured_collection",
     "collage",
