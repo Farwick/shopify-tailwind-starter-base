@@ -672,6 +672,10 @@ video {
   grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
 }
 
+.twcss-grid-cols-1 {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+
 .twcss-items-center {
   align-items: center;
 }
@@ -748,4 +752,10 @@ video {
 
 .twcss-opacity-60 {
   opacity: 0.6;
+}
+
+@media (min-width: 990px) {
+  .lg\:twcss-grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
 }
