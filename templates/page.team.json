@@ -112,10 +112,11 @@
         "column_PKnxCF": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Kirsten_Kaupmann.jpg",
+            "title": "Kirsten Kaupmann",
+            "text": "",
+            "link_label": "mehr Infos",
+            "link": "shopify:\/\/pages\/kirsten-kaupmann"
           }
         }
       },
