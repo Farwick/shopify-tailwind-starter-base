@@ -27,7 +27,7 @@
         "heading_wizzJK": {
           "type": "heading",
           "settings": {
-            "heading": "Kirsten Kaupmann",
+            "heading": "Sandra Knipschild",
             "heading_size": "h1"
           }
         },
@@ -75,9 +75,9 @@
         "column_V7f97X": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Kirsten_Kaupmann.jpg",
+            "image": "shopify:\/\/shop_images\/Sandra_Knipschild.jpg",
             "title": "",
-            "text": "<p>Kirsten Kaupmann<\/p>",
+            "text": "<p>Sandra Knipschild<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -86,7 +86,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>Kirsten Kaupmann<\/strong><\/p><ul><li>Ergotherapeutin<\/li><li>Bobath-Therapeutin<\/li><li>Fachtherapeutin für Schmerztherapie<\/li><li>B.A.<\/li><\/ul>",
+            "text": "<p><strong>Sandra Knipschild<\/strong><\/p><ul><li>Ergotherapeutin<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
