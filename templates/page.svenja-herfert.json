@@ -27,7 +27,7 @@
         "heading_wizzJK": {
           "type": "heading",
           "settings": {
-            "heading": "Corinna Jäger",
+            "heading": "Svenja Herfert",
             "heading_size": "h1"
           }
         },
@@ -75,9 +75,9 @@
         "column_V7f97X": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/placeholder.jpg",
+            "image": "shopify:\/\/shop_images\/Svenja_Herfert.jpg",
             "title": "",
-            "text": "<p>Corinna Jäger<\/p>",
+            "text": "<p>Svenja Herfert<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -86,7 +86,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>Corinna Jäger (Elternzeit)<\/strong><\/p><ul><li>Ergotherapeutin<\/li><\/ul>",
+            "text": "<p><strong>Svenja Herfert<\/strong><\/p><ul><li>Ergotherapeutin<\/li><li>Bobath-Therapeutin<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
