@@ -144,7 +144,7 @@
       "hero-image-section-template": {
         "type": "hero-image-section-template",
         "blocks": {
-          "image_eMN6Tw": {
+          "image_6Kzfd7": {
             "type": "image",
             "settings": {
               "hero-image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_ueber_uns_Theke_header.jpg"
@@ -152,7 +152,7 @@
           }
         },
         "block_order": [
-          "image_eMN6Tw"
+          "image_6Kzfd7"
         ],
         "settings": {
         }
@@ -226,6 +226,11 @@
           "swipe_on_mobile": false,
           "padding_top": 36,
           "padding_bottom": 36
+        }
+      },
+      "praxis-grid": {
+        "type": "praxis-grid",
+        "settings": {
         }
       }
     },
