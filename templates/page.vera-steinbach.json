@@ -27,7 +27,7 @@
         "heading_wizzJK": {
           "type": "heading",
           "settings": {
-            "heading": "Lissy Bertsch",
+            "heading": "Vera Steinbach",
             "heading_size": "h1"
           }
         },
@@ -75,9 +75,9 @@
         "column_V7f97X": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lissy_Bertsch.jpg",
+            "image": "shopify:\/\/shop_images\/Vera_Steinbach.jpg",
             "title": "",
-            "text": "<p>Lissy Bertsch<\/p>",
+            "text": "<p>Vera Steinbach<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -86,7 +86,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>Lissy Bertsch<\/strong><\/p><ul><li>Praxisorganisation \/ Empfang<\/li><\/ul>",
+            "text": "<p><strong>Vera Steinbach<\/strong><\/p><ul><li>Ergotherapeutin<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
