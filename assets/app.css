@@ -619,6 +619,10 @@ video {
   inset: 0px;
 }
 
+.twcss-col-span-2 {
+  grid-column: span 2 / span 2;
+}
+
 .twcss-mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -662,6 +666,10 @@ video {
 
 .\!twcss-grid-cols-2 {
   grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+}
+
+.\!twcss-grid-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
 }
 
 .twcss-items-center {
