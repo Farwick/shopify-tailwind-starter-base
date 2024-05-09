@@ -118,6 +118,34 @@
             "link_label": "mehr Infos",
             "link": "shopify:\/\/pages\/kirsten-kaupmann"
           }
+        },
+        "column_LT4XT8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vanessa_Sluka.jpg",
+            "title": "Vanessa Sluka",
+            "text": "",
+            "link_label": "mehr Infos",
+            "link": "shopify:\/\/pages\/vanessa-sluka"
+          }
+        },
+        "column_n9QrHc": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ARnfRA": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -126,7 +154,10 @@
         "column_hEjpyR",
         "column_77M9t7",
         "column_jpzRYC",
-        "column_PKnxCF"
+        "column_PKnxCF",
+        "column_LT4XT8",
+        "column_n9QrHc",
+        "column_ARnfRA"
       ],
       "settings": {
         "title": "",
