@@ -27,7 +27,7 @@
         "heading_wizzJK": {
           "type": "heading",
           "settings": {
-            "heading": "Corinna Jäger",
+            "heading": "Dajana Meyer",
             "heading_size": "h1"
           }
         },
@@ -75,9 +75,9 @@
         "column_V7f97X": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/placeholder.jpg",
+            "image": "shopify:\/\/shop_images\/Dajana_Meier.jpg",
             "title": "",
-            "text": "<p>Corinna Jäger<\/p>",
+            "text": "<p>Dajana Meyer<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -86,7 +86,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>Corinna Jäger (Elternzeit)<\/strong><\/p><ul><li>Ergotherapeutin<\/li><\/ul>",
+            "text": "<p><strong>Dajana Meyer<\/strong><\/p><ul><li>Ergotherapeutin<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
