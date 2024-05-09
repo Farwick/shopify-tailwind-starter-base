@@ -6,9 +6,107 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "rich_text_a4HLEb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_U8tTB7": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_hzbPEY": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Praxis Rheda-Wiedenbrück<\/strong><\/p><p>Fürst-Bentheim-Straße 3<\/p><p>33378 Rheda-Wiedenbrück<\/p><p>Fon: <a href=\"tel:+495242408508\">(0 52 42) 40 85 08<\/a><\/p><p>E-Mail: <a href=\"mailto:praxis@ergotherapie-bulthaup.de\">praxis@ergotherapie-bulthaup.de<\/a><\/p>"
+          }
+        },
+        "text_FjErb3": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Praxis Herzebrock-Clarholz<\/strong><\/p><p>Uthofstr. 13<\/p><p>33442 Herzebrock-Clarholz<\/p><p>Fon: <a href=\"tel:+495245922280\">(0 52 45) 92 22 80<\/a><\/p><p>E-Mail: <a href=\"mailto:praxis@ergotherapie-bulthaup.de\">praxis@ergotherapie-bulthaup.de<\/a><\/p>"
+          }
+        },
+        "button_8RFk3J": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_U8tTB7",
+        "text_hzbPEY",
+        "text_FjErb3",
+        "button_8RFk3J"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_XYrfLk": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_6wR6ri": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_qFim8r": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_r66jpL": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6wR6ri",
+        "text_qFim8r",
+        "buttons_r66jpL"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_a4HLEb",
+    "image_banner_XYrfLk"
   ]
 }
