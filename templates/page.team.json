@@ -102,10 +102,11 @@
         "column_jpzRYC": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Maria_Lakmann.jpg",
+            "title": "Maria Lakmann",
+            "text": "",
+            "link_label": "mehr Infos",
+            "link": "shopify:\/\/pages\/maria-lakmann"
           }
         },
         "column_PKnxCF": {
