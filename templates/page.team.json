@@ -172,6 +172,25 @@
         "column_aw9Vkw": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Marleen_Winkler.jpg",
+            "title": "Marlene Winkler",
+            "text": "",
+            "link_label": "mehr Infos",
+            "link": "shopify:\/\/pages\/marlene-winkler"
+          }
+        },
+        "column_jeddEz": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zgyAaX": {
+          "type": "column",
+          "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -191,7 +210,9 @@
         "column_ARnfRA",
         "column_3E4GPi",
         "column_dM3qBR",
-        "column_aw9Vkw"
+        "column_aw9Vkw",
+        "column_jeddEz",
+        "column_zgyAaX"
       ],
       "settings": {
         "title": "",
