@@ -82,10 +82,11 @@
         "column_hEjpyR": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Stefanie_Becker.jpg",
+            "title": "Stefanie Becker",
+            "text": "",
+            "link_label": "mehr Infos",
+            "link": "shopify:\/\/pages\/stefanie-becker"
           }
         }
       },
