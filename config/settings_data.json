@@ -230,6 +230,34 @@
       },
       "praxis-grid": {
         "type": "praxis-grid",
+        "blocks": {
+          "text_QjmmCr": {
+            "type": "text",
+            "settings": {
+              "text": "<h2>Praxis Rheda-Wiedenbrück<\/h2><p>Mit unserem hohen Qualitätsanspruch sind wir in Rheda und Herzebrock mit aktuell vierzehn Ergotherapeutinnen und zwei Mitarbeiterinnen am Empfang bzw. Praxisorganisation erfolgreich im Einsatz.<\/p><p>Im Jahr 2000 wurde die Praxis an der Fürst-Bentheim-Straße 3 in Rheda-Wiedenbrück eröffnet. In dem 270 qm großen Haus behandeln wir unsere Patienten in neun Therapieräumen – modern eingerichtet und natürlich mit aktuellen Therapiegeräten und -mitteln ausgestattet. In dem zusätzlichen Gruppenraum finden die Kurse „Fit für die Schule“ und „Marburger Konzentrationstraining“ statt. Der Kurs „Fit für die Schule“ kann zudem auch in Schulen oder Kindergärten stattfinden<\/p><p>Bei uns parken Sie außerdem ganz bequem. Direkt vor unserer Praxis bieten wir unseren Patienten kostenfreie Parkplätze.Die Räumlichkeiten sind klimatisiert und behindertengerecht.<\/p>",
+              "kontakt": "<p><strong>Praxis Rheda-Wiedenbrück<\/strong><\/p><p>Fürst-Bentheim-Straße 3<\/p><p>33378 Rheda-Wiedenbrück<\/p><p>Fon: <a href=\"tel:+495242408508\">(0 52 42) 40 85 08<\/a><\/p><p>E-Mail: <a href=\"mailto:praxis@ergotherapie-bulthaup.de\">praxis@ergotherapie-bulthaup.de<\/a><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "text_QjmmCr"
+        ],
+        "settings": {
+        }
+      },
+      "hero-image-praxis-template": {
+        "type": "hero-image-praxis-template",
+        "blocks": {
+          "image_XjaJpP": {
+            "type": "image",
+            "settings": {
+              "hero-praxis": "shopify:\/\/shop_images\/ergotherapie_bulthaup_praxis_rheda_schaukel.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "image_XjaJpP"
+        ],
         "settings": {
         }
       }
