@@ -511,7 +511,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "ul li {list-style-type: circle;}"
+      "ul {list-style-type: circle;}"
     ]
   }
 }
