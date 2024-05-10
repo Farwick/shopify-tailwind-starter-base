@@ -511,8 +511,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "ul {list-style-type: circle;}",
-      ".shopify-policy__container {margin: 0 !important;}"
+      "ul {list-style-type: circle;}"
     ]
   }
 }
