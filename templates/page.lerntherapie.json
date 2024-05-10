@@ -1,0 +1,247 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_bKMCeb": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_gnWFqQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Neurofeedback",
+            "heading_size": "h1"
+          }
+        },
+        "text_Bg4fN6": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_eNBgmg": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_gnWFqQ",
+        "text_Bg4fN6",
+        "buttons_eNBgmg"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Neurofeedback_header_icon_adef9bab-25ce-48c5-b6cd-eba3f0cf9cd2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_cpjDVR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PTwHde": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gehirnfunktionen trainieren und verbessern.",
+            "heading_size": "h1"
+          }
+        },
+        "text_YrMhp7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Neurofeedback – eine ganzheitliche Methode zur Verbesserung von Selbstregulation, Kontrolle und Flexibilität bei ADHS und in anderen Bereichen.<\/p>"
+          }
+        },
+        "button_cCCqMV": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PTwHde",
+        "text_YrMhp7",
+        "button_cCCqMV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_MFWfjg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_a7pfF3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Trainieren Sie den Kopf gesund.",
+            "heading_size": "h1"
+          }
+        },
+        "text_A8Q7nd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Viele Krankheiten, Störungen oder ungewollte Verhaltensmuster sind auf Fehlregulierung der Gehirnaktivität zurückzuführen. Neurofeedback ist eine computergestützte Trainingsmethode, bei der Patienten Bereiche der eigenen Gehirnaktivität entdecken lernen, zu denen sie für gewöhnlich keinen Zugang haben.<\/p>"
+          }
+        },
+        "text_GGDYYH": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Ein Lernprozess für das Gehirn.<\/strong><\/p><p>Beim Neurofeedback zeichnen Elektroden die Aktivität des Gehirns mittels EEG auf. Ein Computer berechnet die Gehirnstromkurven und Patienten bekommen am Bildschirm individuell angepasste Rückmeldungen durch Bilder oder Geräusche. Durch diese Rückmeldung – Feedback genannt – lernen die Patienten ihre Gehirnaktivität selbst besser zu regulieren. Ein positives Feedback verbessert ungünstige Gehirnwellenaktivitäten, die für Stresszustände sorgen.<\/p><p>Irgendwann schaltet der Verstand aus und der Patient lässt einfach los. Durch Neurofeedback wird sowohl eine Verbesserung psychischer als auch physischer Symptome erreicht. Denn das Neurofeedback setzt bei der Hirnaktivität an und wirkt auf die Psyche ein – und damit auf Denken, Fühlen und Handeln.<\/p><p>Im Grunde genommen werden Sie nicht behandelt – Sie handeln selbst.<\/p><p>Die Erfahrung, aus eigener Kraft etwas gegen Beschwerden ausrichten zu können, steigert die Zuversicht und setzt Energie frei. Neurofeedback ist in der Regel ohne negative Nebenwirkungen und wird z. B. im Hinblick auf AD(H)S bereits mit Erfolg angewendet und sorgt für vergleichbare Resultate wie Medikamente.<\/p>"
+          }
+        },
+        "text_EiyVyH": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Typische Anwendungsgebiete<\/strong><\/p><ul><li>Angststörungen<\/li><li>Aufmerksamkeitsstörungen (ADS\/ADHS)<\/li><li>Autismus<\/li><li>Depression<\/li><li>Epilepsie<\/li><li>Migräne\/chronische Schmerzen<\/li><li>Schlafstörungen<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_a7pfF3",
+        "text_A8Q7nd",
+        "text_GGDYYH",
+        "text_EiyVyH"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_rLk7VH": {
+      "type": "rich-text",
+      "blocks": {
+        "text_kbTtCF": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Ziele der Ergotherapie<\/strong><\/p><p>Ziel der Behandlung ist es, das Gehirn zu trainieren, seine Funktionen zu verbessern und umzustellen. Die Symptome der zu behandelnden Störungen können vermindert oder vollständig zum Verschwinden gebracht werden.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_kbTtCF"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 20
+      }
+    },
+    "collapsible_content_ncCQjE": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_cYDBMd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wer übernimmt die Kosten?",
+            "icon": "check_mark",
+            "row_content": "<p>Die Verordnung für eine ambulante Ergotherapie kann nur ein Arzt ausstellen. Pro Verordnung (Rezept) hat der Patient eine Zuzahlung in Höhe von 10 % zzgl. 10 € Rezeptgebühr zu leisten, außer er ist von Seiten der Krankenkasse von den Zuzahlungen befreit, z. B. bei einer chronischen Krankheit. Bei der Lerntherapie handelt es sich um eine Selbstzahlerleistung.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WWwaRH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wie ist der Behandlungsablauf?",
+            "icon": "check_mark",
+            "row_content": "<p>Bei uns hat jeder Patient einen Bezugstherapeuten. Nach einem sorgfältigen Aufnahmegespräch und der Befunderhebung werden Sie, und bei Bedarf Ihre Angehörigen, in die Planung der Therapie einbezogen.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_KTVKQr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wie viele Therapieeinheiten bekomme ich?",
+            "icon": "check_mark",
+            "row_content": "<p>Der Arzt entscheidet über die Anzahl Ihrer Behandlungseinheiten. Pro Rezept können im Regelfall maximal 10 Behandlungseinheiten verordnet werden. Eine mögliche Weiterbehandlung und deren Umfang legt der Arzt fest.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_AnJcqp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wie lange dauert eine Behandlung?",
+            "icon": "check_mark",
+            "row_content": "<p>Eine Therapieeinheit dauert je nach Verordnung zwischen 30 und 60 Minuten. Die Häufigkeit der Behandlungstermine ist ebenfalls abhängig von der Verordnung des Arztes.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_cXgXqP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Werden Hausbesuche gemacht?",
+            "icon": "check_mark",
+            "row_content": "<p>Grundsätzlich bieten wir die Behandlung (bei medizinischer Notwendigkeit) auch als Hausbesuch an, wenn sie entweder ärztlich verordnet oder vertraglich vereinbart ist.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_cYDBMd",
+        "collapsible_row_WWwaRH",
+        "collapsible_row_KTVKQr",
+        "collapsible_row_AnJcqp",
+        "collapsible_row_cXgXqP"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FRAGEN RUND UM DIE THERAPIE",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_bKMCeb",
+    "rich_text_cpjDVR",
+    "rich_text_MFWfjg",
+    "rich_text_rLk7VH",
+    "collapsible_content_ncCQjE"
+  ]
+}
