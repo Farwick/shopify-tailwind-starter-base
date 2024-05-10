@@ -97,6 +97,14 @@
             {{ form | payment_button }}
           {%- endif -%}
         </div>
+        {% for tag in product.tags %}
+          {% if tag == 'Freitext' %}
+            <p>
+              <label for="grusskartentext">Grußkartentext</label>
+              <textarea id="grusskartentext" name="properties[Grusskartentext]"></textarea>
+            </p>
+          {% endif %}
+        {% endfor %}
       {%- endform -%}
     </product-form>
   {%- else -%}
