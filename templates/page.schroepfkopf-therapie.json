@@ -1,0 +1,94 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_bKMCeb": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_gnWFqQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Galileo-Training",
+            "heading_size": "h1"
+          }
+        },
+        "text_Bg4fN6": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_eNBgmg": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_gnWFqQ",
+        "text_Bg4fN6",
+        "buttons_eNBgmg"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bulthaup_kopfbild_stellenanzeige.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_cpjDVR": {
+      "type": "rich-text",
+      "blocks": {
+        "text_YrMhp7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Das Galileo ist ein Vibrationstrainingsgerät, dass auf dem natürlichen Bewegungsablauf des Menschen beim Gehen beruht. Aufgrund der seitenalternierenden Bewegungsform, wie eine Wippe, wird ein Bewegungsmuster ähnlich dem menschlichen Gang simuliert. Die schnelle Wipp-Bewegung des Galileo verursacht eine Kipp Bewegung des Beckens und der Körper reagiert mit rhythmischen Muskelkontraktionen im Wechsel zwischen rechter und linker Körperhälfte . Diese Muskelkontraktionen sind dann reflexgesteuert und nicht willentlich. Die Muskeln von den Beinen bis zum Rumpf werden dadurch aktiviert. Auch die Koordination einzelner Muskelpartien kann trainieret werden.<\/p>"
+          }
+        },
+        "text_r3WKK7": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Typische Anwendungsgebiete<\/strong><\/p><ul><li>Muskelverspannungen<\/li><li>Aufbau von Muskulatur<\/li><li>Neurologische Erkrankungen wie Multipler Sklerose, Apoplex und Parkinson<\/li><li>Beckenbodentraining<\/li><li>Gangtraining<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "text_YrMhp7",
+        "text_r3WKK7"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_bKMCeb",
+    "rich_text_cpjDVR"
+  ]
+}
