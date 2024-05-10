@@ -212,18 +212,27 @@
         "collapsible_row_KTVKQr": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Wie viele Therapieeinheiten bekomme ich?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Der Arzt entscheidet über die Anzahl Ihrer Behandlungseinheiten. Pro Rezept können im Regelfall maximal 10 Behandlungseinheiten verordnet werden. Eine mögliche Weiterbehandlung und deren Umfang legt der Arzt fest.<\/p>",
             "page": ""
           }
         },
         "collapsible_row_AnJcqp": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Wie lange dauert eine Behandlung?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Eine Therapieeinheit dauert je nach Verordnung zwischen 30 und 60 Minuten. Die Häufigkeit der Behandlungstermine ist ebenfalls abhängig von der Verordnung des Arztes.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_cXgXqP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Werden Hausbesuche gemacht?",
+            "icon": "check_mark",
+            "row_content": "<p>Grundsätzlich bieten wir die Behandlung (bei medizinischer Notwendigkeit) auch als Hausbesuch an, wenn sie entweder ärztlich verordnet oder vertraglich vereinbart ist.<\/p>",
             "page": ""
           }
         }
@@ -232,7 +241,8 @@
         "collapsible_row_cYDBMd",
         "collapsible_row_WWwaRH",
         "collapsible_row_KTVKQr",
-        "collapsible_row_AnJcqp"
+        "collapsible_row_AnJcqp",
+        "collapsible_row_cXgXqP"
       ],
       "settings": {
         "caption": "",
