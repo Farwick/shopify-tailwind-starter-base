@@ -14,7 +14,7 @@
         "heading_gnWFqQ": {
           "type": "heading",
           "settings": {
-            "heading": "Neurologie",
+            "heading": "Pädiatrie",
             "heading_size": "h1"
           }
         },
@@ -62,14 +62,14 @@
         "heading_PTwHde": {
           "type": "heading",
           "settings": {
-            "heading": "Mehr Lebensqualität bei neurologischen Erkrankungen.",
+            "heading": "Gezielte Hilfe und Unterstützung für Kinder und Jugendliche.",
             "heading_size": "h1"
           }
         },
         "text_YrMhp7": {
           "type": "text",
           "settings": {
-            "text": "<p>Sind Sie oder einer Ihrer Angehörigen oder Freunde auf Grund einer neurologischen Erkrankung eingeschränkt? Defizite im motorischen und kognitiven Bereich sowie in der Wahrnehmung können nachhaltig verbessert werden! Wir helfen Ihnen, Ihren Alltag wieder zu meistern.<\/p>"
+            "text": "<p>Besonders Kinder sind in ihrem Alltag permanent neuen Herausforderungen ausgesetzt und müssen lernen, sich immer wieder neu anzupassen und weiterzuentwickeln.<\/p><p>Die Pädiatrie in der Ergotherapie umfasst die Behandlung von Kindern und Jugendlichen, die Beeinträchtigungen und Entwicklungsverzögerungen im motorischen, sensorischen und im kognitiven Bereich zeigen.<\/p>"
           }
         },
         "button_cCCqMV": {
@@ -104,7 +104,7 @@
         "column_FgjBpq": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Neurologie_content.jpg",
+            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Neurologie_content_2c69770e-8eba-4319-be8e-2d93028b0e79.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -138,14 +138,14 @@
         "heading_a7pfF3": {
           "type": "heading",
           "settings": {
-            "heading": "Ergotherapie ermöglicht Ihnen, Ihre eigenständige Lebensführung zu verbessern.",
+            "heading": "Alltägliches im Kinderalltag unterstützen.",
             "heading_size": "h1"
           }
         },
         "text_A8Q7nd": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Wann ist Ergotherapie sinnvoll?<\/strong><\/p><p><\/p><p>Die Ergotherapie im Arbeitsfeld der Neurologie befasst sich mit Erkrankungen des zentralen Nervensystems (ZNS), welches durch Schädigungen, einen Unfall oder Erkrankungen beeinträchtigt werden kann. Am häufigsten kommen Menschen mit Schlaganfall, Multipler Sklerose, Morbus Parkinson, Querschnittslähmung und Schädel-Hirn-Trauma in unsere Praxis.<\/p>"
+            "text": "<p><strong>Wann ist Ergotherapie sinnvoll?<\/strong><\/p><p>Behandelt werden Kinder und Jugendliche mit<\/p><ul><li>Probleme in der Feinmotorik<\/li><li>Störungen des Bewegungsapparates\/der Motorik<\/li><li>Probleme in der Feinmotorik oder Stifthaltung<\/li><li>körperlichen, geistigen und seelischen Entwicklungsrückständen<\/li><li>Verhaltensstörungen (Angst, Abwehr, Hyperaktivität…)<\/li><li>Konzentrationsproblemen<\/li><\/ul><p>Unter Berücksichtigung des aktuellen Entwicklungsstandes wird das Kind ganzheitlich in seinem sozialen und familiären Umfeld nach verschiedenen Therapiekonzepten behandelt. Hierbei ist die Elternarbeit sowie die direkte Übertragung in den Alltag eine wichtige Voraussetzung, um langfristige Therapieerfolge erzielen zu können.<\/p>"
           }
         },
         "button_RHM8Mh": {
@@ -162,13 +162,13 @@
         "text_GGDYYH": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Inhalte der Therapie<\/strong><\/p><ul><li>Trainieren von Alltagshandlungen im Hinblick auf größtmögliche Selbstständigkeit<\/li><li>Verbesserung der Fein- und Grobmotorik<\/li><li>Biofeedback<\/li><li>Verbesserung der Gleichgewichtsfunktionen und Koordination<\/li><li>Galileo (Vibrationstraining zum Muskelaufbau)<\/li><li>(De-) Sensibilisierungstraining<\/li><li>Verbesserung von neuropsychologischen und kognitiven Fähigkeiten wie Aufmerksamkeit, Lernen und<\/li><li>Gedächtnis, Handlungsplanung, Wahrnehmung und Orientierung<\/li><li>Unterstützung der Betroffenen und Angehörigen bei der Wohnraumanpassung<\/li><li>Hilfsmittelerprobung<\/li><\/ul>"
+            "text": "<p><strong>Inhalte der Therapie<\/strong><\/p><ul><li>Entwicklung und Verbesserung von Motorik, Koordination, Gleichgewicht, Körpereigenwahrnehmung, Tonusregulation<\/li><li>Entwicklung und Verbesserung fein- und graphomotorischer Koordination<\/li><li>Vermeidung von Folgeschäden und Entwicklungsverzögerungen<\/li><li>Verbesserung der kognitiven Leistungen (Konzentration, Ausdauer, Gedächtnisleistung, Handlungsplanung…)<\/li><li>Verbesserung der Verarbeitung von Sinneswahrnehmung<\/li><\/ul>"
           }
         },
         "text_687LXc": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Ziele<\/strong><\/p><p>Wir vereinbaren zusammen mit dem Patienten die Behandlungsziele und passen sie dem jeweiligen Therapiestand an. Gemeinsam arbeiten wir für eine Verbesserung bzw. den Erhalt der Selbständigkeit und der Handlungskompetenz, damit Sie eine größtmögliche Lebensqualität erreichen.<\/p>"
+            "text": "<p><strong>Ziele<\/strong><\/p><p>Wir vereinbaren gemeinsam die genauen Behandlungsziele. Das Kind soll eine größtmögliche Selbstständigkeit im Alltag, in der Schule und im sozialen Umfeld erreichen. Die Ergotherapie begleitet die Kinder auf ihrem Weg zu einem selbstständigen und handlungsfähigen Menschen und setzt gezielt in den Bereichen an, in welchen die Kinder Unterstützung und Hilfe benötigen.<\/p>"
           }
         }
       },
