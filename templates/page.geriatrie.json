@@ -72,22 +72,17 @@
             "text": "<p>Leiden Sie oder einer Ihrer Angehörigen unter altersbedingten Beschwerden, die die selbstständige Lebensführung beeinträchtigen? Dass gesundheitliche Probleme aufgrund des natürlichen Alterungsprozesses entstehen, ist Teil des Lebens – gerade hier leistet geriatrische Ergotherapie wertvolle Hilfe. Mit unseren Maßnahmen gehen wir auf altersspezifische Besonderheiten ein, damit Sie weiter Freude am Leben haben.<\/p>"
           }
         },
-        "button_cCCqMV": {
-          "type": "button",
+        "text_r3WKK7": {
+          "type": "text",
           "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p><strong>Typische Anwendungsgebiete<\/strong><\/p><ul><li>Behandlung unterschiedlicher Formen der Demenz<\/li><li>Morbus Parkinson<\/li><li>Depression<\/li><\/ul>"
           }
         }
       },
       "block_order": [
         "heading_PTwHde",
         "text_YrMhp7",
-        "button_cCCqMV"
+        "text_r3WKK7"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -101,12 +96,6 @@
     "rich_text_MFWfjg": {
       "type": "rich-text",
       "blocks": {
-        "text_A8Q7nd": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Typische Anwendungsgebiete<\/strong><\/p><ul><li>Behandlung unterschiedlicher Formen der Demenz<\/li><li>Morbus Parkinson<\/li><li>Depression<\/li><\/ul>"
-          }
-        },
         "button_RHM8Mh": {
           "type": "button",
           "settings": {
@@ -132,7 +121,6 @@
         }
       },
       "block_order": [
-        "text_A8Q7nd",
         "button_RHM8Mh",
         "text_GGDYYH",
         "text_687LXc"
