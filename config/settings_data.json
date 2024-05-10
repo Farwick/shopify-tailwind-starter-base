@@ -512,7 +512,7 @@
   "platform_customizations": {
     "custom_css": [
       "ul {list-style-type: circle;}",
-      ".shopify-policy__container {width: 80% !important; margin: 0 !important;}"
+      ".shopify-policy__container {margin: 0 !important;}"
     ]
   }
 }
