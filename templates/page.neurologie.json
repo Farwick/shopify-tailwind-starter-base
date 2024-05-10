@@ -55,10 +55,207 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "rich_text_cpjDVR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PTwHde": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mehr Lebensqualität bei neurologischen Erkrankungen.",
+            "heading_size": "h1"
+          }
+        },
+        "text_YrMhp7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sind Sie oder einer Ihrer Angehörigen oder Freunde auf Grund einer neurologischen Erkrankung eingeschränkt? Defizite im motorischen und kognitiven Bereich sowie in der Wahrnehmung können nachhaltig verbessert werden! Wir helfen Ihnen, Ihren Alltag wieder zu meistern.<\/p>"
+          }
+        },
+        "button_cCCqMV": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PTwHde",
+        "text_YrMhp7",
+        "button_cCCqMV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_dhxaEk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_FgjBpq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Neurologie_content.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_FgjBpq"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_MFWfjg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_a7pfF3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ergotherapie ermöglicht Ihnen, Ihre eigenständige Lebensführung zu verbessern.",
+            "heading_size": "h1"
+          }
+        },
+        "text_A8Q7nd": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Wann ist Ergotherapie sinnvoll?<\/strong><\/p><p><\/p><p>Die Ergotherapie im Arbeitsfeld der Neurologie befasst sich mit Erkrankungen des zentralen Nervensystems (ZNS), welches durch Schädigungen, einen Unfall oder Erkrankungen beeinträchtigt werden kann. Am häufigsten kommen Menschen mit Schlaganfall, Multipler Sklerose, Morbus Parkinson, Querschnittslähmung und Schädel-Hirn-Trauma in unsere Praxis.<\/p>"
+          }
+        },
+        "button_RHM8Mh": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "text_GGDYYH": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Inhalte der Therapie<\/strong><\/p><ul><li>Trainieren von Alltagshandlungen im Hinblick auf größtmögliche Selbstständigkeit<\/li><li>Verbesserung der Fein- und Grobmotorik<\/li><li>Biofeedback<\/li><li>Verbesserung der Gleichgewichtsfunktionen und Koordination<\/li><li>Galileo (Vibrationstraining zum Muskelaufbau)<\/li><li>(De-) Sensibilisierungstraining<\/li><li>Verbesserung von neuropsychologischen und kognitiven Fähigkeiten wie Aufmerksamkeit, Lernen und<\/li><li>Gedächtnis, Handlungsplanung, Wahrnehmung und Orientierung<\/li><li>Unterstützung der Betroffenen und Angehörigen bei der Wohnraumanpassung<\/li><li>Hilfsmittelerprobung<\/li><\/ul>"
+          }
+        },
+        "text_687LXc": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Ziele<\/strong><\/p><p>Wir vereinbaren zusammen mit dem Patienten die Behandlungsziele und passen sie dem jeweiligen Therapiestand an. Gemeinsam arbeiten wir für eine Verbesserung bzw. den Erhalt der Selbständigkeit und der Handlungskompetenz, damit Sie eine größtmögliche Lebensqualität erreichen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_a7pfF3",
+        "text_A8Q7nd",
+        "button_RHM8Mh",
+        "text_GGDYYH",
+        "text_687LXc"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collapsible_content_ncCQjE": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_cYDBMd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wer übernimmt die Kosten?",
+            "icon": "check_mark",
+            "row_content": "<p>Die Verordnung für eine ambulante Ergotherapie kann nur ein Arzt ausstellen. Pro Verordnung (Rezept) hat der Patient eine Zuzahlung in Höhe von 10 % zzgl. 10 € Rezeptgebühr zu leisten, außer er ist von Seiten der Krankenkasse von den Zuzahlungen befreit, z. B. bei einer chronischen Krankheit. Bei der Lerntherapie handelt es sich um eine Selbstzahlerleistung.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WWwaRH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wie ist der Behandlungsablauf?",
+            "icon": "check_mark",
+            "row_content": "<p>Bei uns hat jeder Patient einen Bezugstherapeuten. Nach einem sorgfältigen Aufnahmegespräch und der Befunderhebung werden Sie, und bei Bedarf Ihre Angehörigen, in die Planung der Therapie einbezogen.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_KTVKQr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_AnJcqp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_cYDBMd",
+        "collapsible_row_WWwaRH",
+        "collapsible_row_KTVKQr",
+        "collapsible_row_AnJcqp"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FRAGEN RUND UM DIE THERAPIE",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_bKMCeb"
+    "image_banner_bKMCeb",
+    "rich_text_cpjDVR",
+    "multicolumn_dhxaEk",
+    "rich_text_MFWfjg",
+    "collapsible_content_ncCQjE"
   ]
 }
