@@ -508,5 +508,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "ul li {list-style-type: circle;}"
+    ]
   }
 }
