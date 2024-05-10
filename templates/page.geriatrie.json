@@ -152,26 +152,19 @@
         "text_Um7cjA": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Wir unterstützen Sie bei<\/strong><\/p><ul><li>Selbstständigkeit in Alltagstätigkeiten<\/li><li>dem Aufbau Ihrer psychischen Stabilität<\/li><li>der Verbesserung Ihres Selbstwertgefühls bzw. Ihrer Selbsteinschätzung<\/li><li>der Überwindung von Antriebslosigkeit<\/li><li>der Stärkung Ihrer Kognitionen (u.a. Konzentration, psychische Ausdauer, selektive Aufmerksamkeit)<\/li><li>Ihrer Wiedereingliederung in Wohn- und Arbeitsbereiche<\/li><li>handwerklichen, kreativ-gestalterischen Tätigkeiten<\/li><li>Körper- und Sinneserfahrungen<\/li><li>arbeitstherapeutischen Maßnahmen<\/li><li>Angstabbau<\/li><\/ul>"
+            "text": "<p>Krankheiten im Zusammenspiel mit dem geistigen und körperlichen Abbauprozess im Alter erzeugen oft große Unsicherheiten – sowohl auf der körperlichen als auch auf der psychischen Ebene. Für Betroffene wie auch für Angehörige. Das Miteinbeziehen von Angehörigen in die Ergotherapie spielt für den Behandlungserfolg eine wichtige Rolle. Deshalb unterstützen wir Sie in Techniken, die Sie Zuhause einsetzen und zusammen mit dem Patienten üben können.<\/p><p>Wir nehmen uns Zeit. Um einen bestmöglichen Erfolg zu erzielen, gehen wir einfühlsam mit unseren Patienten um und bemühen uns, sie nachhaltig zu stärken. Dafür entwickeln wir individuelle Behandlungen und gehen gezielt auf persönlichen Bedürfnisse ein, damit sich die Lebensqualität spürbar verbessern kann.<\/p>"
           }
         },
         "text_4td9DM": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Inhalte der Therapie<\/strong><\/p><ul><li>Hirnleistungstraining<\/li><li>Förderung von Sozialkontakten und Kommunikation<\/li><li>Entspannungsverfahren, Achtsamkeitstraining<\/li><li>Hilfestellung zur Selbstfindung: Interessen, Wünsche und Bedürfnisse erkennen<\/li><li>Tagesstrukturierung und mehr<\/li><\/ul>"
-          }
-        },
-        "text_9GWM4a": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Ziele<\/strong><\/p><p>Wir arbeiten ganzheitlich und vereinbaren gemeinsam mit Ihnen die Behandlungsziele. Entdecken Sie neue Möglichkeiten und erlangen Sie verlorengegangene Fähigkeiten zurück – für eine Verbesserung Ihrer Alltags- und Lebensqualität.<\/p><p>FRAGEN RUND UM DIE THERAPIE<\/p><ul><li>1. Wer übernimmt die Kosten?<\/li><li>2. Wie ist der Behandlungsablauf?<\/li><li>3. Wie viele Therapieeinheiten bekomme ich?<\/li><li>4. Wie lange dauert eine Behandlung?<\/li><li>5. Werden auch Hausbesuche gemacht?<\/li><\/ul>"
+            "text": "<p><strong>Ziele der Ergotherapie<\/strong><\/p><p>Mit der Ergotherapie wollen wir körperliche, geistige und psychische Fähigkeiten so lange wie möglich erhalten oder teilweise sogar verbessern. Bleiben Sie oder Ihre Angehörigen so lange wie möglich aktiv und selbstständig!<\/p>"
           }
         }
       },
       "block_order": [
         "text_Um7cjA",
-        "text_4td9DM",
-        "text_9GWM4a"
+        "text_4td9DM"
       ],
       "settings": {
         "desktop_content_position": "center",
