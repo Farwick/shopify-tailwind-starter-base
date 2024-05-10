@@ -176,28 +176,6 @@
         "padding_bottom": 0
       }
     },
-    "rich_text_8J7MzJ": {
-      "type": "rich-text",
-      "blocks": {
-        "text_9GWM4a": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Ziele<\/strong><\/p><p>Das Ziel ist mehr Beweglichkeit, so dass Sie wieder flexibel und präzise greifen können.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_9GWM4a"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 0
-      }
-    },
     "multicolumn_QezHt4": {
       "type": "multicolumn",
       "blocks": {
@@ -310,7 +288,6 @@
     "rich_text_cpjDVR",
     "multicolumn_dhxaEk",
     "rich_text_MFWfjg",
-    "rich_text_8J7MzJ",
     "multicolumn_QezHt4",
     "collapsible_content_ncCQjE"
   ]
