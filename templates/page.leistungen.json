@@ -116,7 +116,7 @@
         "button_zr78kF"
       ],
       "settings": {
-        "desktop_content_position": "left",
+        "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
@@ -134,7 +134,7 @@
             "title": "Neurologie",
             "text": "<p>Die Neurologie befasst sich mit Erkrankungen des zentralen Nervensystems, z. B. Schlaganfall, Schädel-Hirn-Verletzungen, Querschnittslähmung oder Multipler Sklerose.<\/p>",
             "link_label": "weitere Informationen",
-            "link": ""
+            "link": "shopify:\/\/pages\/neurologie"
           }
         },
         "column_GjjxgG": {
@@ -144,7 +144,7 @@
             "title": "Pädiatrie",
             "text": "<p>Entwicklung und Lernen ist nicht nur bei Kindern ein höchst verflochtenes Geschehen, welches naturgemäß vielen Einflüssen unterworfen ist.<\/p>",
             "link_label": "weitere Informationen",
-            "link": ""
+            "link": "shopify:\/\/pages\/padiatrie"
           }
         },
         "column_p7XMqD": {
@@ -154,7 +154,7 @@
             "title": "Psychiatrie",
             "text": "<p>Wir arbeiten mit psychotherapeutischen und sozialpsychiatrischen Ansätzen.<\/p>",
             "link_label": "weitere Informationen",
-            "link": ""
+            "link": "shopify:\/\/pages\/psychiatrie"
           }
         },
         "column_kWG7Ap": {
@@ -164,7 +164,7 @@
             "title": "Handtherapie",
             "text": "<p>Handrehabilitation umfasst die Therapie nach Verletzungen, Operationen, kindlichen Fehlbildungen, Überlastungssyndromen und chronischen Erkrankungen der Hand.<\/p>",
             "link_label": "weitere Informationen",
-            "link": ""
+            "link": "shopify:\/\/pages\/handtherapie"
           }
         },
         "column_k6NG9x": {
@@ -174,7 +174,7 @@
             "title": "Geriatrie",
             "text": "<p>Ergotherapeutische Maßnahmen in der Geriatrie richten sich auf die Behandlung alter und chronisch kranker Menschen aus.<\/p>",
             "link_label": "weitere Informationen",
-            "link": ""
+            "link": "shopify:\/\/pages\/geriatrie"
           }
         },
         "column_QzJ4wy": {
@@ -184,7 +184,7 @@
             "title": "Orthopädie\/Rheumatologie\/ Traumatologie",
             "text": "<p>Die Zielsetzungen der ergotherapeutischen Behandlung sind auch im Bereich der Orthopädie auf das Erlangen einer größtmöglichen Selbständigkeit im Alltag, im Beruf und im sozialen Leben ausgerichtet.<\/p>",
             "link_label": "weitere Informationen",
-            "link": ""
+            "link": "shopify:\/\/pages\/orthopadie"
           }
         },
         "column_mJaRhh": {
@@ -194,7 +194,7 @@
             "title": "Neurofeedback",
             "text": "<p>Eine besondere Anwendungsform des Biofeedbacks ist das Neurofeedback, dessen Ziel es ist, elektrochemische Vorgänge im Gehirn zu trainieren und zu optimieren.<\/p>",
             "link_label": "weitere Informationen",
-            "link": ""
+            "link": "shopify:\/\/pages\/neurofeedback"
           }
         },
         "column_CUzr3w": {
@@ -204,7 +204,7 @@
             "title": "Lerntherapie",
             "text": "<p>Die integrative Lerntherapie ist eine Therapieform für Kinder und Jugendliche, die trotz ausreichender Beschulung eine Lern-Leistungsstörung entwickelt haben.<\/p>",
             "link_label": "weitere Informationen",
-            "link": ""
+            "link": "shopify:\/\/pages\/lerntherapie"
           }
         },
         "column_HAXCBm": {
@@ -213,7 +213,7 @@
             "image": "shopify:\/\/shop_images\/vorschau_info.jpg",
             "title": "Informationen",
             "text": "<p>In der modernen Medizin gibt es zunehmend neue Informationen und Kenntnisse über verschiedenste Themen die Ihre Gesundheit und deren Wiederherstellung betreffen. Bleiben Sie mit uns auf dem neuesten Stand.<\/p>",
-            "link_label": "weitere Informationen",
+            "link_label": "",
             "link": ""
           }
         }
