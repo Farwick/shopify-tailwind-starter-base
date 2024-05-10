@@ -14,7 +14,7 @@
         "heading_gnWFqQ": {
           "type": "heading",
           "settings": {
-            "heading": "Handtherapie",
+            "heading": "Orthopädie \/ Rheumatologie \/ Traumatologie",
             "heading_size": "h1"
           }
         },
@@ -62,14 +62,14 @@
         "heading_PTwHde": {
           "type": "heading",
           "settings": {
-            "heading": "Den Alltag wieder im Griff",
+            "heading": "Mehr Beweglichkeit bei Störungen des Bewegungsapparates.",
             "heading_size": "h1"
           }
         },
         "text_YrMhp7": {
           "type": "text",
           "settings": {
-            "text": "<p>Schmerzfrei tasten, greifen und halten! Mit einer Handtherapie wird die Mobilität Ihrer funktionsgestörten Hand verbessert und ihre Beweglichkeit gefördert. So sind Sie wieder fit für den Alltag.<\/p>"
+            "text": "<p>Erhalt, Verbesserung und Wiederherstellung von körperlichen Funktionen.<\/p>"
           }
         },
         "button_cCCqMV": {
@@ -104,7 +104,7 @@
         "column_FgjBpq": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Handtherapie_content.jpg",
+            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Orthopaedie_content.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -129,7 +129,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "rich_text_MFWfjg": {
@@ -138,26 +138,26 @@
         "heading_a7pfF3": {
           "type": "heading",
           "settings": {
-            "heading": "Die Hand ist das wichtigste Werkzeug des Menschen.",
+            "heading": "Schmerzen lindern und Selbstständigkeit steigern.",
             "heading_size": "h1"
           }
         },
         "text_A8Q7nd": {
           "type": "text",
           "settings": {
-            "text": "<p>Das Zusammenspiel aus Beweglichkeit und Gefühl machen die Hand zu einem universellen Werkzeug. Ist ihre Funktion gestört, werden selbst die kleinsten Dinge im Alltag zum Problem.<\/p><p>Hier kann die Handtherapie helfen – sie trainiert und behandelt die geschädigte Hand und hilft, ihre Mobilität zu verbessern oder wiederherzustellen.<\/p>"
+            "text": "<p>Haben Sie angeborene oder erworbene Störungen des Stütz- und Bewegungsapparates, der Knochen, Gelenke, Muskeln und Sehnen? Die Verbindung von Ergotherapie und Orthopädie bietet Ihnen vielfältige Möglichkeiten.<\/p><p>Mit einer Kombination von verschiedenen aktiven und passiven Behandlungsmethoden oder auch einem Umtrainieren können wir Ihnen helfen.<\/p><p>Die ergotherapeutische Behandlung im Bereich der Orthopädie basiert hauptsächlich auf motorisch-funktionellem Training. Dies sind spezielle Bewegungsübungen zum Muskelaufbau und zum Training der Ausdauer, damit Sie alltägliche Aufgaben wie z. B. putzen und spülen wieder erledigen können.<\/p><p>Körperliche Folgen Ihrer Krankheit werden durch unsere ergotherapeutischen Maßnahmen gemildert und vorhandene Fähigkeiten gestärkt!<\/p>"
           }
         },
         "text_GGDYYH": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Wem kann Handtherapie helfen?<\/strong><\/p><ul><li>Unfallverletzten Handpatienten (Frakturen, Quetschungen, Schnittverletzungen, Kapselverletzungen)<\/li><li>Frisch operierten Handpatienten (bei Mb. Dupuytren, Amputationen, Karpaltunnelsyndrom)<\/li><li>Chronisch Kranken (Erkrankungen aus dem rheumatoiden Formenkreis, Arthrose, Sehnenscheidenentzündungen)<\/li><li>Verbrennungspatienten<\/li><li>Sportverletzten (z. B. Tennis-, Golferellenbogen, Stauchungen)<\/li><li>Schmerzpatienten (z. B. CRPS I+II\/Mb. Sudeck)<\/li><\/ul>"
+            "text": "<p><strong>Typische Anwendungsgebiete<\/strong><\/p><ul><li>Erkrankungen des rheumatischen Formenkreises<\/li><li>traumatische und degenerative Störungen der Wirbelsäule, der oberen und unteren Extremitäten<\/li><li>Dysmelien<\/li><li>Amputationen<\/li><li>Fehlbildungen oder Abnutzungserscheinungen<\/li><\/ul>"
           }
         },
         "text_EiyVyH": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Inhalte der Therapie<\/strong><\/p><ul><li>Frühmobilisierung, postoperative Behandlung nach Beuge- und Strecksehnenverletzungen, Frakturen, Amputationen, Quetschungen, Verbrennungen, etc.<\/li><li>Narbenbehandlung<\/li><li>manuelle Therapie<\/li><li>Taping von z. B. Schulter, Arm, Hand etc.<\/li><li>Elektrobehandlung TENS\/EMS<\/li><li>Gelenkschutzunterweisung<\/li><li>Hilfsmittelversorgung<\/li><li>thermische Anwendung\/Paraffin<\/li><\/ul>"
+            "text": "<p><strong>Inhalte der Therapie<\/strong><\/p><p>In der Ergotherapie lernen Sie, Ihre Kräfte optimal zu nutzen und durch veränderte Verhaltensweisen und Abläufe eine bleibende Behinderung auszugleichen. Wir arbeiten dabei auch mit speziellen Hilfsmitteln.<\/p><ul><li>Verbesserung oder Erhalt der Beweglichkeit, Muskelkraft, Ausdauer<\/li><li>Verhinderung von Kontrakturen und Schonhaltung<\/li><li>Wohnraumanpassung\/Hilfsmittelversorgung<\/li><li>Verbesserung der Feinmotorik, Koordination und Geschicklichkeit<\/li><li>Stimulierung der Sensibilität<\/li><li>Schmerzlinderung<\/li><li>Umtrainieren der Gebrauchshand<\/li><\/ul>"
           }
         }
       },
@@ -176,38 +176,26 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_QezHt4": {
-      "type": "multicolumn",
+    "rich_text_rLk7VH": {
+      "type": "rich-text",
       "blocks": {
-        "column_Dnx86m": {
-          "type": "column",
+        "text_kbTtCF": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/afh_49eedd3a-0c22-4edb-8050-988c589762c8.png",
-            "title": "Akademie für Handtherapie",
-            "text": "<p>Durch die Zertifizierung der AfH Akademie für Handtherapie erhalten Sie in besonderem Maße eine qualifizierte Behandlung.<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p><strong>Ziele<\/strong><\/p><p>Wir vereinbaren gemeinsam die genauen Behandlungsziele. Erreichen Sie ein Maximum an Lebensqualität und eine größtmögliche Selbstständigkeit in Ihrem beruflichen, häuslichen und sozialen Alltag.<\/p>"
           }
         }
       },
       "block_order": [
-        "column_Dnx86m"
+        "text_kbTtCF"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
+        "desktop_content_position": "center",
+        "content_alignment": "left",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 20
       }
     },
     "collapsible_content_ncCQjE": {
@@ -288,7 +276,7 @@
     "rich_text_cpjDVR",
     "multicolumn_dhxaEk",
     "rich_text_MFWfjg",
-    "multicolumn_QezHt4",
+    "rich_text_rLk7VH",
     "collapsible_content_ncCQjE"
   ]
 }
