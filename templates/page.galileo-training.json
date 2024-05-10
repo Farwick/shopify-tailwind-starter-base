@@ -1,0 +1,246 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_bKMCeb": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_gnWFqQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Geriatrie",
+            "heading_size": "h1"
+          }
+        },
+        "text_Bg4fN6": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_eNBgmg": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_gnWFqQ",
+        "text_Bg4fN6",
+        "buttons_eNBgmg"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Handtherapie_header_icon_5adf263c-a354-415e-b04b-49be2fa4d281.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_cpjDVR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PTwHde": {
+          "type": "heading",
+          "settings": {
+            "heading": "Psychisches Wohlbefinden und Selbständigkeit erhalten.",
+            "heading_size": "h1"
+          }
+        },
+        "text_YrMhp7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Leiden Sie oder einer Ihrer Angehörigen unter altersbedingten Beschwerden, die die selbstständige Lebensführung beeinträchtigen? Dass gesundheitliche Probleme aufgrund des natürlichen Alterungsprozesses entstehen, ist Teil des Lebens – gerade hier leistet geriatrische Ergotherapie wertvolle Hilfe. Mit unseren Maßnahmen gehen wir auf altersspezifische Besonderheiten ein, damit Sie weiter Freude am Leben haben.<\/p>"
+          }
+        },
+        "text_r3WKK7": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Typische Anwendungsgebiete<\/strong><\/p><ul><li>Behandlung unterschiedlicher Formen der Demenz<\/li><li>Morbus Parkinson<\/li><li>Depression<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PTwHde",
+        "text_YrMhp7",
+        "text_r3WKK7"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_MFWfjg": {
+      "type": "rich-text",
+      "blocks": {
+        "button_RHM8Mh": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "text_GGDYYH": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Inhalte der Therapie<\/strong><\/p><p>Um Ihre größtmögliche Selbstständigkeit zu erhalten, nutzen wir verschiedene Mittel und Methoden, beispielsweise unterschiedliche Aktivitäten, künstlerische und kreative Techniken, Spiele und Sport. Wir setzen mit Ihnen zuammen Ziele, die für Sie persönlich wichtig sind, damit Sie sich wieder sicherer und stabiler fühlen. In der Ergotherapie lernen Sie, Ihre Kräfte optimal zu nutzen. Wir unterstützen und fördern Ihre geistigen und emotionale Kompetenzen. Dass gesundheitliche Probleme aufgrund des natürlichen Alterungsprozesses entstehen, ist Teil des Lebens – gerade hier leistet geriatrische Ergotherapie wertvolle Hilfe. Mit unseren Maßnahmen gehen wir auf altersspezifische Besonderheiten ein, damit Sie weiter Freude am Leben haben.<\/p>"
+          }
+        },
+        "text_687LXc": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Biographiearbeit<\/li><li>Erinnerungspflege<\/li><li>Wahrnehmungsförderung<\/li><li>Mobilitätstraining<\/li><li>Angehörigenarbeit<\/li><li>Hilfsmittelversorgung und -training<\/li><li>Hirnleistungstraining<\/li><li>Training der Alltagskompetenzen<\/li><li>Sturzprophylaxe<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "button_RHM8Mh",
+        "text_GGDYYH",
+        "text_687LXc"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_8J7MzJ": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Um7cjA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Krankheiten im Zusammenspiel mit dem geistigen und körperlichen Abbauprozess im Alter erzeugen oft große Unsicherheiten – sowohl auf der körperlichen als auch auf der psychischen Ebene. Für Betroffene wie auch für Angehörige. Das Miteinbeziehen von Angehörigen in die Ergotherapie spielt für den Behandlungserfolg eine wichtige Rolle. Deshalb unterstützen wir Sie in Techniken, die Sie Zuhause einsetzen und zusammen mit dem Patienten üben können.<\/p><p>Wir nehmen uns Zeit. Um einen bestmöglichen Erfolg zu erzielen, gehen wir einfühlsam mit unseren Patienten um und bemühen uns, sie nachhaltig zu stärken. Dafür entwickeln wir individuelle Behandlungen und gehen gezielt auf persönlichen Bedürfnisse ein, damit sich die Lebensqualität spürbar verbessern kann.<\/p>"
+          }
+        },
+        "text_4td9DM": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Ziele der Ergotherapie<\/strong><\/p><p>Mit der Ergotherapie wollen wir körperliche, geistige und psychische Fähigkeiten so lange wie möglich erhalten oder teilweise sogar verbessern. Bleiben Sie oder Ihre Angehörigen so lange wie möglich aktiv und selbstständig!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_Um7cjA",
+        "text_4td9DM"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collapsible_content_ncCQjE": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_cYDBMd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wer übernimmt die Kosten?",
+            "icon": "check_mark",
+            "row_content": "<p>Die Verordnung für eine ambulante Ergotherapie kann nur ein Arzt ausstellen. Pro Verordnung (Rezept) hat der Patient eine Zuzahlung in Höhe von 10 % zzgl. 10 € Rezeptgebühr zu leisten, außer er ist von Seiten der Krankenkasse von den Zuzahlungen befreit, z. B. bei einer chronischen Krankheit. Bei der Lerntherapie handelt es sich um eine Selbstzahlerleistung.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WWwaRH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wie ist der Behandlungsablauf?",
+            "icon": "check_mark",
+            "row_content": "<p>Bei uns hat jeder Patient einen Bezugstherapeuten. Nach einem sorgfältigen Aufnahmegespräch und der Befunderhebung werden Sie, und bei Bedarf Ihre Angehörigen, in die Planung der Therapie einbezogen.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_KTVKQr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wie viele Therapieeinheiten bekomme ich?",
+            "icon": "check_mark",
+            "row_content": "<p>Der Arzt entscheidet über die Anzahl Ihrer Behandlungseinheiten. Pro Rezept können im Regelfall maximal 10 Behandlungseinheiten verordnet werden. Eine mögliche Weiterbehandlung und deren Umfang legt der Arzt fest.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_AnJcqp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Wie lange dauert eine Behandlung?",
+            "icon": "check_mark",
+            "row_content": "<p>Eine Therapieeinheit dauert je nach Verordnung zwischen 30 und 60 Minuten. Die Häufigkeit der Behandlungstermine ist ebenfalls abhängig von der Verordnung des Arztes.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_cXgXqP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Werden Hausbesuche gemacht?",
+            "icon": "check_mark",
+            "row_content": "<p>Grundsätzlich bieten wir die Behandlung (bei medizinischer Notwendigkeit) auch als Hausbesuch an, wenn sie entweder ärztlich verordnet oder vertraglich vereinbart ist.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_cYDBMd",
+        "collapsible_row_WWwaRH",
+        "collapsible_row_KTVKQr",
+        "collapsible_row_AnJcqp",
+        "collapsible_row_cXgXqP"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FRAGEN RUND UM DIE THERAPIE",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_bKMCeb",
+    "rich_text_cpjDVR",
+    "rich_text_MFWfjg",
+    "rich_text_8J7MzJ",
+    "collapsible_content_ncCQjE"
+  ]
+}
