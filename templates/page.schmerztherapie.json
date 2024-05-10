@@ -14,7 +14,7 @@
         "heading_gnWFqQ": {
           "type": "heading",
           "settings": {
-            "heading": "Galileo-Training",
+            "heading": "Schmerztherapie",
             "heading_size": "h1"
           }
         },
@@ -62,19 +62,12 @@
         "text_YrMhp7": {
           "type": "text",
           "settings": {
-            "text": "<p>Das Galileo ist ein Vibrationstrainingsgerät, dass auf dem natürlichen Bewegungsablauf des Menschen beim Gehen beruht. Aufgrund der seitenalternierenden Bewegungsform, wie eine Wippe, wird ein Bewegungsmuster ähnlich dem menschlichen Gang simuliert. Die schnelle Wipp-Bewegung des Galileo verursacht eine Kipp Bewegung des Beckens und der Körper reagiert mit rhythmischen Muskelkontraktionen im Wechsel zwischen rechter und linker Körperhälfte . Diese Muskelkontraktionen sind dann reflexgesteuert und nicht willentlich. Die Muskeln von den Beinen bis zum Rumpf werden dadurch aktiviert. Auch die Koordination einzelner Muskelpartien kann trainieret werden.<\/p>"
-          }
-        },
-        "text_r3WKK7": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Typische Anwendungsgebiete<\/strong><\/p><ul><li>Muskelverspannungen<\/li><li>Aufbau von Muskulatur<\/li><li>Neurologische Erkrankungen wie Multipler Sklerose, Apoplex und Parkinson<\/li><li>Beckenbodentraining<\/li><li>Gangtraining<\/li><\/ul>"
+            "text": "<p>Die Zahl der Schmerzpatienten, die sich neben der ärztlichen Behandlung professionelle Hilfe bei Ergotherapeuten suchen, nimmt stark zu. Patienten mit chronischen Schmerzen haben nicht nur körperliche Symptome, sie leiden auch unter psychischen und sozialen Auswirkungen. In der Schmerztherapie geht es neben klassischen Behandlungsmethoden wie der manuellen Therapie und der medizinischen Trainingstherapie um ganzheitliche Behandlungstechniken wie Fußreflexzonenmassage, Faszientechniken, GOT Techniken (General Osteopathic Treatment) und Behandlungsverfahren aus der Traditionellen Chinesischen Medizin. Es wird eine systematische Anamnese durchgeführt und ist die Basis einer individuell auf den Schmerzpatienten abgestimmten Therapieplanung.<\/p>"
           }
         }
       },
       "block_order": [
-        "text_YrMhp7",
-        "text_r3WKK7"
+        "text_YrMhp7"
       ],
       "settings": {
         "desktop_content_position": "center",
