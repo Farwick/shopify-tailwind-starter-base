@@ -14,7 +14,7 @@
         "heading_gnWFqQ": {
           "type": "heading",
           "settings": {
-            "heading": "Pädiatrie",
+            "heading": "Psychiatrie",
             "heading_size": "h1"
           }
         },
@@ -43,7 +43,7 @@
         "buttons_eNBgmg"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Neurologie_header_icon_c264f13c-fd56-40dc-8b0d-f06682f821b9.jpg",
+        "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Psychiatrie_header_icon_d82f0eb8-f18c-4ddf-91d7-c265e3b3a3ae.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -62,14 +62,14 @@
         "heading_PTwHde": {
           "type": "heading",
           "settings": {
-            "heading": "Gezielte Hilfe und Unterstützung für Kinder und Jugendliche.",
+            "heading": "Entdecken Sie Ihre Potentiale neu.",
             "heading_size": "h1"
           }
         },
         "text_YrMhp7": {
           "type": "text",
           "settings": {
-            "text": "<p>Besonders Kinder sind in ihrem Alltag permanent neuen Herausforderungen ausgesetzt und müssen lernen, sich immer wieder neu anzupassen und weiterzuentwickeln.<\/p><p>Die Pädiatrie in der Ergotherapie umfasst die Behandlung von Kindern und Jugendlichen, die Beeinträchtigungen und Entwicklungsverzögerungen im motorischen, sensorischen und im kognitiven Bereich zeigen.<\/p>"
+            "text": "<p>Ergotherapie im Bereich der Psychiatrie und Psychosomatik hilft Ihnen, Ihre Wahrnehmung, Ihr Selbstvertrauen und Ihre Lebenskraft zu stärken.<\/p>"
           }
         },
         "button_cCCqMV": {
@@ -104,7 +104,7 @@
         "column_FgjBpq": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Paediatrie_content.jpg",
+            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Psychiatrie_content.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -138,14 +138,14 @@
         "heading_a7pfF3": {
           "type": "heading",
           "settings": {
-            "heading": "Alltägliches im Kinderalltag unterstützen.",
+            "heading": "Körperliche, seelische, soziale und kognitive Fähigkeiten fördern.",
             "heading_size": "h1"
           }
         },
         "text_A8Q7nd": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Wann ist Ergotherapie sinnvoll?<\/strong><\/p><p>Behandelt werden Kinder und Jugendliche mit<\/p><ul><li>Probleme in der Feinmotorik<\/li><li>Störungen des Bewegungsapparates\/der Motorik<\/li><li>Probleme in der Feinmotorik oder Stifthaltung<\/li><li>körperlichen, geistigen und seelischen Entwicklungsrückständen<\/li><li>Verhaltensstörungen (Angst, Abwehr, Hyperaktivität…)<\/li><li>Konzentrationsproblemen<\/li><\/ul><p>Unter Berücksichtigung des aktuellen Entwicklungsstandes wird das Kind ganzheitlich in seinem sozialen und familiären Umfeld nach verschiedenen Therapiekonzepten behandelt. Hierbei ist die Elternarbeit sowie die direkte Übertragung in den Alltag eine wichtige Voraussetzung, um langfristige Therapieerfolge erzielen zu können.<\/p>"
+            "text": "<p>Viele Menschen leiden an einer Depression, an Antriebslosigkeit oder unter Ängsten. Körperliche und psychische Aspekte, schwierige Lebenssituationen oder akuter Stress können die Ursachen sein. Ein Gedankenkarussell aus Grübeleien und Ängsten entsteht – betroffene Menschen sind oft nicht mehr in der Lage, positiv zu denken oder ihre Situation mit Abstand zu betrachten. Die Ergotherapie in der Psychiatrie unterbricht diese Muster und führt zu neuem Denken.<\/p>"
           }
         },
         "button_RHM8Mh": {
@@ -162,13 +162,13 @@
         "text_GGDYYH": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Inhalte der Therapie<\/strong><\/p><ul><li>Entwicklung und Verbesserung von Motorik, Koordination, Gleichgewicht, Körpereigenwahrnehmung, Tonusregulation<\/li><li>Entwicklung und Verbesserung fein- und graphomotorischer Koordination<\/li><li>Vermeidung von Folgeschäden und Entwicklungsverzögerungen<\/li><li>Verbesserung der kognitiven Leistungen (Konzentration, Ausdauer, Gedächtnisleistung, Handlungsplanung…)<\/li><li>Verbesserung der Verarbeitung von Sinneswahrnehmung<\/li><\/ul>"
+            "text": "<p><strong>Raus aus dem Tief!<\/strong><\/p><p>Die Ergotherapie im Bereich der Psychiatrie fördert eine positive Selbstwahrnehmung und hilft Ihnen, sich selbst entspannter zu betrachten und zu akzeptieren. Erfolgserlebnisse, auf die Sie aufbauen können!<\/p>"
           }
         },
         "text_687LXc": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Ziele<\/strong><\/p><p>Wir vereinbaren gemeinsam die genauen Behandlungsziele. Das Kind soll eine größtmögliche Selbstständigkeit im Alltag, in der Schule und im sozialen Umfeld erreichen. Die Ergotherapie begleitet die Kinder auf ihrem Weg zu einem selbstständigen und handlungsfähigen Menschen und setzt gezielt in den Bereichen an, in welchen die Kinder Unterstützung und Hilfe benötigen.<\/p>"
+            "text": "<p><strong>Entdecken Sie Ihre Fähigkeiten und Stärken.<\/strong><\/p><p>In der Therapie fördern wir die Alltagskompetenz und unterstützen bei der Lebensplanung. Sie arbeiten mit verschiedenen Materialien unter Anleitung, aber auch ganz kreativ und frei.<\/p>"
           }
         }
       },
@@ -178,6 +178,42 @@
         "button_RHM8Mh",
         "text_GGDYYH",
         "text_687LXc"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_8J7MzJ": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Um7cjA": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Wir unterstützen Sie bei<\/strong><\/p><ul><li>Selbstständigkeit in Alltagstätigkeiten<\/li><li>dem Aufbau Ihrer psychischen Stabilität<\/li><li>der Verbesserung Ihres Selbstwertgefühls bzw. Ihrer Selbsteinschätzung<\/li><li>der Überwindung von Antriebslosigkeit<\/li><li>der Stärkung Ihrer Kognitionen (u.a. Konzentration, psychische Ausdauer, selektive Aufmerksamkeit)<\/li><li>Ihrer Wiedereingliederung in Wohn- und Arbeitsbereiche<\/li><li>handwerklichen, kreativ-gestalterischen Tätigkeiten<\/li><li>Körper- und Sinneserfahrungen<\/li><li>arbeitstherapeutischen Maßnahmen<\/li><li>Angstabbau<\/li><\/ul>"
+          }
+        },
+        "text_4td9DM": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Inhalte der Therapie<\/strong><\/p><ul><li>Hirnleistungstraining<\/li><li>Förderung von Sozialkontakten und Kommunikation<\/li><li>Entspannungsverfahren, Achtsamkeitstraining<\/li><li>Hilfestellung zur Selbstfindung: Interessen, Wünsche und Bedürfnisse erkennen<\/li><li>Tagesstrukturierung und mehr<\/li><\/ul>"
+          }
+        },
+        "text_9GWM4a": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Ziele<\/strong><\/p><p>Wir arbeiten ganzheitlich und vereinbaren gemeinsam mit Ihnen die Behandlungsziele. Entdecken Sie neue Möglichkeiten und erlangen Sie verlorengegangene Fähigkeiten zurück – für eine Verbesserung Ihrer Alltags- und Lebensqualität.<\/p><p>FRAGEN RUND UM DIE THERAPIE<\/p><ul><li>1. Wer übernimmt die Kosten?<\/li><li>2. Wie ist der Behandlungsablauf?<\/li><li>3. Wie viele Therapieeinheiten bekomme ich?<\/li><li>4. Wie lange dauert eine Behandlung?<\/li><li>5. Werden auch Hausbesuche gemacht?<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "text_Um7cjA",
+        "text_4td9DM",
+        "text_9GWM4a"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -266,6 +302,7 @@
     "rich_text_cpjDVR",
     "multicolumn_dhxaEk",
     "rich_text_MFWfjg",
+    "rich_text_8J7MzJ",
     "collapsible_content_ncCQjE"
   ]
 }
