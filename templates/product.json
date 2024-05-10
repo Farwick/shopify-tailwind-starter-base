@@ -11,7 +11,9 @@
           }
         },
         "title": {
-          "type": "title"
+          "type": "title",
+          "settings": {
+          }
         },
         "caption": {
           "type": "text",
@@ -21,67 +23,27 @@
           }
         },
         "price": {
-          "type": "price"
+          "type": "price",
+          "settings": {
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "button",
+            "swatch_shape": "circle"
           }
         },
         "quantity_selector": {
-          "type": "quantity_selector"
+          "type": "quantity_selector",
+          "settings": {
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
-          }
-        },
-        "description": {
-          "type": "description"
-        },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Materials",
-            "icon": "leather",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Shipping & Returns",
-            "icon": "truck",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Care Instructions",
-            "icon": "heart",
-            "content": "",
-            "page": ""
-          }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
           }
         }
       },
@@ -92,19 +54,17 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
-        "description",
-        "collapsible-row-0",
-        "collapsible-row-1",
-        "collapsible-row-2",
-        "collapsible-row-3",
-        "share"
+        "buy_buttons"
       ],
       "settings": {
         "enable_sticky_info": true,
-        "gallery_layout": "stacked",
+        "color_scheme": "",
         "media_size": "large",
         "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "media_position": "left",
+        "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
@@ -112,82 +72,84 @@
         "padding_bottom": 12
       }
     },
-    "image-with-text": {
-      "type": "image-with-text",
+    "rich_text_c9JNBd": {
+      "type": "rich-text",
       "blocks": {
-        "image-with-text-0": {
+        "heading_phj63f": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Marburger Konzentrationstraining - MKT",
             "heading_size": "h1"
           }
         },
-        "image-with-text-1": {
+        "text_cHtzhq": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "image-with-text-0",
-        "image-with-text-1"
-      ],
-      "settings": {
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "scheme-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p><strong>Aufgaben und Anforderungen einfacher bewältigen.<\/strong><\/p><p>Hat Ihr Kind Schwierigkeiten sich einer Sache gezielt zuzuwenden, dabei zu bleiben, Unwichtiges auszublenden oder Aufgaben in einer angemessenen Zeit zu bearbeiten? In der Regel „verwächst“ sich ein unkonzentriertes Verhalten nicht, vielmehr haben diese Kinder ein vermehrtes Risiko in der Schule zu scheitern. Leistungsprobleme entstehen, aus denen sich häufig Verhaltensauffälligkeiten und schwaches Selbstbewusstsein entwickeln.<\/p>"
           }
         },
-        "column-1": {
-          "type": "column",
+        "text_gfMMnK": {
+          "type": "text",
           "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p><strong>Wann ist MKT sinnvoll?<\/strong><\/p><p>Das MKT ist für Kinder gedacht,<\/p><ul><li>die sich wenig zutrauen.<\/li><li>die Aufmerksamkeitsdefizite in der Schule zeigen.<\/li><li>die sehr viel Zuwendung brauchen.<\/li><li>die Defizite in einem oder mehreren Bereichen haben. (Wahrnehmung, Sprache, Konzentration, Motorik, Leistungsmotivation...)<\/li><li>die Anzeichen einer beginnenden Aufmerksamkeitsstörung wie z. B. AD(H)S haben.<\/li><\/ul>"
+          }
+        },
+        "text_ipwGzL": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Aufbau<\/strong><\/p><p>Die Trainingseinheiten sind immer gleich aufgebaut – zusätzlich gibt es Übungen für Zuhause und begleitende Elternabende.<\/p>"
           }
         }
       },
       "block_order": [
-        "column-0",
-        "column-1"
+        "heading_phj63f",
+        "text_cHtzhq",
+        "text_gfMMnK",
+        "text_ipwGzL"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false,
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_ChB3Rz": {
+      "type": "rich-text",
+      "blocks": {
+        "text_RVnTqk": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Inhalte<\/strong><\/p><p>Übungen zum Entspannen und Ruhigwerden (wie z. B. Autogenes Training), verbale Selbstinstruktion, Förderung der Feinmotorik, Kim Spiele, Denk- und Erzählspiele sowie Gruppenspiele. Außerdem werden grundlegende Arbeitstechniken für den Schul- und Hausaufgabenalltag vermittelt.<\/p>"
+          }
+        },
+        "text_LmQDzJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Ziele<\/strong><\/p><p>Durch eine positive Verstärkung erreichen wir Verhaltungsmodifikationen. Das verbessert die Selbsteinschätzung und die Selbstkontrolle Ihres Kindes nachhaltig. Das Lernen macht wieder Spaß.<\/p>"
+          }
+        },
+        "text_HJmfFW": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Termine<\/strong><\/p><ul><li>15.01.2024-11.03.2024, 1. + 2. Klasse, Montag 16.30 Uhr, 8 x 60 Minuten + Elternabend am 23.01.2024 um 18.30 Uhr<\/li><li>17.01.2024-22.03.2024, 3. + 4. Klasse, Mittwoch 17.00 Uhr, 8 x 60 Minuten + Elternabend am 23.01.2024 um 18.30 Uhr<\/li><li>15.04.2024-10.06.2024, 1. + 2. Klasse, Montag 16.30 Uhr, 8 x 60 Minuten + Elternabend am 23.04.2024 um 18.30 Uhr<\/li><li>17.04.2024-12.06.2024, 3. + 4. Klasse, Mittwoch 17.00 Uhr, 8 x 60 Minuten + Elternabend am 23.04.2024 um 18.30 Uhr<\/li><li>28.10.2024-16.12.2024, 1. + 2. Klasse, Montag 16.30 Uhr, 8 x 60 Minuten + Elternabend am 05. 11.2024 um 18.30 Uhr<\/li><li>30.10.2024-18.12.2024, 3. + 4. Klasse, Mittwoch 17.00 Uhr, 8 x 60 Minuten + Elternabend am 05.11.2024 um 18.30 Uhr<\/li><\/ul><p><\/p><p>Haben Sie noch Fragen? Rufen Sie uns gerne an.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_RVnTqk",
+        "text_LmQDzJ",
+        "text_HJmfFW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 52
       }
     },
     "related-products": {
@@ -195,9 +157,11 @@
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
+        "products_to_show": 4,
         "columns_desktop": 4,
         "color_scheme": "scheme-1",
         "image_ratio": "square",
+        "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
@@ -209,8 +173,8 @@
   },
   "order": [
     "main",
-    "image-with-text",
-    "multicolumn",
+    "rich_text_c9JNBd",
+    "rich_text_ChB3Rz",
     "related-products"
   ]
 }
