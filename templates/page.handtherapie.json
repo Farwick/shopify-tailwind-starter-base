@@ -62,14 +62,14 @@
         "heading_PTwHde": {
           "type": "heading",
           "settings": {
-            "heading": "Entdecken Sie Ihre Potentiale neu.",
+            "heading": "Den Alltag wieder im Griff",
             "heading_size": "h1"
           }
         },
         "text_YrMhp7": {
           "type": "text",
           "settings": {
-            "text": "<p>Ergotherapie im Bereich der Psychiatrie und Psychosomatik hilft Ihnen, Ihre Wahrnehmung, Ihr Selbstvertrauen und Ihre Lebenskraft zu stärken.<\/p>"
+            "text": "<p>Schmerzfrei tasten, greifen und halten! Mit einer Handtherapie wird die Mobilität Ihrer funktionsgestörten Hand verbessert und ihre Beweglichkeit gefördert. So sind Sie wieder fit für den Alltag.<\/p>"
           }
         },
         "button_cCCqMV": {
@@ -104,7 +104,7 @@
         "column_FgjBpq": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Psychiatrie_content.jpg",
+            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Handtherapie_content.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -138,46 +138,34 @@
         "heading_a7pfF3": {
           "type": "heading",
           "settings": {
-            "heading": "Körperliche, seelische, soziale und kognitive Fähigkeiten fördern.",
+            "heading": "Die Hand ist das wichtigste Werkzeug des Menschen.",
             "heading_size": "h1"
           }
         },
         "text_A8Q7nd": {
           "type": "text",
           "settings": {
-            "text": "<p>Viele Menschen leiden an einer Depression, an Antriebslosigkeit oder unter Ängsten. Körperliche und psychische Aspekte, schwierige Lebenssituationen oder akuter Stress können die Ursachen sein. Ein Gedankenkarussell aus Grübeleien und Ängsten entsteht – betroffene Menschen sind oft nicht mehr in der Lage, positiv zu denken oder ihre Situation mit Abstand zu betrachten. Die Ergotherapie in der Psychiatrie unterbricht diese Muster und führt zu neuem Denken.<\/p>"
-          }
-        },
-        "button_RHM8Mh": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Das Zusammenspiel aus Beweglichkeit und Gefühl machen die Hand zu einem universellen Werkzeug. Ist ihre Funktion gestört, werden selbst die kleinsten Dinge im Alltag zum Problem.<\/p><p>Hier kann die Handtherapie helfen – sie trainiert und behandelt die geschädigte Hand und hilft, ihre Mobilität zu verbessern oder wiederherzustellen.<\/p>"
           }
         },
         "text_GGDYYH": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Raus aus dem Tief!<\/strong><\/p><p>Die Ergotherapie im Bereich der Psychiatrie fördert eine positive Selbstwahrnehmung und hilft Ihnen, sich selbst entspannter zu betrachten und zu akzeptieren. Erfolgserlebnisse, auf die Sie aufbauen können!<\/p>"
+            "text": "<p><strong>Wem kann Handtherapie helfen?<\/strong><\/p><ul><li>Unfallverletzten Handpatienten (Frakturen, Quetschungen, Schnittverletzungen, Kapselverletzungen)<\/li><li>Frisch operierten Handpatienten (bei Mb. Dupuytren, Amputationen, Karpaltunnelsyndrom)<\/li><li>Chronisch Kranken (Erkrankungen aus dem rheumatoiden Formenkreis, Arthrose, Sehnenscheidenentzündungen)<\/li><li>Verbrennungspatienten<\/li><li>Sportverletzten (z. B. Tennis-, Golferellenbogen, Stauchungen)<\/li><li>Schmerzpatienten (z. B. CRPS I+II\/Mb. Sudeck)<\/li><\/ul>"
           }
         },
-        "text_687LXc": {
+        "text_EiyVyH": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Entdecken Sie Ihre Fähigkeiten und Stärken.<\/strong><\/p><p>In der Therapie fördern wir die Alltagskompetenz und unterstützen bei der Lebensplanung. Sie arbeiten mit verschiedenen Materialien unter Anleitung, aber auch ganz kreativ und frei.<\/p>"
+            "text": "<p><strong>Inhalte der Therapie<\/strong><\/p><ul><li>Frühmobilisierung, postoperative Behandlung nach Beuge- und Strecksehnenverletzungen, Frakturen, Amputationen, Quetschungen, Verbrennungen, etc.<\/li><li>Narbenbehandlung<\/li><li>manuelle Therapie<\/li><li>Taping von z. B. Schulter, Arm, Hand etc.<\/li><li>Elektrobehandlung TENS\/EMS<\/li><li>Gelenkschutzunterweisung<\/li><li>Hilfsmittelversorgung<\/li><li>thermische Anwendung\/Paraffin<\/li><\/ul>"
           }
         }
       },
       "block_order": [
         "heading_a7pfF3",
         "text_A8Q7nd",
-        "button_RHM8Mh",
         "text_GGDYYH",
-        "text_687LXc"
+        "text_EiyVyH"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -191,28 +179,14 @@
     "rich_text_8J7MzJ": {
       "type": "rich-text",
       "blocks": {
-        "text_Um7cjA": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Wir unterstützen Sie bei<\/strong><\/p><ul><li>Selbstständigkeit in Alltagstätigkeiten<\/li><li>dem Aufbau Ihrer psychischen Stabilität<\/li><li>der Verbesserung Ihres Selbstwertgefühls bzw. Ihrer Selbsteinschätzung<\/li><li>der Überwindung von Antriebslosigkeit<\/li><li>der Stärkung Ihrer Kognitionen (u.a. Konzentration, psychische Ausdauer, selektive Aufmerksamkeit)<\/li><li>Ihrer Wiedereingliederung in Wohn- und Arbeitsbereiche<\/li><li>handwerklichen, kreativ-gestalterischen Tätigkeiten<\/li><li>Körper- und Sinneserfahrungen<\/li><li>arbeitstherapeutischen Maßnahmen<\/li><li>Angstabbau<\/li><\/ul>"
-          }
-        },
-        "text_4td9DM": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Inhalte der Therapie<\/strong><\/p><ul><li>Hirnleistungstraining<\/li><li>Förderung von Sozialkontakten und Kommunikation<\/li><li>Entspannungsverfahren, Achtsamkeitstraining<\/li><li>Hilfestellung zur Selbstfindung: Interessen, Wünsche und Bedürfnisse erkennen<\/li><li>Tagesstrukturierung und mehr<\/li><\/ul>"
-          }
-        },
         "text_9GWM4a": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Ziele<\/strong><\/p><p>Wir arbeiten ganzheitlich und vereinbaren gemeinsam mit Ihnen die Behandlungsziele. Entdecken Sie neue Möglichkeiten und erlangen Sie verlorengegangene Fähigkeiten zurück – für eine Verbesserung Ihrer Alltags- und Lebensqualität.<\/p><p>FRAGEN RUND UM DIE THERAPIE<\/p><ul><li>1. Wer übernimmt die Kosten?<\/li><li>2. Wie ist der Behandlungsablauf?<\/li><li>3. Wie viele Therapieeinheiten bekomme ich?<\/li><li>4. Wie lange dauert eine Behandlung?<\/li><li>5. Werden auch Hausbesuche gemacht?<\/li><\/ul>"
+            "text": "<p><strong>Ziele<\/strong><\/p><p>Das Ziel ist mehr Beweglichkeit, so dass Sie wieder flexibel und präzise greifen können.<\/p>"
           }
         }
       },
       "block_order": [
-        "text_Um7cjA",
-        "text_4td9DM",
         "text_9GWM4a"
       ],
       "settings": {
@@ -222,6 +196,40 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "multicolumn_QezHt4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Dnx86m": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/afh_49eedd3a-0c22-4edb-8050-988c589762c8.png",
+            "title": "Akademie für Handtherapie",
+            "text": "<p>Durch die Zertifizierung der AfH Akademie für Handtherapie erhalten Sie in besonderem Maße eine qualifizierte Behandlung.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Dnx86m"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "collapsible_content_ncCQjE": {
@@ -303,6 +311,7 @@
     "multicolumn_dhxaEk",
     "rich_text_MFWfjg",
     "rich_text_8J7MzJ",
+    "multicolumn_QezHt4",
     "collapsible_content_ncCQjE"
   ]
 }
