@@ -14,7 +14,7 @@
         "heading_gnWFqQ": {
           "type": "heading",
           "settings": {
-            "heading": "Pädiatrie",
+            "heading": "Zusatzangebote",
             "heading_size": "h1"
           }
         },
@@ -43,7 +43,7 @@
         "buttons_eNBgmg"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Neurologie_header_icon_c264f13c-fd56-40dc-8b0d-f06682f821b9.jpg",
+        "image": "shopify:\/\/shop_images\/kurse-neu.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -56,64 +56,51 @@
         "show_text_below": true
       }
     },
-    "rich_text_cpjDVR": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_PTwHde": {
-          "type": "heading",
-          "settings": {
-            "heading": "Gezielte Hilfe und Unterstützung für Kinder und Jugendliche.",
-            "heading_size": "h1"
-          }
-        },
-        "text_YrMhp7": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Besonders Kinder sind in ihrem Alltag permanent neuen Herausforderungen ausgesetzt und müssen lernen, sich immer wieder neu anzupassen und weiterzuentwickeln.<\/p><p>Die Pädiatrie in der Ergotherapie umfasst die Behandlung von Kindern und Jugendlichen, die Beeinträchtigungen und Entwicklungsverzögerungen im motorischen, sensorischen und im kognitiven Bereich zeigen.<\/p>"
-          }
-        },
-        "button_cCCqMV": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_PTwHde",
-        "text_YrMhp7",
-        "button_cCCqMV"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "multicolumn_dhxaEk": {
+    "multicolumn_KBtyXN": {
       "type": "multicolumn",
       "blocks": {
-        "column_FgjBpq": {
+        "column_dQE4Kn": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Paediatrie_content.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
+            "title": "<strong>Galileotraining<\/strong>",
+            "text": "<p>Das Galileo ist ein Vibrationstrainingsgerät, dass auf dem natürlichen Bewegungsablauf des Menschen beim Gehen beruht<\/p>",
+            "link_label": "weitere Informationen",
+            "link": ""
+          }
+        },
+        "column_AhMJWi": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Schröpftherapie<\/strong>",
+            "text": "<p>Beim Schröpfen werden Schröpfgläser oder Schröpfköpfe durch Erzeugung eines Unterdrucks auf die Haut gesetzt.<\/p>",
+            "link_label": "weitere Informationen",
+            "link": ""
+          }
+        },
+        "column_dYEjP3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Easy Taping \/ Cross Taping<\/strong>",
+            "text": "<p>Taping ist ein medikamentenfreier und ganzheitlicher Therapieansatz.<\/p>",
+            "link_label": "weitere Informationen",
+            "link": ""
+          }
+        },
+        "column_fYgFXr": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Schmerztherapie<\/strong>",
+            "text": "<p>In der Schmerztherapie geht es neben klassischen Behandlungsmethoden wie der manuellen Therapie und der medizinischen Trainingstherapie um ganzheitliche Behandlungstechniken.<\/p>",
+            "link_label": "weitere Informationen",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column_FgjBpq"
+        "column_dQE4Kn",
+        "column_AhMJWi",
+        "column_dYEjP3",
+        "column_fYgFXr"
       ],
       "settings": {
         "title": "",
@@ -131,141 +118,11 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "rich_text_MFWfjg": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_a7pfF3": {
-          "type": "heading",
-          "settings": {
-            "heading": "Alltägliches im Kinderalltag unterstützen.",
-            "heading_size": "h1"
-          }
-        },
-        "text_A8Q7nd": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Wann ist Ergotherapie sinnvoll?<\/strong><\/p><p>Behandelt werden Kinder und Jugendliche mit<\/p><ul><li>Probleme in der Feinmotorik<\/li><li>Störungen des Bewegungsapparates\/der Motorik<\/li><li>Probleme in der Feinmotorik oder Stifthaltung<\/li><li>körperlichen, geistigen und seelischen Entwicklungsrückständen<\/li><li>Verhaltensstörungen (Angst, Abwehr, Hyperaktivität…)<\/li><li>Konzentrationsproblemen<\/li><\/ul><p>Unter Berücksichtigung des aktuellen Entwicklungsstandes wird das Kind ganzheitlich in seinem sozialen und familiären Umfeld nach verschiedenen Therapiekonzepten behandelt. Hierbei ist die Elternarbeit sowie die direkte Übertragung in den Alltag eine wichtige Voraussetzung, um langfristige Therapieerfolge erzielen zu können.<\/p>"
-          }
-        },
-        "button_RHM8Mh": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "text_GGDYYH": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Inhalte der Therapie<\/strong><\/p><ul><li>Entwicklung und Verbesserung von Motorik, Koordination, Gleichgewicht, Körpereigenwahrnehmung, Tonusregulation<\/li><li>Entwicklung und Verbesserung fein- und graphomotorischer Koordination<\/li><li>Vermeidung von Folgeschäden und Entwicklungsverzögerungen<\/li><li>Verbesserung der kognitiven Leistungen (Konzentration, Ausdauer, Gedächtnisleistung, Handlungsplanung…)<\/li><li>Verbesserung der Verarbeitung von Sinneswahrnehmung<\/li><\/ul>"
-          }
-        },
-        "text_687LXc": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Ziele<\/strong><\/p><p>Wir vereinbaren gemeinsam die genauen Behandlungsziele. Das Kind soll eine größtmögliche Selbstständigkeit im Alltag, in der Schule und im sozialen Umfeld erreichen. Die Ergotherapie begleitet die Kinder auf ihrem Weg zu einem selbstständigen und handlungsfähigen Menschen und setzt gezielt in den Bereichen an, in welchen die Kinder Unterstützung und Hilfe benötigen.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_a7pfF3",
-        "text_A8Q7nd",
-        "button_RHM8Mh",
-        "text_GGDYYH",
-        "text_687LXc"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "collapsible_content_ncCQjE": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_cYDBMd": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Wer übernimmt die Kosten?",
-            "icon": "check_mark",
-            "row_content": "<p>Die Verordnung für eine ambulante Ergotherapie kann nur ein Arzt ausstellen. Pro Verordnung (Rezept) hat der Patient eine Zuzahlung in Höhe von 10 % zzgl. 10 € Rezeptgebühr zu leisten, außer er ist von Seiten der Krankenkasse von den Zuzahlungen befreit, z. B. bei einer chronischen Krankheit. Bei der Lerntherapie handelt es sich um eine Selbstzahlerleistung.<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_WWwaRH": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Wie ist der Behandlungsablauf?",
-            "icon": "check_mark",
-            "row_content": "<p>Bei uns hat jeder Patient einen Bezugstherapeuten. Nach einem sorgfältigen Aufnahmegespräch und der Befunderhebung werden Sie, und bei Bedarf Ihre Angehörigen, in die Planung der Therapie einbezogen.<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_KTVKQr": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Wie viele Therapieeinheiten bekomme ich?",
-            "icon": "check_mark",
-            "row_content": "<p>Der Arzt entscheidet über die Anzahl Ihrer Behandlungseinheiten. Pro Rezept können im Regelfall maximal 10 Behandlungseinheiten verordnet werden. Eine mögliche Weiterbehandlung und deren Umfang legt der Arzt fest.<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_AnJcqp": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Wie lange dauert eine Behandlung?",
-            "icon": "check_mark",
-            "row_content": "<p>Eine Therapieeinheit dauert je nach Verordnung zwischen 30 und 60 Minuten. Die Häufigkeit der Behandlungstermine ist ebenfalls abhängig von der Verordnung des Arztes.<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_cXgXqP": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Werden Hausbesuche gemacht?",
-            "icon": "check_mark",
-            "row_content": "<p>Grundsätzlich bieten wir die Behandlung (bei medizinischer Notwendigkeit) auch als Hausbesuch an, wenn sie entweder ärztlich verordnet oder vertraglich vereinbart ist.<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_cYDBMd",
-        "collapsible_row_WWwaRH",
-        "collapsible_row_KTVKQr",
-        "collapsible_row_AnJcqp",
-        "collapsible_row_cXgXqP"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "FRAGEN RUND UM DIE THERAPIE",
-        "heading_size": "h1",
-        "heading_alignment": "left",
-        "layout": "none",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "main",
     "image_banner_bKMCeb",
-    "rich_text_cpjDVR",
-    "multicolumn_dhxaEk",
-    "rich_text_MFWfjg",
-    "collapsible_content_ncCQjE"
+    "multicolumn_KBtyXN"
   ]
 }
