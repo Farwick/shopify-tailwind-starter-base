@@ -7,7 +7,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_praxis_rheda_schaukel.jpg",
-            "heading": "Praxis Herzebrock",
+            "heading": "Impressum",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
@@ -56,14 +56,38 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "rich_text_Nwhwhb": {
+      "type": "rich-text",
+      "blocks": {
+        "text_VxKAAe": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Impressum<\/h1><p>Anbieterkennzeichnung Telemediengesetz (TMG) § 5<\/p><p>Praxis für Ergotherapie Bulthaup<\/p><p>Geschäftsführerin:<\/p><p>Tanja Cordtomeikel<\/p><p>Fürst-Bentheim-Straße 3<\/p><p>33378 Rheda-Wiedenbrück<\/p><p>Fon: 0 52 42 \/ 40 85 08<\/p><p>Fax: 0 52 42 \/ 93 14 97<\/p><p>Mail: <a href=\"mailto:praxis@ergotherapie-bulthaup.de\">praxis@ergotherapie-bulthaup.de<\/a><\/p><p>Web: <a href=\"https:\/\/www.ergotherapie-bulthaup.de\/\" target=\"_blank\">www.ergotherapie-bulthaup.de<\/a><\/p><p><strong>Verbände<\/strong>:<\/p><p>DVE: <a href=\"https:\/\/www.dve.info\/\" target=\"_blank\">www.dve.info<\/a><\/p><p>BED: <a href=\"https:\/\/www.bed-ev.de\/\" target=\"_blank\">www.bed-ev.de<\/a><\/p><p>Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.<\/p><p><strong>Haftung für Inhalte<\/strong><\/p><p>Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.<\/p><p>Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.<\/p><p><strong>Haftung für Links<\/strong><\/p><p>Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.<\/p><p>Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.<\/p><p><strong>Urheberrecht<\/strong><\/p><p>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.<\/p><p>Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.<\/p><p>Quellverweis: <a href=\"https:\/\/www.e-recht24.de\/\" target=\"_blank\">eRecht24<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_VxKAAe"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "slideshow_mwPm3a",
-    "main"
+    "main",
+    "rich_text_Nwhwhb"
   ]
 }
