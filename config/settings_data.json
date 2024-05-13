@@ -114,6 +114,8 @@
     "show_cart_note": true,
     "cart_drawer_collection": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/logo-hintergrund-weiss_1.svg",
+    "checkout_accent_color": "#69766a",
+    "checkout_button_color": "#69766a",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
