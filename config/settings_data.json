@@ -113,6 +113,7 @@
     "show_vendor": false,
     "show_cart_note": true,
     "cart_drawer_collection": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo-hintergrund-weiss_1.svg",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
