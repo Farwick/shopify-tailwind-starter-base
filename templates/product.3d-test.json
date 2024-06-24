@@ -9,69 +9,26 @@
 */
 {
   "sections": {
-    "main": {
-      "type": "main-product",
+    "171922306855797236": {
+      "type": "apps",
       "blocks": {
-        "angle_3d_configurator_3d_ar_product_page_app_block_iyw9Dy": {
-          "type": "shopify:\/\/apps\/angle-3d-configurator-3d-ar\/blocks\/product-page-app-block\/5a66b689-d53a-4204-b3a1-1c4b15f09c98",
+        "angle_3d_configurator_3d_ar_custom_page_app_block_xx9aie": {
+          "type": "shopify:\/\/apps\/angle-3d-configurator-3d-ar\/blocks\/custom-page-app-block\/5a66b689-d53a-4204-b3a1-1c4b15f09c98",
           "settings": {
+            "selected_product": "",
             "customizer_template": "customizer-app-snippet"
-          }
-        },
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "caption": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
           }
         }
       },
       "block_order": [
-        "angle_3d_configurator_3d_ar_product_page_app_block_iyw9Dy",
-        "vendor",
-        "title",
-        "caption",
-        "price",
-        "variant_picker",
-        "quantity_selector",
-        "buy_buttons"
+        "angle_3d_configurator_3d_ar_custom_page_app_block_xx9aie"
       ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "main": {
+      "type": "main-product",
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "",
@@ -188,6 +145,7 @@
     }
   },
   "order": [
+    "171922306855797236",
     "main",
     "rich_text_c9JNBd",
     "rich_text_ChB3Rz",
