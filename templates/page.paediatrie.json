@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -43,7 +52,7 @@
         "buttons_eNBgmg"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Neurologie_header_icon_c264f13c-fd56-40dc-8b0d-f06682f821b9.jpg",
+        "image": "shopify:\/\/shop_images\/michal-parzuchowski-PQWw9ReEWG0-unsplash_565f9288-a888-4a9e-a8b7-a77966d24581.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
