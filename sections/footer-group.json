@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -5,13 +14,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-2": {
-          "type": "text",
-          "settings": {
-            "heading": "ÜBER UNS",
-            "subtext": "<p>Wir sind gerne für Sie da!<\/p><p>Willkommen in unseren ergotherapeutischen Praxen in Rheda und Herzebrock. Wir helfen Menschen dabei, die Handlungsfähigkeit im Alltag bzw. Berufsleben wieder zu erlangen.<\/p>"
-          }
-        },
         "text_fF4dpy": {
           "type": "text",
           "settings": {
@@ -35,7 +37,6 @@
         }
       },
       "block_order": [
-        "footer-2",
         "text_fF4dpy",
         "text_3PcWTp",
         "link_list_jJNHHh"
