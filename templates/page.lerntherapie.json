@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -43,7 +52,7 @@
         "buttons_eNBgmg"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Lerntherapie_header_icon_e9f5fc6d-85fc-43db-b911-470144b823cd.jpg",
+        "image": "shopify:\/\/shop_images\/vitolda-klein-zTT3IhY2m48-unsplash_04b7a39d-efe6-4a90-8fbe-ff2327638907.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
