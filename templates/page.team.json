@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -43,7 +52,7 @@
         "buttons_zgyNh6"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/COR_Testbild_breit.jpg",
+        "image": "shopify:\/\/shop_images\/132_-_2024-05-16_Mitarbeiter_Bulthaup-02173.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -62,7 +71,7 @@
         "column_URRFLM": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Tanja_Cordtomeikel.jpg",
+            "image": "shopify:\/\/shop_images\/118_-_2024-05-16_Mitarbeiter_Bulthaup-06840.jpg",
             "title": "Tanja Cordtomeikel",
             "text": "",
             "link_label": "mehr Infos",
@@ -72,7 +81,7 @@
         "column_TWeiKf": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Stefanie_Fleischer.jpg",
+            "image": "shopify:\/\/shop_images\/37_-_2024-05-16_Mitarbeiter_Bulthaup-06310.jpg",
             "title": "Stephanie Fleischer",
             "text": "",
             "link_label": "mehr Infos",
@@ -82,7 +91,7 @@
         "column_hEjpyR": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Stefanie_Becker.jpg",
+            "image": "shopify:\/\/shop_images\/11_-_2024-05-16_Mitarbeiter_Bulthaup-06182.jpg",
             "title": "Stefanie Becker",
             "text": "",
             "link_label": "mehr Infos",
@@ -102,7 +111,7 @@
         "column_jpzRYC": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Maria_Lakmann.jpg",
+            "image": "shopify:\/\/shop_images\/58_-_2024-05-16_Mitarbeiter_Bulthaup-06444.jpg",
             "title": "Maria Lakmann",
             "text": "",
             "link_label": "mehr Infos",
@@ -122,7 +131,7 @@
         "column_LT4XT8": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Vanessa_Sluka.jpg",
+            "image": "shopify:\/\/shop_images\/50_-_2024-05-16_Mitarbeiter_Bulthaup-06378.jpg",
             "title": "Vanessa Sluka",
             "text": "",
             "link_label": "mehr Infos",
@@ -132,7 +141,7 @@
         "column_n9QrHc": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Petra_Bauch.jpg",
+            "image": "shopify:\/\/shop_images\/72_-_2024-05-16_Mitarbeiter_Bulthaup-06530.jpg",
             "title": "Petra Bauch",
             "text": "",
             "link_label": "mehr Infos",
@@ -142,7 +151,7 @@
         "column_ARnfRA": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lissy_Bertsch.jpg",
+            "image": "shopify:\/\/shop_images\/6_-_2024-05-16_Praxisfotos_Bulthaupt-06514.jpg",
             "title": "Lissy Bertsch",
             "text": "",
             "link_label": "mehr Infos",
@@ -152,7 +161,7 @@
         "column_3E4GPi": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Svenja_Herfert.jpg",
+            "image": "shopify:\/\/shop_images\/38_-_2024-05-16_Mitarbeiter_Bulthaup-06322.jpg",
             "title": "Svenja Herfert",
             "text": "",
             "link_label": "mehr Infos",
@@ -172,7 +181,7 @@
         "column_aw9Vkw": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Marleen_Winkler.jpg",
+            "image": "shopify:\/\/shop_images\/88_-_2024-05-16_Mitarbeiter_Bulthaup-06641.jpg",
             "title": "Marlene Winkler",
             "text": "",
             "link_label": "mehr Infos",
@@ -182,7 +191,7 @@
         "column_jeddEz": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Vera_Steinbach.jpg",
+            "image": "shopify:\/\/shop_images\/27_-_2024-05-16_Mitarbeiter_Bulthaup-06250.jpg",
             "title": "Vera Steinbach",
             "text": "",
             "link_label": "mehr Infos",
