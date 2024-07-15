@@ -207,6 +207,16 @@
             "link_label": "mehr Infos",
             "link": "shopify:\/\/pages\/kara-terlikowski"
           }
+        },
+        "column_YkzcTN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/104_-_2024-05-16_Mitarbeiter_Bulthaup-06754.jpg",
+            "title": "Marlen Schienstock",
+            "text": "<p>mehr <\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -223,7 +233,8 @@
         "column_dM3qBR",
         "column_aw9Vkw",
         "column_jeddEz",
-        "column_zgyAaX"
+        "column_zgyAaX",
+        "column_YkzcTN"
       ],
       "settings": {
         "title": "",
