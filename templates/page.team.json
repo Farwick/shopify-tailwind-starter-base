@@ -213,9 +213,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/104_-_2024-05-16_Mitarbeiter_Bulthaup-06754.jpg",
             "title": "Marlen Schienstock",
-            "text": "<p>mehr <\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "",
+            "link_label": "mehr Infos",
+            "link": "shopify:\/\/pages\/marlen-schienstock"
           }
         }
       },
