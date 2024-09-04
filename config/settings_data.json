@@ -157,17 +157,6 @@
       },
       "hero-image-section-template": {
         "type": "hero-image-section-template",
-        "blocks": {
-          "image_6Kzfd7": {
-            "type": "image",
-            "settings": {
-              "hero-image": "shopify:\/\/shop_images\/198_-_2024-05-16_Mitarbeiter_Bulthaup-02321_30aa4e62-204a-48cf-aa3b-091b1e8aafc3.jpg"
-            }
-          }
-        },
-        "block_order": [
-          "image_6Kzfd7"
-        ],
         "settings": {
         }
       },
