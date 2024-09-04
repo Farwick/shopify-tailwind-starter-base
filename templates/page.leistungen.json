@@ -139,7 +139,7 @@
         "column_hQPTTV": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Neurologie_vorschau.jpg",
+            "image": "shopify:\/\/shop_images\/neurologie.jpg",
             "title": "Neurologie",
             "text": "<p>Die Neurologie befasst sich mit Erkrankungen des zentralen Nervensystems, z. B. Schlaganfall, Schädel-Hirn-Verletzungen, Querschnittslähmung oder Multipler Sklerose.<\/p>",
             "link_label": "weitere Informationen",
@@ -149,7 +149,7 @@
         "column_GjjxgG": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Paediatrie_vorschau.jpg",
+            "image": "shopify:\/\/shop_images\/paediatrie.jpg",
             "title": "Pädiatrie",
             "text": "<p>Entwicklung und Lernen ist nicht nur bei Kindern ein höchst verflochtenes Geschehen, welches naturgemäß vielen Einflüssen unterworfen ist.<\/p>",
             "link_label": "weitere Informationen",
@@ -159,7 +159,7 @@
         "column_p7XMqD": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Psychiatrie_vorschau.jpg",
+            "image": "shopify:\/\/shop_images\/psychatrie.jpg",
             "title": "Psychiatrie",
             "text": "<p>Wir arbeiten mit psychotherapeutischen und sozialpsychiatrischen Ansätzen.<\/p>",
             "link_label": "weitere Informationen",
@@ -169,7 +169,7 @@
         "column_kWG7Ap": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup__Handtherapie_vorschau.jpg",
+            "image": "shopify:\/\/shop_images\/handtherapie-1.jpg",
             "title": "Handtherapie",
             "text": "<p>Handrehabilitation umfasst die Therapie nach Verletzungen, Operationen, kindlichen Fehlbildungen, Überlastungssyndromen und chronischen Erkrankungen der Hand.<\/p>",
             "link_label": "weitere Informationen",
@@ -179,7 +179,7 @@
         "column_k6NG9x": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/vorschau_geriatrie.jpg",
+            "image": "shopify:\/\/shop_images\/geriatrie.jpg",
             "title": "Geriatrie",
             "text": "<p>Ergotherapeutische Maßnahmen in der Geriatrie richten sich auf die Behandlung alter und chronisch kranker Menschen aus.<\/p>",
             "link_label": "weitere Informationen",
@@ -189,7 +189,7 @@
         "column_QzJ4wy": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Orthopaedie_vorschau.jpg",
+            "image": "shopify:\/\/shop_images\/orthopaedie.jpg",
             "title": "Orthopädie\/Rheumatologie\/ Traumatologie",
             "text": "<p>Die Zielsetzungen der ergotherapeutischen Behandlung sind auch im Bereich der Orthopädie auf das Erlangen einer größtmöglichen Selbständigkeit im Alltag, im Beruf und im sozialen Leben ausgerichtet.<\/p>",
             "link_label": "weitere Informationen",
@@ -199,7 +199,7 @@
         "column_mJaRhh": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Neurofeedback_vorschau.jpg",
+            "image": "shopify:\/\/shop_images\/biofeedback.jpg",
             "title": "Neurofeedback",
             "text": "<p>Eine besondere Anwendungsform des Biofeedbacks ist das Neurofeedback, dessen Ziel es ist, elektrochemische Vorgänge im Gehirn zu trainieren und zu optimieren.<\/p>",
             "link_label": "weitere Informationen",
@@ -209,7 +209,7 @@
         "column_CUzr3w": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Lerntherapie_vorschau.jpg",
+            "image": "shopify:\/\/shop_images\/lerntherapie-1.jpg",
             "title": "Lerntherapie",
             "text": "<p>Die integrative Lerntherapie ist eine Therapieform für Kinder und Jugendliche, die trotz ausreichender Beschulung eine Lern-Leistungsstörung entwickelt haben.<\/p>",
             "link_label": "weitere Informationen",
