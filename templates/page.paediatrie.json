@@ -52,9 +52,9 @@
         "buttons_eNBgmg"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/michal-parzuchowski-PQWw9ReEWG0-unsplash_565f9288-a888-4a9e-a8b7-a77966d24581.jpg",
+        "image": "shopify:\/\/shop_images\/paediatrie.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
