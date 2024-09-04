@@ -9,58 +9,35 @@
 */
 {
   "sections": {
-    "slideshow_mwPm3a": {
-      "type": "slideshow",
+    "image_banner_XiE6mb": {
+      "type": "image-banner",
       "blocks": {
-        "slide_7EzQL3": {
-          "type": "slide",
+        "heading_a6CDb9": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/191_-_2024-05-16_Mitarbeiter_Bulthaup-02308.jpg",
             "heading": "Praxis Herzebrock",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_gimc6L": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
+            "heading_size": "h1"
           }
         }
       },
       "block_order": [
-        "slide_7EzQL3",
-        "slide_gimc6L"
+        "heading_a6CDb9"
+      ],
+      "custom_css": [
+        ".banner__box {background-color: rgba(255, 255, 255, 0.5);}"
       ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
+        "image": "shopify:\/\/shop_images\/191_-_2024-05-16_Mitarbeiter_Bulthaup-02308.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
         "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "main": {
@@ -72,7 +49,7 @@
     }
   },
   "order": [
-    "slideshow_mwPm3a",
+    "image_banner_XiE6mb",
     "main"
   ]
 }
