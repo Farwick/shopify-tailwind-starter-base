@@ -64,6 +64,9 @@
         "text_QJACJ9",
         "buttons_TJzV7w"
       ],
+      "custom_css": [
+        ".banner__box {background-color: rgba(255, 255, 255, 0.5);}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/135_-_2024-05-16_Mitarbeiter_Bulthaup-06864.jpg",
         "image_overlay_opacity": 0,
