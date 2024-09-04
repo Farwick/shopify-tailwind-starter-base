@@ -51,6 +51,9 @@
         "text_Bg4fN6",
         "buttons_eNBgmg"
       ],
+      "custom_css": [
+        ".banner__box {background-color: rgba(255, 255, 255, 0.5);}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/paediatrie.jpg",
         "image_overlay_opacity": 0,
