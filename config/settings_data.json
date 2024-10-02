@@ -9,9 +9,9 @@
 */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/logo-hintergrund-schwarz.png",
+    "logo": "shopify://shop_images/logo-hintergrund-schwarz.png",
     "logo_width": 220,
-    "favicon": "shopify:\/\/shop_images\/logo-hintergrund-weiss_1.svg",
+    "favicon": "shopify://shop_images/logo-hintergrund-weiss_1.svg",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
@@ -122,7 +122,7 @@
     "show_vendor": false,
     "show_cart_note": true,
     "cart_drawer_collection": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/logo-hintergrund-weiss_1.svg",
+    "checkout_logo_image": "shopify://shop_images/logo-hintergrund-weiss_1.svg",
     "checkout_accent_color": "#69766a",
     "checkout_button_color": "#69766a",
     "sections": {
@@ -144,8 +144,8 @@
           "text_47Fczr": {
             "type": "text",
             "settings": {
-              "ueber": "<p><strong>Zwei Standorte. Ein Team.<\/strong><\/p><p>Mit unserem hohen Qualitätsanspruch sind wir seit 2000 in Rheda und seit 2006 in Herzebrock mit aktuell vierzehn Ergotherapeutinnen und zwei Mitarbeiterinnen am Empfang bzw. Praxisorganisation erfolgreich im Einsatz.<\/p><p>Die Schwerpunkte unserer Praxis.<\/p><p>Ein Teil unserer Patienten sind Kinder mit Problemen der Integration ihrer Wahrnehmung in Alltagshandlungen (Wahrnehmungsstörungen), Lernstörungen wie Legasthenie und Dyskalkulie. Unsere Ergotherapeutinnen begleiten Ihr Kind auf dem Weg zu einem selbstständigen und handlungsfähigen Individuum. Sie arbeiten gezielt in den Bereichen, in denen Ihr Kinder Unterstützung und Hilfe benötigt.<\/p><p>Unsere Ergotherapeutinnen arbeiten außerdem mit neurologisch erkrankten Patienten. Bei ihnen ist das zentrale Nervensystem (ZNS) durch Schädigungen, einen Unfall oder Erkrankungen beeinträchtigt. Sehr häufig kommen Menschen mit Schlaganfall, Multipler Sklerose, Morbus Parkinson, Querschnittslähmung und Schädel-Hirn-Trauma in unsere Praxis. Weitere Schwerpunkte sind die Gerontopsychiatrie (Alzheimer, Demenz, Depressionen) und die Handtherapie.<\/p><p>Behandlungsziele sind immer größtmögliche Lebensqualität und Erhalt bzw. Erarbeitung der Selbständigkeit.<\/p>",
-              "ueber-image": "shopify:\/\/shop_images\/255_-_2024-05-16_Mitarbeiter_Bulthaup-02443.jpg"
+              "ueber": "<p><strong>Zwei Standorte. Ein Team.</strong></p><p>Mit unserem hohen Qualitätsanspruch sind wir seit 2000 in Rheda und seit 2006 in Herzebrock mit aktuell vierzehn Ergotherapeutinnen und zwei Mitarbeiterinnen am Empfang bzw. Praxisorganisation erfolgreich im Einsatz.</p><p>Die Schwerpunkte unserer Praxis.</p><p>Ein Teil unserer Patienten sind Kinder mit Problemen der Integration ihrer Wahrnehmung in Alltagshandlungen (Wahrnehmungsstörungen), Lernstörungen wie Legasthenie und Dyskalkulie. Unsere Ergotherapeutinnen begleiten Ihr Kind auf dem Weg zu einem selbstständigen und handlungsfähigen Individuum. Sie arbeiten gezielt in den Bereichen, in denen Ihr Kinder Unterstützung und Hilfe benötigt.</p><p>Unsere Ergotherapeutinnen arbeiten außerdem mit neurologisch erkrankten Patienten. Bei ihnen ist das zentrale Nervensystem (ZNS) durch Schädigungen, einen Unfall oder Erkrankungen beeinträchtigt. Sehr häufig kommen Menschen mit Schlaganfall, Multipler Sklerose, Morbus Parkinson, Querschnittslähmung und Schädel-Hirn-Trauma in unsere Praxis. Weitere Schwerpunkte sind die Gerontopsychiatrie (Alzheimer, Demenz, Depressionen) und die Handtherapie.</p><p>Behandlungsziele sind immer größtmögliche Lebensqualität und Erhalt bzw. Erarbeitung der Selbständigkeit.</p>",
+              "ueber-image": "shopify://shop_images/255_-_2024-05-16_Mitarbeiter_Bulthaup-02443.jpg"
             }
           }
         },
@@ -168,7 +168,7 @@
             "settings": {
               "text": "Haben wir Ihr Interesse geweckt?",
               "subtext": "Dann rufen Sie uns an!",
-              "paralax-image": "shopify:\/\/shop_images\/interesse-geweckt.jpg"
+              "paralax-image": "shopify://shop_images/interesse-geweckt.jpg"
             }
           }
         },
@@ -185,7 +185,7 @@
             "type": "column",
             "settings": {
               "title": "Therapie mit Kindern",
-              "text": "<p>Wir sind spezialisiert auf die Behandlung von Kindern mit Lese- und Rechtschreibschwierigkeiten sowie Rechenschwächen. Außerdem bieten wir den Kurs „Fit für die Schule“ und das Marburger Konzentrationstraining an.<\/p>",
+              "text": "<p>Wir sind spezialisiert auf die Behandlung von Kindern mit Lese- und Rechtschreibschwierigkeiten sowie Rechenschwächen. Außerdem bieten wir den Kurs „Fit für die Schule“ und das Marburger Konzentrationstraining an.</p>",
               "link_label": "",
               "link": ""
             }
@@ -194,7 +194,7 @@
             "type": "column",
             "settings": {
               "title": "Therapie bei Erwachsenen",
-              "text": "<p>Therapie nach Bobath, Perfetti bei neurologischen Erkrankungen wie Schlaganfall, Multiple Sklerose, Parkinson, Schädel-Hirn-Traumata (SHT), Training der Feinmotorik, Hirnleistungstraining, Behandlung bei psychischen Beeinträchtigungen, Beratung von Angehörigen, Hilfsmittelberatung und -erprobung u.a.<\/p>",
+              "text": "<p>Therapie nach Bobath, Perfetti bei neurologischen Erkrankungen wie Schlaganfall, Multiple Sklerose, Parkinson, Schädel-Hirn-Traumata (SHT), Training der Feinmotorik, Hirnleistungstraining, Behandlung bei psychischen Beeinträchtigungen, Beratung von Angehörigen, Hilfsmittelberatung und -erprobung u.a.</p>",
               "link_label": "",
               "link": ""
             }
@@ -203,7 +203,7 @@
             "type": "column",
             "settings": {
               "title": "Information & Beratung",
-              "text": "<p>Sie wollen mehr wissen über die Lern- oder Wahrnehmungsstörungen Ihres Kindes? Besuchen Sie unsere Informationsveranstaltungen im Kindergarten oder in der Schule. Wir bieten Eltern auch eine individuelle Beratung. Rufen Sie uns an und vereinbaren Sie einen Termin.<\/p>",
+              "text": "<p>Sie wollen mehr wissen über die Lern- oder Wahrnehmungsstörungen Ihres Kindes? Besuchen Sie unsere Informationsveranstaltungen im Kindergarten oder in der Schule. Wir bieten Eltern auch eine individuelle Beratung. Rufen Sie uns an und vereinbaren Sie einen Termin.</p>",
               "link_label": "",
               "link": ""
             }
@@ -237,8 +237,8 @@
           "text_QjmmCr": {
             "type": "text",
             "settings": {
-              "text": "<h2>Praxis Rheda-Wiedenbrück<\/h2><p>Mit unserem hohen Qualitätsanspruch sind wir in Rheda und Herzebrock mit aktuell vierzehn Ergotherapeutinnen und zwei Mitarbeiterinnen am Empfang bzw. Praxisorganisation erfolgreich im Einsatz.<\/p><p>Im Jahr 2000 wurde die Praxis an der Fürst-Bentheim-Straße 3 in Rheda-Wiedenbrück eröffnet. In dem 270 qm großen Haus behandeln wir unsere Patienten in neun Therapieräumen – modern eingerichtet und natürlich mit aktuellen Therapiegeräten und -mitteln ausgestattet. In dem zusätzlichen Gruppenraum finden die Kurse „Fit für die Schule“ und „Marburger Konzentrationstraining“ statt. Der Kurs „Fit für die Schule“ kann zudem auch in Schulen oder Kindergärten stattfinden<\/p><p>Bei uns parken Sie außerdem ganz bequem. Direkt vor unserer Praxis bieten wir unseren Patienten kostenfreie Parkplätze.Die Räumlichkeiten sind klimatisiert und behindertengerecht.<\/p>",
-              "kontakt": "<p><strong>Praxis Rheda-Wiedenbrück<\/strong><\/p><p>Fürst-Bentheim-Straße 3<\/p><p>33378 Rheda-Wiedenbrück<\/p><p>Fon: <a href=\"tel:+495242408508\">(0 52 42) 40 85 08<\/a><\/p><p>E-Mail: <a href=\"mailto:praxis@ergotherapie-bulthaup.de\">praxis@ergotherapie-bulthaup.de<\/a><\/p>"
+              "text": "<h2>Praxis Rheda-Wiedenbrück</h2><p>Mit unserem hohen Qualitätsanspruch sind wir in Rheda und Herzebrock mit aktuell vierzehn Ergotherapeutinnen und zwei Mitarbeiterinnen am Empfang bzw. Praxisorganisation erfolgreich im Einsatz.</p><p>Im Jahr 2000 wurde die Praxis an der Fürst-Bentheim-Straße 3 in Rheda-Wiedenbrück eröffnet. In dem 270 qm großen Haus behandeln wir unsere Patienten in neun Therapieräumen – modern eingerichtet und natürlich mit aktuellen Therapiegeräten und -mitteln ausgestattet. In dem zusätzlichen Gruppenraum finden die Kurse „Fit für die Schule“ und „Marburger Konzentrationstraining“ statt. Der Kurs „Fit für die Schule“ kann zudem auch in Schulen oder Kindergärten stattfinden</p><p>Bei uns parken Sie außerdem ganz bequem. Direkt vor unserer Praxis bieten wir unseren Patienten kostenfreie Parkplätze.Die Räumlichkeiten sind klimatisiert und behindertengerecht.</p>",
+              "kontakt": "<p><strong>Praxis Rheda-Wiedenbrück</strong></p><p>Fürst-Bentheim-Straße 3</p><p>33378 Rheda-Wiedenbrück</p><p>Fon: <a href=\"tel:+495242408508\">(0 52 42) 40 85 08</a></p><p>E-Mail: <a href=\"mailto:praxis@ergotherapie-bulthaup.de\">praxis@ergotherapie-bulthaup.de</a></p>"
             }
           }
         },
@@ -254,7 +254,7 @@
           "image_XjaJpP": {
             "type": "image",
             "settings": {
-              "hero-praxis": "shopify:\/\/shop_images\/ergotherapie_bulthaup_praxis_rheda_schaukel.jpg"
+              "hero-praxis": "shopify://shop_images/ergotherapie_bulthaup_praxis_rheda_schaukel.jpg"
             }
           }
         },
@@ -525,7 +525,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "ul {list-style-type: circle;}"
+      "ul {list-style-type: circle;}",
+      "body, p, li {text-align: justify; text-justify: inter-word;}"
     ]
   }
 }
