@@ -55,7 +55,7 @@
         ".banner__box {background-color: rgba(255, 255, 255, 0.5);}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/psychatrie.jpg",
+        "image": "shopify://shop_images/psychatrie.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -81,7 +81,7 @@
         "text_YrMhp7": {
           "type": "text",
           "settings": {
-            "text": "<p>Ergotherapie im Bereich der Psychiatrie und Psychosomatik hilft Ihnen, Ihre Wahrnehmung, Ihr Selbstvertrauen und Ihre Lebenskraft zu stärken.<\/p>"
+            "text": "<p>Ergotherapie im Bereich der Psychiatrie und Psychosomatik hilft Ihnen, Ihre Wahrnehmung, Ihr Selbstvertrauen und Ihre Lebenskraft zu stärken.</p>"
           }
         },
         "button_cCCqMV": {
@@ -116,7 +116,7 @@
         "column_FgjBpq": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Psychiatrie_content.jpg",
+            "image": "shopify://shop_images/ergotherapie_bulthaup_Psychiatrie_content.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -157,7 +157,7 @@
         "text_A8Q7nd": {
           "type": "text",
           "settings": {
-            "text": "<p>Viele Menschen leiden an einer Depression, an Antriebslosigkeit oder unter Ängsten. Körperliche und psychische Aspekte, schwierige Lebenssituationen oder akuter Stress können die Ursachen sein. Ein Gedankenkarussell aus Grübeleien und Ängsten entsteht – betroffene Menschen sind oft nicht mehr in der Lage, positiv zu denken oder ihre Situation mit Abstand zu betrachten. Die Ergotherapie in der Psychiatrie unterbricht diese Muster und führt zu neuem Denken.<\/p>"
+            "text": "<p>Viele Menschen leiden an einer Depression, an Antriebslosigkeit oder unter Ängsten. Körperliche und psychische Aspekte, schwierige Lebenssituationen oder akuter Stress können die Ursachen sein. Ein Gedankenkarussell aus Grübeleien und Ängsten entsteht – betroffene Menschen sind oft nicht mehr in der Lage, positiv zu denken oder ihre Situation mit Abstand zu betrachten. Die Ergotherapie in der Psychiatrie unterbricht diese Muster und führt zu neuem Denken.</p>"
           }
         },
         "button_RHM8Mh": {
@@ -174,13 +174,13 @@
         "text_GGDYYH": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Raus aus dem Tief!<\/strong><\/p><p>Die Ergotherapie im Bereich der Psychiatrie fördert eine positive Selbstwahrnehmung und hilft Ihnen, sich selbst entspannter zu betrachten und zu akzeptieren. Erfolgserlebnisse, auf die Sie aufbauen können!<\/p>"
+            "text": "<p><strong>Raus aus dem Tief!</strong></p><p>Die Ergotherapie im Bereich der Psychiatrie fördert eine positive Selbstwahrnehmung und hilft Ihnen, sich selbst entspannter zu betrachten und zu akzeptieren. Erfolgserlebnisse, auf die Sie aufbauen können!</p>"
           }
         },
         "text_687LXc": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Entdecken Sie Ihre Fähigkeiten und Stärken.<\/strong><\/p><p>In der Therapie fördern wir die Alltagskompetenz und unterstützen bei der Lebensplanung. Sie arbeiten mit verschiedenen Materialien unter Anleitung, aber auch ganz kreativ und frei.<\/p>"
+            "text": "<p><strong>Entdecken Sie Ihre Fähigkeiten und Stärken.</strong></p><p>In der Therapie fördern wir die Alltagskompetenz und unterstützen bei der Lebensplanung. Sie arbeiten mit verschiedenen Materialien unter Anleitung, aber auch ganz kreativ und frei.</p>"
           }
         }
       },
@@ -206,19 +206,19 @@
         "text_Um7cjA": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Wir unterstützen Sie bei<\/strong><\/p><ul><li>Selbstständigkeit in Alltagstätigkeiten<\/li><li>dem Aufbau Ihrer psychischen Stabilität<\/li><li>der Verbesserung Ihres Selbstwertgefühls bzw. Ihrer Selbsteinschätzung<\/li><li>der Überwindung von Antriebslosigkeit<\/li><li>der Stärkung Ihrer Kognitionen (u.a. Konzentration, psychische Ausdauer, selektive Aufmerksamkeit)<\/li><li>Ihrer Wiedereingliederung in Wohn- und Arbeitsbereiche<\/li><li>handwerklichen, kreativ-gestalterischen Tätigkeiten<\/li><li>Körper- und Sinneserfahrungen<\/li><li>arbeitstherapeutischen Maßnahmen<\/li><li>Angstabbau<\/li><\/ul>"
+            "text": "<p><strong>Wir unterstützen Sie bei</strong></p><ul><li>der Selbstständigkeit in Alltagstätigkeiten</li><li>dem Aufbau Ihrer psychischen Stabilität</li><li>der Verbesserung Ihres Selbstwertgefühls bzw. Ihrer Selbsteinschätzung</li><li>der Überwindung von Antriebslosigkeit</li><li>der Stärkung Ihrer Kognitionen (u.a. Konzentration, psychische Ausdauer, selektive Aufmerksamkeit)</li><li>Ihrer Wiedereingliederung in Wohn- und Arbeitsbereiche</li><li>handwerklichen, kreativ-gestalterischen Tätigkeiten</li><li>Körper- und Sinneserfahrungen</li><li>arbeitstherapeutischen Maßnahmen</li><li>Angstabbau</li></ul>"
           }
         },
         "text_4td9DM": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Inhalte der Therapie<\/strong><\/p><ul><li>Hirnleistungstraining<\/li><li>Förderung von Sozialkontakten und Kommunikation<\/li><li>Entspannungsverfahren, Achtsamkeitstraining<\/li><li>Hilfestellung zur Selbstfindung: Interessen, Wünsche und Bedürfnisse erkennen<\/li><li>Tagesstrukturierung und mehr<\/li><\/ul>"
+            "text": "<p><strong>Inhalte der Therapie</strong></p><ul><li>Hirnleistungstraining</li><li>Förderung von Sozialkontakten und Kommunikation</li><li>Entspannungsverfahren, Achtsamkeitstraining</li><li>Hilfestellung zur Selbstfindung: Interessen, Wünsche und Bedürfnisse erkennen</li><li>Tagesstrukturierung und mehr</li></ul>"
           }
         },
         "text_9GWM4a": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Ziele<\/strong><\/p><p>Wir arbeiten ganzheitlich und vereinbaren gemeinsam mit Ihnen die Behandlungsziele. Entdecken Sie neue Möglichkeiten und erlangen Sie verlorengegangene Fähigkeiten zurück – für eine Verbesserung Ihrer Alltags- und Lebensqualität.<\/p><p>FRAGEN RUND UM DIE THERAPIE<\/p><ul><li>1. Wer übernimmt die Kosten?<\/li><li>2. Wie ist der Behandlungsablauf?<\/li><li>3. Wie viele Therapieeinheiten bekomme ich?<\/li><li>4. Wie lange dauert eine Behandlung?<\/li><li>5. Werden auch Hausbesuche gemacht?<\/li><\/ul>"
+            "text": "<p><strong>Ziele</strong></p><p>Wir arbeiten ganzheitlich und vereinbaren gemeinsam mit Ihnen die Behandlungsziele. Entdecken Sie neue Möglichkeiten und erlangen Sie verlorengegangene Fähigkeiten zurück – für eine Verbesserung Ihrer Alltags- und Lebensqualität.</p><p>FRAGEN RUND UM DIE THERAPIE</p><ul><li>1. Wer übernimmt die Kosten?</li><li>2. Wie ist der Behandlungsablauf?</li><li>3. Wie viele Therapieeinheiten bekomme ich?</li><li>4. Wie lange dauert eine Behandlung?</li><li>5. Werden auch Hausbesuche gemacht?</li></ul>"
           }
         }
       },
@@ -244,7 +244,7 @@
           "settings": {
             "heading": "Wer übernimmt die Kosten?",
             "icon": "check_mark",
-            "row_content": "<p>Die Verordnung für eine ambulante Ergotherapie kann nur ein Arzt ausstellen. Pro Verordnung (Rezept) hat der Patient eine Zuzahlung in Höhe von 10 % zzgl. 10 € Rezeptgebühr zu leisten, außer er ist von Seiten der Krankenkasse von den Zuzahlungen befreit, z. B. bei einer chronischen Krankheit. Bei der Lerntherapie handelt es sich um eine Selbstzahlerleistung.<\/p>",
+            "row_content": "<p>Die Verordnung für eine ambulante Ergotherapie kann nur ein Arzt ausstellen. Pro Verordnung (Rezept) hat der Patient eine Zuzahlung in Höhe von 10 % zzgl. 10 € Rezeptgebühr zu leisten, außer er ist von Seiten der Krankenkasse von den Zuzahlungen befreit, z. B. bei einer chronischen Krankheit. Bei der Lerntherapie handelt es sich um eine Selbstzahlerleistung.</p>",
             "page": ""
           }
         },
@@ -253,7 +253,7 @@
           "settings": {
             "heading": "Wie ist der Behandlungsablauf?",
             "icon": "check_mark",
-            "row_content": "<p>Bei uns hat jeder Patient einen Bezugstherapeuten. Nach einem sorgfältigen Aufnahmegespräch und der Befunderhebung werden Sie, und bei Bedarf Ihre Angehörigen, in die Planung der Therapie einbezogen.<\/p>",
+            "row_content": "<p>Bei uns hat jeder Patient einen Bezugstherapeuten. Nach einem sorgfältigen Aufnahmegespräch und der Befunderhebung werden Sie, und bei Bedarf Ihre Angehörigen, in die Planung der Therapie einbezogen.</p>",
             "page": ""
           }
         },
@@ -262,7 +262,7 @@
           "settings": {
             "heading": "Wie viele Therapieeinheiten bekomme ich?",
             "icon": "check_mark",
-            "row_content": "<p>Der Arzt entscheidet über die Anzahl Ihrer Behandlungseinheiten. Pro Rezept können im Regelfall maximal 10 Behandlungseinheiten verordnet werden. Eine mögliche Weiterbehandlung und deren Umfang legt der Arzt fest.<\/p>",
+            "row_content": "<p>Der Arzt entscheidet über die Anzahl Ihrer Behandlungseinheiten. Pro Rezept können im Regelfall maximal 10 Behandlungseinheiten verordnet werden. Eine mögliche Weiterbehandlung und deren Umfang legt der Arzt fest.</p>",
             "page": ""
           }
         },
@@ -271,7 +271,7 @@
           "settings": {
             "heading": "Wie lange dauert eine Behandlung?",
             "icon": "check_mark",
-            "row_content": "<p>Eine Therapieeinheit dauert je nach Verordnung zwischen 30 und 60 Minuten. Die Häufigkeit der Behandlungstermine ist ebenfalls abhängig von der Verordnung des Arztes.<\/p>",
+            "row_content": "<p>Eine Therapieeinheit dauert je nach Verordnung zwischen 30 und 60 Minuten. Die Häufigkeit der Behandlungstermine ist ebenfalls abhängig von der Verordnung des Arztes.</p>",
             "page": ""
           }
         },
@@ -280,7 +280,7 @@
           "settings": {
             "heading": "Werden Hausbesuche gemacht?",
             "icon": "check_mark",
-            "row_content": "<p>Grundsätzlich bieten wir die Behandlung (bei medizinischer Notwendigkeit) auch als Hausbesuch an, wenn sie entweder ärztlich verordnet oder vertraglich vereinbart ist.<\/p>",
+            "row_content": "<p>Grundsätzlich bieten wir die Behandlung (bei medizinischer Notwendigkeit) auch als Hausbesuch an, wenn sie entweder ärztlich verordnet oder vertraglich vereinbart ist.</p>",
             "page": ""
           }
         }
