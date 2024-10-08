@@ -55,7 +55,7 @@
         ".banner__box {background-color: rgba(255, 255, 255, 0.5);}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/132_-_2024-05-16_Mitarbeiter_Bulthaup-02173.jpg",
+        "image": "shopify://shop_images/132_-_2024-05-16_Mitarbeiter_Bulthaup-02173.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -74,151 +74,141 @@
         "column_URRFLM": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/118_-_2024-05-16_Mitarbeiter_Bulthaup-06840.jpg",
+            "image": "shopify://shop_images/118_-_2024-05-16_Mitarbeiter_Bulthaup-06840.jpg",
             "title": "Tanja Cordtomeikel",
             "text": "",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/tanja-cordtomeikel"
+            "link": "shopify://pages/tanja-cordtomeikel"
           }
         },
         "column_TWeiKf": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/37_-_2024-05-16_Mitarbeiter_Bulthaup-06310.jpg",
+            "image": "shopify://shop_images/37_-_2024-05-16_Mitarbeiter_Bulthaup-06310.jpg",
             "title": "Stephanie Fleischer",
             "text": "",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/stephanie-fleischer"
+            "link": "shopify://pages/stephanie-fleischer"
           }
         },
         "column_hEjpyR": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/11_-_2024-05-16_Mitarbeiter_Bulthaup-06182.jpg",
+            "image": "shopify://shop_images/11_-_2024-05-16_Mitarbeiter_Bulthaup-06182.jpg",
             "title": "Stefanie Becker",
             "text": "",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/stefanie-becker"
+            "link": "shopify://pages/stefanie-becker"
           }
         },
         "column_77M9t7": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/placeholder.jpg",
+            "image": "shopify://shop_images/placeholder.jpg",
             "title": "Corinna Jäger",
             "text": "",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/corinna-jager-elternzeit-ergotherapeutin"
+            "link": "shopify://pages/corinna-jager-elternzeit-ergotherapeutin"
           }
         },
         "column_jpzRYC": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/58_-_2024-05-16_Mitarbeiter_Bulthaup-06444.jpg",
+            "image": "shopify://shop_images/58_-_2024-05-16_Mitarbeiter_Bulthaup-06444.jpg",
             "title": "Maria Lakmann",
             "text": "",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/maria-lakmann"
+            "link": "shopify://pages/maria-lakmann"
           }
         },
         "column_PKnxCF": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/101_-_2024-05-16_Mitarbeiter_Bulthaup-06721.jpg",
+            "image": "shopify://shop_images/101_-_2024-05-16_Mitarbeiter_Bulthaup-06721.jpg",
             "title": "Jana Aust",
             "text": "",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/kirsten-kaupmann"
+            "link": "shopify://pages/kirsten-kaupmann"
           }
         },
         "column_LT4XT8": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/50_-_2024-05-16_Mitarbeiter_Bulthaup-06378.jpg",
+            "image": "shopify://shop_images/50_-_2024-05-16_Mitarbeiter_Bulthaup-06378.jpg",
             "title": "Vanessa Sluka",
             "text": "",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/vanessa-sluka"
+            "link": "shopify://pages/vanessa-sluka"
           }
         },
         "column_n9QrHc": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/72_-_2024-05-16_Mitarbeiter_Bulthaup-06530.jpg",
+            "image": "shopify://shop_images/72_-_2024-05-16_Mitarbeiter_Bulthaup-06530.jpg",
             "title": "Petra Bauch",
             "text": "",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/petra-bauch"
+            "link": "shopify://pages/petra-bauch"
           }
         },
         "column_ARnfRA": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/6_-_2024-05-16_Praxisfotos_Bulthaupt-06514.jpg",
+            "image": "shopify://shop_images/6_-_2024-05-16_Praxisfotos_Bulthaupt-06514.jpg",
             "title": "Lissy Bertsch",
             "text": "",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/lissy-bertsch"
+            "link": "shopify://pages/lissy-bertsch"
           }
         },
         "column_3E4GPi": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/38_-_2024-05-16_Mitarbeiter_Bulthaup-06322.jpg",
+            "image": "shopify://shop_images/38_-_2024-05-16_Mitarbeiter_Bulthaup-06322.jpg",
             "title": "Svenja Herfert",
             "text": "",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/svenja-herfert"
+            "link": "shopify://pages/svenja-herfert"
           }
         },
         "column_dM3qBR": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/placeholder.jpg",
+            "image": "shopify://shop_images/placeholder.jpg",
             "title": "Sandra Knipschild",
             "text": "",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/sandra-knipschild"
+            "link": "shopify://pages/sandra-knipschild"
           }
         },
         "column_aw9Vkw": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/88_-_2024-05-16_Mitarbeiter_Bulthaup-06641.jpg",
+            "image": "shopify://shop_images/88_-_2024-05-16_Mitarbeiter_Bulthaup-06641.jpg",
             "title": "Marlene Winkler",
             "text": "",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/marlene-winkler"
+            "link": "shopify://pages/marlene-winkler"
           }
         },
         "column_jeddEz": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/27_-_2024-05-16_Mitarbeiter_Bulthaup-06250.jpg",
+            "image": "shopify://shop_images/27_-_2024-05-16_Mitarbeiter_Bulthaup-06250.jpg",
             "title": "Vera Steinbach",
             "text": "",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/vera-steinbach"
+            "link": "shopify://pages/vera-steinbach"
           }
         },
         "column_zgyAaX": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/91_-_2024-05-16_Mitarbeiter_Bulthaup-06670.jpg",
+            "image": "shopify://shop_images/91_-_2024-05-16_Mitarbeiter_Bulthaup-06670.jpg",
             "title": "Kara Terlikowski",
             "text": "",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/kara-terlikowski"
-          }
-        },
-        "column_YkzcTN": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/104_-_2024-05-16_Mitarbeiter_Bulthaup-06754.jpg",
-            "title": "Marlen Schienstock",
-            "text": "",
-            "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/marlen-schienstock"
+            "link": "shopify://pages/kara-terlikowski"
           }
         }
       },
@@ -236,8 +226,7 @@
         "column_dM3qBR",
         "column_aw9Vkw",
         "column_jeddEz",
-        "column_zgyAaX",
-        "column_YkzcTN"
+        "column_zgyAaX"
       ],
       "settings": {
         "title": "",

@@ -35,7 +35,7 @@
         ".banner__box {background-color: rgba(255, 255, 255, 0.5);}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/204_-_2024-05-16_Mitarbeiter_Bulthaup-07061.jpg",
+        "image": "shopify://shop_images/204_-_2024-05-16_Mitarbeiter_Bulthaup-07061.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -69,7 +69,7 @@
         "text_n9eWnB": {
           "type": "text",
           "settings": {
-            "text": "<p>Ergotherapie unterstützt und begleitet Menschen jeden Alters, die in ihrer Handlungsfähigkeit eingeschränkt oder von Einschränkung bedroht sind. Ziel ist, sie bei der Durchführung für sie bedeutungsvoller Betätigungen in den Bereichen Selbstversorgung, Produktivität und Freizeit in ihrer persönlichen Umwelt zu stärken. Hierbei dienen spezifische Aktivitäten, Umweltanpassung und Beratung dazu, dem Menschen Handlungsfähigkeit im Alltag, gesellschaftliche Teilhabe und eine Verbesserung seiner Lebensqualität zu ermöglichen. (DVE 08\/2007)<\/p><p>Eine Definition bildet die Basis, von der aus alle Berufsangehörigen, unabhängig ihres Arbeitsgebietes, Spezialisierung und ihrer persönlichen Sichtweise die Ergotherapie darstellen können. Sie beschreibt den Kern des Berufs, ist daher berufsfeldübergreifend und nicht einer Tätigkeitsbeschreibung gleichzusetzen. Die Definition ist eine verdichtete Beschreibung, die nicht den Anspruch erhebt, alle Aspekte des komplexen Gegenstandes Ergotherapie umfassend darstellen zu können. Vielmehr soll sie die gemeinsame Berufsidentität fördern und Grundlage für eine vereinte Außendarstellung unseres Berufes sein. Erstellt von der Projektgruppe Berufsprofil in einem mehrjährigen Konsensusprozess, in den die Berufsangehörigen u.a. durch 2 Befragungen eingebunden waren, wurde die Definition Ergotherapie am 09.08.2007 vom Vorstand verabschiedet. Sie ist nunmehr die allgemein gültige Definition Ergotherapie des DVE.<\/p>"
+            "text": "<p>Ergotherapie unterstützt und begleitet Menschen jeden Alters, die in ihrer Handlungsfähigkeit eingeschränkt oder von Einschränkung bedroht sind. Ziel ist, sie bei der Durchführung für sie bedeutungsvoller Betätigungen in den Bereichen Selbstversorgung, Produktivität und Freizeit in ihrer persönlichen Umwelt zu stärken. Hierbei dienen spezifische Aktivitäten, Umweltanpassung und Beratung dazu, dem Menschen Handlungsfähigkeit im Alltag, gesellschaftliche Teilhabe und eine Verbesserung seiner Lebensqualität zu ermöglichen. (DVE 08/2007)</p><p>Eine Definition bildet die Basis, von der aus alle Berufsangehörigen, unabhängig ihres Arbeitsgebietes, Spezialisierung und ihrer persönlichen Sichtweise die Ergotherapie darstellen können. Sie beschreibt den Kern des Berufs, ist daher berufsfeldübergreifend und nicht einer Tätigkeitsbeschreibung gleichzusetzen. Die Definition ist eine verdichtete Beschreibung, die nicht den Anspruch erhebt, alle Aspekte des komplexen Gegenstandes Ergotherapie umfassend darstellen zu können. Vielmehr soll sie die gemeinsame Berufsidentität fördern und Grundlage für eine vereinte Außendarstellung unseres Berufes sein. Erstellt von der Projektgruppe Berufsprofil in einem mehrjährigen Konsensusprozess, in den die Berufsangehörigen u.a. durch 2 Befragungen eingebunden waren, wurde die Definition Ergotherapie am 09.08.2007 vom Vorstand verabschiedet. Sie ist nunmehr die allgemein gültige Definition Ergotherapie des DVE.</p>"
           }
         },
         "button_zr78kF": {
@@ -104,89 +104,79 @@
         "column_hQPTTV": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/neurologie.jpg",
+            "image": "shopify://shop_images/neurologie.jpg",
             "title": "Neurologie",
-            "text": "<p>Die Neurologie befasst sich mit Erkrankungen des zentralen Nervensystems, z. B. Schlaganfall, Schädel-Hirn-Verletzungen, Querschnittslähmung oder Multipler Sklerose.<\/p>",
+            "text": "<p>Die Neurologie befasst sich mit Erkrankungen des zentralen Nervensystems, z. B. Schlaganfall, Schädel-Hirn-Verletzungen, Querschnittslähmung oder Multipler Sklerose.</p>",
             "link_label": "weitere Informationen",
-            "link": "shopify:\/\/pages\/neurologie"
+            "link": "shopify://pages/neurologie"
           }
         },
         "column_GjjxgG": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paediatrie.jpg",
+            "image": "shopify://shop_images/paediatrie.jpg",
             "title": "Pädiatrie",
-            "text": "<p>Entwicklung und Lernen ist nicht nur bei Kindern ein höchst verflochtenes Geschehen, welches naturgemäß vielen Einflüssen unterworfen ist.<\/p>",
+            "text": "<p>Entwicklung und Lernen ist nicht nur bei Kindern ein höchst verflochtenes Geschehen, welches naturgemäß vielen Einflüssen unterworfen ist.</p>",
             "link_label": "weitere Informationen",
-            "link": "shopify:\/\/pages\/padiatrie"
+            "link": "shopify://pages/padiatrie"
           }
         },
         "column_p7XMqD": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/psychatrie.jpg",
+            "image": "shopify://shop_images/psychatrie.jpg",
             "title": "Psychiatrie",
-            "text": "<p>Wir arbeiten mit psychotherapeutischen und sozialpsychiatrischen Ansätzen.<\/p>",
+            "text": "<p>Wir arbeiten mit psychotherapeutischen und sozialpsychiatrischen Ansätzen.</p>",
             "link_label": "weitere Informationen",
-            "link": "shopify:\/\/pages\/psychiatrie"
+            "link": "shopify://pages/psychiatrie"
           }
         },
         "column_kWG7Ap": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/handtherapie-1.jpg",
+            "image": "shopify://shop_images/handtherapie-1.jpg",
             "title": "Handtherapie",
-            "text": "<p>Handrehabilitation umfasst die Therapie nach Verletzungen, Operationen, kindlichen Fehlbildungen, Überlastungssyndromen und chronischen Erkrankungen der Hand.<\/p>",
+            "text": "<p>Handrehabilitation umfasst die Therapie nach Verletzungen, Operationen, kindlichen Fehlbildungen, Überlastungssyndromen und chronischen Erkrankungen der Hand.</p>",
             "link_label": "weitere Informationen",
-            "link": "shopify:\/\/pages\/handtherapie"
+            "link": "shopify://pages/handtherapie"
           }
         },
         "column_k6NG9x": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/geriatrie.jpg",
+            "image": "shopify://shop_images/geriatrie.jpg",
             "title": "Geriatrie",
-            "text": "<p>Ergotherapeutische Maßnahmen in der Geriatrie richten sich auf die Behandlung alter und chronisch kranker Menschen aus.<\/p>",
+            "text": "<p>Ergotherapeutische Maßnahmen in der Geriatrie richten sich auf die Behandlung alter und chronisch kranker Menschen aus.</p>",
             "link_label": "weitere Informationen",
-            "link": "shopify:\/\/pages\/geriatrie"
+            "link": "shopify://pages/geriatrie"
           }
         },
         "column_QzJ4wy": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/orthopaedie.jpg",
-            "title": "Orthopädie\/Rheumatologie\/ Traumatologie",
-            "text": "<p>Die Zielsetzungen der ergotherapeutischen Behandlung sind auch im Bereich der Orthopädie auf das Erlangen einer größtmöglichen Selbständigkeit im Alltag, im Beruf und im sozialen Leben ausgerichtet.<\/p>",
+            "image": "shopify://shop_images/orthopaedie.jpg",
+            "title": "Orthopädie/Rheumatologie/ Traumatologie",
+            "text": "<p>Die Zielsetzungen der ergotherapeutischen Behandlung sind auch im Bereich der Orthopädie auf das Erlangen einer größtmöglichen Selbständigkeit im Alltag, im Beruf und im sozialen Leben ausgerichtet.</p>",
             "link_label": "weitere Informationen",
-            "link": "shopify:\/\/pages\/orthopadie"
-          }
-        },
-        "column_mJaRhh": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/biofeedback.jpg",
-            "title": "Neurofeedback",
-            "text": "<p>Eine besondere Anwendungsform des Biofeedbacks ist das Neurofeedback, dessen Ziel es ist, elektrochemische Vorgänge im Gehirn zu trainieren und zu optimieren.<\/p>",
-            "link_label": "weitere Informationen",
-            "link": "shopify:\/\/pages\/neurofeedback"
+            "link": "shopify://pages/orthopadie"
           }
         },
         "column_CUzr3w": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/lerntherapie-1.jpg",
+            "image": "shopify://shop_images/lerntherapie-1.jpg",
             "title": "Lerntherapie",
-            "text": "<p>Die integrative Lerntherapie ist eine Therapieform für Kinder und Jugendliche, die trotz ausreichender Beschulung eine Lern-Leistungsstörung entwickelt haben.<\/p>",
+            "text": "<p>Die integrative Lerntherapie ist eine Therapieform für Kinder und Jugendliche, die trotz ausreichender Beschulung eine Lern-Leistungsstörung entwickelt haben.</p>",
             "link_label": "weitere Informationen",
-            "link": "shopify:\/\/pages\/lerntherapie"
+            "link": "shopify://pages/lerntherapie"
           }
         },
         "column_HAXCBm": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/vorschau_info.jpg",
+            "image": "shopify://shop_images/vorschau_info.jpg",
             "title": "Informationen",
-            "text": "<p>In der modernen Medizin gibt es zunehmend neue Informationen und Kenntnisse über verschiedenste Themen die Ihre Gesundheit und deren Wiederherstellung betreffen. Bleiben Sie mit uns auf dem neuesten Stand.<\/p>",
+            "text": "<p>In der modernen Medizin gibt es zunehmend neue Informationen und Kenntnisse über verschiedenste Themen die Ihre Gesundheit und deren Wiederherstellung betreffen. Bleiben Sie mit uns auf dem neuesten Stand.</p>",
             "link_label": "",
             "link": ""
           }
@@ -199,7 +189,6 @@
         "column_kWG7Ap",
         "column_k6NG9x",
         "column_QzJ4wy",
-        "column_mJaRhh",
         "column_CUzr3w",
         "column_HAXCBm"
       ],
