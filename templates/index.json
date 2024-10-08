@@ -30,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Zu den Kursen",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -44,7 +44,7 @@
         "button"
       ],
       "settings": {
-        "image_2": "shopify:\/\/shop_images\/135_-_2024-05-16_Mitarbeiter_Bulthaup-06864.jpg",
+        "image_2": "shopify://shop_images/135_-_2024-05-16_Mitarbeiter_Bulthaup-06864.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
@@ -70,7 +70,7 @@
         "text_zcWzJx": {
           "type": "text",
           "settings": {
-            "text": "<p>Unsere Praxis bietet Ihnen an zwei Standorten in Rheda-Wiedenbrück und Herzebrock-Clarholz erstklassige ergotherapeutische Betreuung. Unser geschultes und erfahrenes Team deckt das gesamte Leistungsspektrum der Ergotherapie ab und setzt sich mit Leidenschaft und Fachwissen für Ihre Gesundheit und Ihr Wohlbefinden ein. Egal ob in der Rehabilitation nach Verletzungen, bei chronischen Erkrankungen oder zur Förderung der motorischen und kognitiven Fähigkeiten – wir sind Ihr kompetenter Partner.<\/p><p>Entdecken Sie auf unserer Website unser vielfältiges Angebot und erfahren Sie mehr über unsere Behandlungsansätze und -methoden. Bei uns stehen Sie und Ihre individuellen Bedürfnisse im Mittelpunkt. Lassen Sie uns gemeinsam den Weg zu mehr Lebensqualität und Selbstständigkeit gehen.<\/p><p>Wir freuen uns darauf, Sie in unseren Praxen begrüßen zu dürfen!<\/p><p>Ihr Team der Ergotherapie Bulthaup<\/p>"
+            "text": "<p>Unsere Praxis bietet Ihnen an zwei Standorten in Rheda-Wiedenbrück und Herzebrock-Clarholz erstklassige ergotherapeutische Betreuung. Unser geschultes und erfahrenes Team deckt das gesamte Leistungsspektrum der Ergotherapie ab und setzt sich mit Leidenschaft und Fachwissen für Ihre Gesundheit und Ihr Wohlbefinden ein. Egal ob in der Rehabilitation nach Verletzungen, bei chronischen Erkrankungen oder zur Förderung der motorischen und kognitiven Fähigkeiten – wir sind Ihr kompetenter Partner.</p><p>Entdecken Sie auf unserer Website unser vielfältiges Angebot und erfahren Sie mehr über unsere Behandlungsansätze und -methoden. Bei uns stehen Sie und Ihre individuellen Bedürfnisse im Mittelpunkt. Lassen Sie uns gemeinsam den Weg zu mehr Lebensqualität und Selbstständigkeit gehen.</p><p>Wir freuen uns darauf, Sie in unseren Praxen begrüßen zu dürfen!</p><p>Ihr Team der Ergotherapie Bulthaup</p>"
           }
         },
         "button_LpWXqh": {
@@ -112,7 +112,7 @@
         "text_rnyWm7": {
           "type": "text",
           "settings": {
-            "text": "<p>Wir bieten Ihnen den Service an, Ihren Termin per WhatsApp oder SMS abzusagen. Nutzen Sie dafür folgende Telefonnummer:<\/p><p><\/p>",
+            "text": "<p>Wir bieten Ihnen den Service an, Ihren Termin per WhatsApp oder SMS abzusagen. Nutzen Sie dafür folgende Telefonnummer:</p><p></p>",
             "text_style": "body"
           }
         },
@@ -131,7 +131,7 @@
         "button_Mw9eUj"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/grant-davies-BUsh6cE8itQ-unsplash.jpg",
+        "image": "shopify://shop_images/grant-davies-BUsh6cE8itQ-unsplash.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -152,81 +152,71 @@
         "column_3knPBf": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/neurologie.jpg",
+            "image": "shopify://shop_images/neurologie.jpg",
             "title": "Neurologie",
-            "text": "<p>Mehr Lebensqualität bei neurologischen Erkrankungen.<\/p>",
+            "text": "<p>Mehr Lebensqualität bei neurologischen Erkrankungen.</p>",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/neurologie"
+            "link": "shopify://pages/neurologie"
           }
         },
         "column_ENKJ4D": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/paediatrie.jpg",
+            "image": "shopify://shop_images/paediatrie.jpg",
             "title": "Pädiatrie",
-            "text": "<p>Unterstützung bei Entwicklung und Lernverhalten.<\/p>",
+            "text": "<p>Unterstützung bei Entwicklung und Lernverhalten.</p>",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/padiatrie"
+            "link": "shopify://pages/padiatrie"
           }
         },
         "column_tY3wfJ": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/psychatrie.jpg",
+            "image": "shopify://shop_images/psychatrie.jpg",
             "title": "Psychiatrie",
-            "text": "<p>Psychotherapeutische und sozialpsychiatrische Therapieansätze<\/p>",
+            "text": "<p>Psychotherapeutische und sozialpsychiatrische Therapieansätze</p>",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/psychiatrie"
+            "link": "shopify://pages/psychiatrie"
           }
         },
         "column_FdBwVp": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/handtherapie-1.jpg",
+            "image": "shopify://shop_images/handtherapie-1.jpg",
             "title": "Handtherapie",
-            "text": "<p>Therapie nach Verletzungen, OP's und chronischen Erkrankungen.<\/p>",
+            "text": "<p>Therapie nach Verletzungen, OP's und chronischen Erkrankungen.</p>",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/handtherapie"
+            "link": "shopify://pages/handtherapie"
           }
         },
         "column_j73BKK": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/geriatrie.jpg",
+            "image": "shopify://shop_images/geriatrie.jpg",
             "title": "Geriatrie",
-            "text": "<p>Behandlung alter und chronisch kranker Menschen.<\/p>",
+            "text": "<p>Behandlung alter und chronisch kranker Menschen.</p>",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/geriatrie"
+            "link": "shopify://pages/geriatrie"
           }
         },
         "column_VHaxVf": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/orthopaedie.jpg",
-            "title": "Orthopädie \/ Rheumatologie \/ Traumatologie",
+            "image": "shopify://shop_images/orthopaedie.jpg",
+            "title": "Orthopädie / Rheumatologie / Traumatologie",
             "text": "",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/orthopadie"
-          }
-        },
-        "column_tU7Vmw": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/biofeedback.jpg",
-            "title": "Neurofeedback",
-            "text": "<p>Optimierung elektrochemischer Vorgänge im Gehirn.<\/p>",
-            "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/neurofeedback"
+            "link": "shopify://pages/orthopadie"
           }
         },
         "column_fKgKhH": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/lerntherapie-1.jpg",
+            "image": "shopify://shop_images/lerntherapie-1.jpg",
             "title": "Lerntherapie",
-            "text": "<p>Therapie von Lern-Leistungsstörungen.<\/p>",
+            "text": "<p>Therapie von Lern-Leistungsstörungen.</p>",
             "link_label": "mehr Infos",
-            "link": "shopify:\/\/pages\/lerntherapie"
+            "link": "shopify://pages/lerntherapie"
           }
         }
       },
@@ -237,7 +227,6 @@
         "column_FdBwVp",
         "column_j73BKK",
         "column_VHaxVf",
-        "column_tU7Vmw",
         "column_fKgKhH"
       ],
       "settings": {
