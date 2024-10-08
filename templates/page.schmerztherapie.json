@@ -23,7 +23,7 @@
         "heading_gnWFqQ": {
           "type": "heading",
           "settings": {
-            "heading": "Schmerztherapie",
+            "heading": "Schwindeltherapie",
             "heading_size": "h1"
           }
         },
@@ -55,7 +55,7 @@
         ".banner__box {background-color: rgba(255, 255, 255, 0.5);}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/bulthaup_kopfbild_stellenanzeige.jpg",
+        "image": "shopify://shop_images/bulthaup_kopfbild_stellenanzeige.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -74,7 +74,7 @@
         "text_YrMhp7": {
           "type": "text",
           "settings": {
-            "text": "<p>Die Zahl der Schmerzpatienten, die sich neben der ärztlichen Behandlung professionelle Hilfe bei Ergotherapeuten suchen, nimmt stark zu. Patienten mit chronischen Schmerzen haben nicht nur körperliche Symptome, sie leiden auch unter psychischen und sozialen Auswirkungen. In der Schmerztherapie geht es neben klassischen Behandlungsmethoden wie der manuellen Therapie und der medizinischen Trainingstherapie um ganzheitliche Behandlungstechniken wie Fußreflexzonenmassage, Faszientechniken, GOT Techniken (General Osteopathic Treatment) und Behandlungsverfahren aus der Traditionellen Chinesischen Medizin. Es wird eine systematische Anamnese durchgeführt und ist die Basis einer individuell auf den Schmerzpatienten abgestimmten Therapieplanung.<\/p>"
+            "text": "<p>Die Zahl der Schmerzpatienten, die sich neben der ärztlichen Behandlung professionelle Hilfe bei Ergotherapeuten suchen, nimmt stark zu. Patienten mit chronischen Schmerzen haben nicht nur körperliche Symptome, sie leiden auch unter psychischen und sozialen Auswirkungen. In der Schmerztherapie geht es neben klassischen Behandlungsmethoden wie der manuellen Therapie und der medizinischen Trainingstherapie um ganzheitliche Behandlungstechniken wie Fußreflexzonenmassage, Faszientechniken, GOT Techniken (General Osteopathic Treatment) und Behandlungsverfahren aus der Traditionellen Chinesischen Medizin. Es wird eine systematische Anamnese durchgeführt und ist die Basis einer individuell auf den Schmerzpatienten abgestimmten Therapieplanung.</p>"
           }
         }
       },
