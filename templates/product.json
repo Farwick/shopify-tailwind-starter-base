@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -85,19 +94,19 @@
         "text_cHtzhq": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Aufgaben und Anforderungen einfacher bewältigen.<\/strong><\/p><p>Hat Ihr Kind Schwierigkeiten sich einer Sache gezielt zuzuwenden, dabei zu bleiben, Unwichtiges auszublenden oder Aufgaben in einer angemessenen Zeit zu bearbeiten? In der Regel „verwächst“ sich ein unkonzentriertes Verhalten nicht, vielmehr haben diese Kinder ein vermehrtes Risiko in der Schule zu scheitern. Leistungsprobleme entstehen, aus denen sich häufig Verhaltensauffälligkeiten und schwaches Selbstbewusstsein entwickeln.<\/p>"
+            "text": "<p><strong>Aufgaben und Anforderungen einfacher bewältigen.</strong></p><p>Hat Ihr Kind Schwierigkeiten sich einer Sache gezielt zuzuwenden, dabei zu bleiben, Unwichtiges auszublenden oder Aufgaben in einer angemessenen Zeit zu bearbeiten? In der Regel „verwächst“ sich ein unkonzentriertes Verhalten nicht, vielmehr haben diese Kinder ein vermehrtes Risiko in der Schule zu scheitern. Leistungsprobleme entstehen, aus denen sich häufig Verhaltensauffälligkeiten und schwaches Selbstbewusstsein entwickeln.</p>"
           }
         },
         "text_gfMMnK": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Wann ist MKT sinnvoll?<\/strong><\/p><p>Das MKT ist für Kinder gedacht,<\/p><ul><li>die sich wenig zutrauen.<\/li><li>die Aufmerksamkeitsdefizite in der Schule zeigen.<\/li><li>die sehr viel Zuwendung brauchen.<\/li><li>die Defizite in einem oder mehreren Bereichen haben. (Wahrnehmung, Sprache, Konzentration, Motorik, Leistungsmotivation...)<\/li><li>die Anzeichen einer beginnenden Aufmerksamkeitsstörung wie z. B. AD(H)S haben.<\/li><\/ul>"
+            "text": "<p><strong>Wann ist MKT sinnvoll?</strong></p><p>Das MKT ist für Kinder gedacht,</p><ul><li>die sich wenig zutrauen.</li><li>die Aufmerksamkeitsdefizite in der Schule zeigen.</li><li>die sehr viel Zuwendung brauchen.</li><li>die Defizite in Bereichen, wie z.B. bei der Konzentration oder Leistungsmotivation, haben</li><li>beginnenden Aufmerksamkeitsstörung wie z. B. AD(H)S haben.</li></ul>"
           }
         },
         "text_ipwGzL": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Aufbau<\/strong><\/p><p>Die Trainingseinheiten sind immer gleich aufgebaut – zusätzlich gibt es Übungen für Zuhause und begleitende Elternabende.<\/p>"
+            "text": "<p><strong>Aufbau</strong></p><p>Die Trainingseinheiten sind immer gleich aufgebaut – zusätzlich gibt es Übungen für Zuhause und begleitende Elternabende.</p>"
           }
         }
       },
@@ -122,19 +131,19 @@
         "text_RVnTqk": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Inhalte<\/strong><\/p><p>Übungen zum Entspannen und Ruhigwerden (wie z. B. Autogenes Training), verbale Selbstinstruktion, Förderung der Feinmotorik, Kim Spiele, Denk- und Erzählspiele sowie Gruppenspiele. Außerdem werden grundlegende Arbeitstechniken für den Schul- und Hausaufgabenalltag vermittelt.<\/p>"
+            "text": "<p><strong>Inhalte</strong></p><p>Übungen zum Entspannen und Ruhigwerden (wie z. B. Autogenes Training), verbale Selbstinstruktion, Förderung der Feinmotorik, Kim Spiele, Denk- und Erzählspiele sowie Gruppenspiele. Außerdem werden grundlegende Arbeitstechniken für den Schul- und Hausaufgabenalltag vermittelt.</p>"
           }
         },
         "text_LmQDzJ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Ziele<\/strong><\/p><p>Durch eine positive Verstärkung erreichen wir Verhaltungsmodifikationen. Das verbessert die Selbsteinschätzung und die Selbstkontrolle Ihres Kindes nachhaltig. Das Lernen macht wieder Spaß.<\/p>"
+            "text": "<p><strong>Ziele</strong></p><p>Durch eine positive Verstärkung erreichen wir Verhaltungsmodifikationen. Das verbessert die Selbsteinschätzung und die Selbstkontrolle Ihres Kindes nachhaltig. Das Lernen macht wieder Spaß.</p>"
           }
         },
         "text_HJmfFW": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Termine<\/strong><\/p><ul><li>15.01.2024-11.03.2024, 1. + 2. Klasse, Montag 16.30 Uhr, 8 x 60 Minuten + Elternabend am 23.01.2024 um 18.30 Uhr<\/li><li>17.01.2024-22.03.2024, 3. + 4. Klasse, Mittwoch 17.00 Uhr, 8 x 60 Minuten + Elternabend am 23.01.2024 um 18.30 Uhr<\/li><li>15.04.2024-10.06.2024, 1. + 2. Klasse, Montag 16.30 Uhr, 8 x 60 Minuten + Elternabend am 23.04.2024 um 18.30 Uhr<\/li><li>17.04.2024-12.06.2024, 3. + 4. Klasse, Mittwoch 17.00 Uhr, 8 x 60 Minuten + Elternabend am 23.04.2024 um 18.30 Uhr<\/li><li>28.10.2024-16.12.2024, 1. + 2. Klasse, Montag 16.30 Uhr, 8 x 60 Minuten + Elternabend am 05. 11.2024 um 18.30 Uhr<\/li><li>30.10.2024-18.12.2024, 3. + 4. Klasse, Mittwoch 17.00 Uhr, 8 x 60 Minuten + Elternabend am 05.11.2024 um 18.30 Uhr<\/li><\/ul><p><\/p><p>Haben Sie noch Fragen? Rufen Sie uns gerne an.<\/p>"
+            "text": "<p><strong>Termine</strong></p><ul><li>15.01.2024-11.03.2024, 1. + 2. Klasse, Montag 16.30 Uhr, 8 x 60 Minuten + Elternabend am 23.01.2024 um 18.30 Uhr</li><li>17.01.2024-22.03.2024, 3. + 4. Klasse, Mittwoch 17.00 Uhr, 8 x 60 Minuten + Elternabend am 23.01.2024 um 18.30 Uhr</li><li>15.04.2024-10.06.2024, 1. + 2. Klasse, Montag 16.30 Uhr, 8 x 60 Minuten + Elternabend am 23.04.2024 um 18.30 Uhr</li><li>17.04.2024-12.06.2024, 3. + 4. Klasse, Mittwoch 17.00 Uhr, 8 x 60 Minuten + Elternabend am 23.04.2024 um 18.30 Uhr</li><li>28.10.2024-16.12.2024, 1. + 2. Klasse, Montag 16.30 Uhr, 8 x 60 Minuten + Elternabend am 05. 11.2024 um 18.30 Uhr</li><li>30.10.2024-18.12.2024, 3. + 4. Klasse, Mittwoch 17.00 Uhr, 8 x 60 Minuten + Elternabend am 05.11.2024 um 18.30 Uhr</li></ul><p></p><p>Haben Sie noch Fragen? Rufen Sie uns gerne an.</p>"
           }
         }
       },
