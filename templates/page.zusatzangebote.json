@@ -55,7 +55,7 @@
         ".banner__box {background-color: rgba(255, 255, 255, 0.5);}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/132_-_2024-05-16_Mitarbeiter_Bulthaup-02173.jpg",
+        "image": "shopify://shop_images/132_-_2024-05-16_Mitarbeiter_Bulthaup-02173.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -74,37 +74,37 @@
         "column_dQE4Kn": {
           "type": "column",
           "settings": {
-            "title": "<strong>Galileotraining<\/strong>",
-            "text": "<p>Das Galileo ist ein Vibrationstrainingsgerät, dass auf dem natürlichen Bewegungsablauf des Menschen beim Gehen beruht<\/p>",
+            "title": "<strong>Galileotraining</strong>",
+            "text": "<p>Das Galileo ist ein Vibrationstrainingsgerät, dass auf dem natürlichen Bewegungsablauf des Menschen beim Gehen beruht</p>",
             "link_label": "weitere Informationen",
-            "link": "shopify:\/\/pages\/galileo-training"
+            "link": "shopify://pages/galileo-training"
           }
         },
         "column_AhMJWi": {
           "type": "column",
           "settings": {
-            "title": "<strong>Schröpftherapie<\/strong>",
-            "text": "<p>Beim Schröpfen werden Schröpfgläser oder Schröpfköpfe durch Erzeugung eines Unterdrucks auf die Haut gesetzt.<\/p>",
+            "title": "<strong>Schröpftherapie</strong>",
+            "text": "<p>Beim Schröpfen werden Schröpfgläser oder Schröpfköpfe durch Erzeugung eines Unterdrucks auf die Haut gesetzt.</p>",
             "link_label": "weitere Informationen",
-            "link": "shopify:\/\/pages\/schropfkopf-therapie"
+            "link": "shopify://pages/schropfkopf-therapie"
           }
         },
         "column_dYEjP3": {
           "type": "column",
           "settings": {
-            "title": "<strong>Easy Taping \/ Cross Taping<\/strong>",
-            "text": "<p>Taping ist ein medikamentenfreier und ganzheitlicher Therapieansatz.<\/p>",
+            "title": "<strong>Easy Taping / Cross Taping</strong>",
+            "text": "<p>Taping ist ein medikamentenfreier und ganzheitlicher Therapieansatz.</p>",
             "link_label": "weitere Informationen",
-            "link": "shopify:\/\/pages\/easy-taping-cross-taping"
+            "link": "shopify://pages/easy-taping-cross-taping"
           }
         },
         "column_fYgFXr": {
           "type": "column",
           "settings": {
-            "title": "<strong>Schmerztherapie<\/strong>",
-            "text": "<p>In der Schmerztherapie geht es neben klassischen Behandlungsmethoden wie der manuellen Therapie und der medizinischen Trainingstherapie um ganzheitliche Behandlungstechniken.<\/p>",
+            "title": "<strong>Schwindeltherapie</strong>",
+            "text": "<p>In der Schmerztherapie geht es neben klassischen Behandlungsmethoden wie der manuellen Therapie und der medizinischen Trainingstherapie um ganzheitliche Behandlungstechniken.</p>",
             "link_label": "weitere Informationen",
-            "link": "shopify:\/\/pages\/schmerztherapie"
+            "link": "shopify://pages/schmerztherapie"
           }
         }
       },
