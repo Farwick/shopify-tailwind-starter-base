@@ -55,7 +55,7 @@
         ".banner__box {background-color: rgba(255, 255, 255, 0.5);}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/paediatrie.jpg",
+        "image": "shopify://shop_images/paediatrie.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -81,7 +81,7 @@
         "text_YrMhp7": {
           "type": "text",
           "settings": {
-            "text": "<p>Besonders Kinder sind in ihrem Alltag permanent neuen Herausforderungen ausgesetzt und müssen lernen, sich immer wieder neu anzupassen und weiterzuentwickeln.<\/p><p>Die Pädiatrie in der Ergotherapie umfasst die Behandlung von Kindern und Jugendlichen, die Beeinträchtigungen und Entwicklungsverzögerungen im motorischen, sensorischen und im kognitiven Bereich zeigen.<\/p>"
+            "text": "<p>Besonders Kinder sind in ihrem Alltag permanent neuen Herausforderungen ausgesetzt und müssen lernen, sich immer wieder neu anzupassen und weiterzuentwickeln.</p><p>Die Pädiatrie in der Ergotherapie umfasst die Behandlung von Kindern und Jugendlichen, die Beeinträchtigungen und Entwicklungsverzögerungen im motorischen, sensorischen und im kognitiven Bereich zeigen.</p>"
           }
         },
         "button_cCCqMV": {
@@ -116,7 +116,7 @@
         "column_FgjBpq": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Paediatrie_content.jpg",
+            "image": "shopify://shop_images/ergotherapie_bulthaup_Paediatrie_content.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -157,7 +157,7 @@
         "text_A8Q7nd": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Wann ist Ergotherapie sinnvoll?<\/strong><\/p><p>Behandelt werden Kinder und Jugendliche mit<\/p><ul><li>Probleme in der Feinmotorik<\/li><li>Störungen des Bewegungsapparates\/der Motorik<\/li><li>Probleme in der Feinmotorik oder Stifthaltung<\/li><li>körperlichen, geistigen und seelischen Entwicklungsrückständen<\/li><li>Verhaltensstörungen (Angst, Abwehr, Hyperaktivität…)<\/li><li>Konzentrationsproblemen<\/li><\/ul><p>Unter Berücksichtigung des aktuellen Entwicklungsstandes wird das Kind ganzheitlich in seinem sozialen und familiären Umfeld nach verschiedenen Therapiekonzepten behandelt. Hierbei ist die Elternarbeit sowie die direkte Übertragung in den Alltag eine wichtige Voraussetzung, um langfristige Therapieerfolge erzielen zu können.<\/p>"
+            "text": "<p><strong>Wann ist Ergotherapie sinnvoll?</strong></p><p>Behandelt werden Kinder und Jugendliche mit</p><ul><li>Problemen in der Feinmotorik</li><li>Störungen des Bewegungsapparates/der Motorik</li><li>Probleme in der Feinmotorik oder Stifthaltung</li><li>körperlichen, geistigen und seelischen Entwicklungsrückständen</li><li>Verhaltensstörungen (Angst, Abwehr, Hyperaktivität…)</li><li>Konzentrationsproblemen</li></ul><p>Unter Berücksichtigung des aktuellen Entwicklungsstandes wird das Kind ganzheitlich in seinem sozialen und familiären Umfeld nach verschiedenen Therapiekonzepten behandelt. Hierbei ist die Elternarbeit sowie die direkte Übertragung in den Alltag eine wichtige Voraussetzung, um langfristige Therapieerfolge erzielen zu können.</p>"
           }
         },
         "button_RHM8Mh": {
@@ -174,13 +174,13 @@
         "text_GGDYYH": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Inhalte der Therapie<\/strong><\/p><ul><li>Entwicklung und Verbesserung von Motorik, Koordination, Gleichgewicht, Körpereigenwahrnehmung, Tonusregulation<\/li><li>Entwicklung und Verbesserung fein- und graphomotorischer Koordination<\/li><li>Vermeidung von Folgeschäden und Entwicklungsverzögerungen<\/li><li>Verbesserung der kognitiven Leistungen (Konzentration, Ausdauer, Gedächtnisleistung, Handlungsplanung…)<\/li><li>Verbesserung der Verarbeitung von Sinneswahrnehmung<\/li><\/ul>"
+            "text": "<p><strong>Inhalte der Therapie</strong></p><ul><li>Entwicklung und Verbesserung von Motorik, Koordination, Gleichgewicht, Körpereigenwahrnehmung, Tonusregulation</li><li>Entwicklung und Verbesserung fein- und graphomotorischer Koordination</li><li>Vermeidung von Folgeschäden und Entwicklungsverzögerungen</li><li>Verbesserung der kognitiven Leistungen (Konzentration, Ausdauer, Gedächtnisleistung, Handlungsplanung…)</li><li>Verbesserung der Verarbeitung von Sinneswahrnehmung</li></ul>"
           }
         },
         "text_687LXc": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Ziele<\/strong><\/p><p>Wir vereinbaren gemeinsam die genauen Behandlungsziele. Das Kind soll eine größtmögliche Selbstständigkeit im Alltag, in der Schule und im sozialen Umfeld erreichen. Die Ergotherapie begleitet die Kinder auf ihrem Weg zu einem selbstständigen und handlungsfähigen Menschen und setzt gezielt in den Bereichen an, in welchen die Kinder Unterstützung und Hilfe benötigen.<\/p>"
+            "text": "<p><strong>Ziele</strong></p><p>Wir vereinbaren gemeinsam die genauen Behandlungsziele. Das Kind soll eine größtmögliche Selbstständigkeit im Alltag, in der Schule und im sozialen Umfeld erreichen. Die Ergotherapie begleitet die Kinder auf ihrem Weg zu einem selbstständigen und handlungsfähigen Menschen und setzt gezielt in den Bereichen an, in welchen die Kinder Unterstützung und Hilfe benötigen.</p>"
           }
         }
       },
@@ -208,7 +208,7 @@
           "settings": {
             "heading": "Wer übernimmt die Kosten?",
             "icon": "check_mark",
-            "row_content": "<p>Die Verordnung für eine ambulante Ergotherapie kann nur ein Arzt ausstellen. Pro Verordnung (Rezept) hat der Patient eine Zuzahlung in Höhe von 10 % zzgl. 10 € Rezeptgebühr zu leisten, außer er ist von Seiten der Krankenkasse von den Zuzahlungen befreit, z. B. bei einer chronischen Krankheit. Bei der Lerntherapie handelt es sich um eine Selbstzahlerleistung.<\/p>",
+            "row_content": "<p>Die Verordnung für eine ambulante Ergotherapie kann nur ein Arzt ausstellen. Pro Verordnung (Rezept) hat der Patient eine Zuzahlung in Höhe von 10 % zzgl. 10 € Rezeptgebühr zu leisten, außer er ist von Seiten der Krankenkasse von den Zuzahlungen befreit, z. B. bei einer chronischen Krankheit. Bei der Lerntherapie handelt es sich um eine Selbstzahlerleistung.</p>",
             "page": ""
           }
         },
@@ -217,7 +217,7 @@
           "settings": {
             "heading": "Wie ist der Behandlungsablauf?",
             "icon": "check_mark",
-            "row_content": "<p>Bei uns hat jeder Patient einen Bezugstherapeuten. Nach einem sorgfältigen Aufnahmegespräch und der Befunderhebung werden Sie, und bei Bedarf Ihre Angehörigen, in die Planung der Therapie einbezogen.<\/p>",
+            "row_content": "<p>Bei uns hat jeder Patient einen Bezugstherapeuten. Nach einem sorgfältigen Aufnahmegespräch und der Befunderhebung werden Sie, und bei Bedarf Ihre Angehörigen, in die Planung der Therapie einbezogen.</p>",
             "page": ""
           }
         },
@@ -226,7 +226,7 @@
           "settings": {
             "heading": "Wie viele Therapieeinheiten bekomme ich?",
             "icon": "check_mark",
-            "row_content": "<p>Der Arzt entscheidet über die Anzahl Ihrer Behandlungseinheiten. Pro Rezept können im Regelfall maximal 10 Behandlungseinheiten verordnet werden. Eine mögliche Weiterbehandlung und deren Umfang legt der Arzt fest.<\/p>",
+            "row_content": "<p>Der Arzt entscheidet über die Anzahl Ihrer Behandlungseinheiten. Pro Rezept können im Regelfall maximal 10 Behandlungseinheiten verordnet werden. Eine mögliche Weiterbehandlung und deren Umfang legt der Arzt fest.</p>",
             "page": ""
           }
         },
@@ -235,7 +235,7 @@
           "settings": {
             "heading": "Wie lange dauert eine Behandlung?",
             "icon": "check_mark",
-            "row_content": "<p>Eine Therapieeinheit dauert je nach Verordnung zwischen 30 und 60 Minuten. Die Häufigkeit der Behandlungstermine ist ebenfalls abhängig von der Verordnung des Arztes.<\/p>",
+            "row_content": "<p>Eine Therapieeinheit dauert je nach Verordnung zwischen 30 und 60 Minuten. Die Häufigkeit der Behandlungstermine ist ebenfalls abhängig von der Verordnung des Arztes.</p>",
             "page": ""
           }
         },
@@ -244,7 +244,7 @@
           "settings": {
             "heading": "Werden Hausbesuche gemacht?",
             "icon": "check_mark",
-            "row_content": "<p>Grundsätzlich bieten wir die Behandlung (bei medizinischer Notwendigkeit) auch als Hausbesuch an, wenn sie entweder ärztlich verordnet oder vertraglich vereinbart ist.<\/p>",
+            "row_content": "<p>Grundsätzlich bieten wir die Behandlung (bei medizinischer Notwendigkeit) auch als Hausbesuch an, wenn sie entweder ärztlich verordnet oder vertraglich vereinbart ist.</p>",
             "page": ""
           }
         }
