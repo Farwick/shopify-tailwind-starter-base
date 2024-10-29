@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -55,7 +55,7 @@
         ".banner__box {background-color: rgba(255, 255, 255, 0.5);}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/lerntherapie-1.jpg",
+        "image": "shopify://shop_images/lerntherapie-3.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -74,7 +74,7 @@
         "text_YrMhp7": {
           "type": "text",
           "settings": {
-            "text": "<p>Die Lerntherapie berücksichtigt die individuellen Ursachen und Ausprägungen der Lernschwächen Ihres Kindes. Wir setzen an den Stärken an.<\/p>"
+            "text": "<p>Die Lerntherapie berücksichtigt die individuellen Ursachen und Ausprägungen der Lernschwächen Ihres Kindes. Wir setzen an den Stärken an.</p>"
           }
         },
         "button_cCCqMV": {
@@ -115,19 +115,19 @@
         "text_A8Q7nd": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Ihr Kind hat Probleme beim Lesen, Schreiben oder Rechnen. Es liest stockend, macht immer wieder Rechtschreibfehler oder scheitert an einfachen Rechenaufgaben.<\/li><li>Obwohl Sie intensiv mit Ihrem Kind üben und es sich bemüht, stellt sich kein Erfolg ein.<\/li><li>Ihr Kind hat keine Lust mehr auf Schule und Lernen, bekommt oft Bauch- oder Kopfschmerzen, plagt sich mit Versagensängsten und traut sich immer weniger zu.<\/li><li>Die Themen Schule und Hausaufgaben bestimmen mittlerweile Ihren Familienalltag. Sie finden alleine keinen Ausweg mehr.<\/li><\/ul>"
+            "text": "<ul><li>Ihr Kind hat Probleme beim Lesen, Schreiben oder Rechnen. Es liest stockend, macht immer wieder Rechtschreibfehler oder scheitert an einfachen Rechenaufgaben.</li><li>Obwohl Sie intensiv mit Ihrem Kind üben und es sich bemüht, stellt sich kein Erfolg ein.</li><li>Ihr Kind hat keine Lust mehr auf Schule und Lernen, bekommt oft Bauch- oder Kopfschmerzen, plagt sich mit Versagensängsten und traut sich immer weniger zu.</li><li>Die Themen Schule und Hausaufgaben bestimmen mittlerweile Ihren Familienalltag. Sie finden alleine keinen Ausweg mehr.</li></ul>"
           }
         },
         "text_GGDYYH": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Unser Förderangebot umfasst:<\/strong><\/p><ul><li>ein Erstgespräch, bei welchem die aktuellen Probleme und mögliche Förderwege besprochen werden.<\/li><li>eine ausführliche Diagnostik mit anschließendem Auswertungsgespräch<\/li><li>individuelle Einzelförderung (einmal pro Woche für 45 Minuten)<\/li><li>Beratung und Begleitung der Eltern.<\/li><li>auf Wunsch Austausch mit Lehrern, anderen Therapeuten<\/li><\/ul>"
+            "text": "<p><strong>Unser Förderangebot umfasst:</strong></p><ul><li>ein Erstgespräch, bei welchem die aktuellen Probleme und mögliche Förderwege besprochen werden.</li><li>eine ausführliche Diagnostik mit anschließendem Auswertungsgespräch</li><li>individuelle Einzelförderung (einmal pro Woche für 45 Minuten)</li><li>Beratung und Begleitung der Eltern.</li><li>auf Wunsch Austausch mit Lehrern, anderen Therapeuten</li></ul>"
           }
         },
         "text_EiyVyH": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Ziele der Lerntherapie<\/strong><\/p><ul><li>Lesen, Schreiben, Rechnen beherrschen<\/li><li>Selbstorganisation, eigene Lernwege entwickeln<\/li><li>Selbstbewusstsein, Motivation, Lernbereitschaft stärken<\/li><li>Wahrnehmung fördern (auditiv, visuell)<\/li><\/ul><p>Jedes Kind kann lernen, es braucht nur den richtigen Lernweg!<\/p><p>Die Kosten müssen selbst getragen werden. Eine Verordnung ist in diesem Fall nicht möglich.<\/p>"
+            "text": "<p><strong>Ziele der Lerntherapie</strong></p><ul><li>Lesen, Schreiben, Rechnen beherrschen</li><li>Selbstorganisation, eigene Lernwege entwickeln</li><li>Selbstbewusstsein, Motivation, Lernbereitschaft stärken</li><li>Wahrnehmung fördern (auditiv, visuell)</li></ul><p>Jedes Kind kann lernen, es braucht nur den richtigen Lernweg!</p><p>Die Kosten müssen selbst getragen werden. Eine Verordnung ist in diesem Fall nicht möglich.</p>"
           }
         }
       },
