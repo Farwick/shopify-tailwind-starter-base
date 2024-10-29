@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "logo": "shopify://shop_images/logo-hintergrund-schwarz.png",
@@ -168,7 +168,7 @@
             "settings": {
               "text": "Haben wir Ihr Interesse geweckt?",
               "subtext": "Dann rufen Sie uns an!",
-              "paralax-image": "shopify://shop_images/interesse-geweckt.jpg"
+              "paralax-image": "shopify://shop_images/IMG_7111.jpg"
             }
           }
         },
@@ -526,7 +526,7 @@
   "platform_customizations": {
     "custom_css": [
       "ul {list-style-type: circle;}",
-      "body, p, li {text-align: justify; text-justify: inter-word;}"
+      "body,p,li {text-align: justify; text-justify: inter-word;}"
     ]
   }
 }
