@@ -152,13 +152,14 @@
         "block_order": [
           "text_47Fczr"
         ],
-        "settings": {
-        }
+        "custom_css": [
+          "@media (min-width: 990px) {.twcss-grid-cols-3 {grid-template-columns: repeat(3, minmax(0, 1fr)); }}"
+        ],
+        "settings": {}
       },
       "hero-image-section-template": {
         "type": "hero-image-section-template",
-        "settings": {
-        }
+        "settings": {}
       },
       "paralax-template": {
         "type": "paralax-template",
@@ -175,8 +176,7 @@
         "block_order": [
           "text_Ei4Fkx"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "multicolumn": {
         "type": "multicolumn",
@@ -245,8 +245,7 @@
         "block_order": [
           "text_QjmmCr"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "hero-image-praxis-template": {
         "type": "hero-image-praxis-template",
@@ -261,13 +260,10 @@
         "block_order": [
           "image_XjaJpP"
         ],
-        "settings": {
-        }
+        "settings": {}
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
         "settings": {
