@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -21,8 +21,7 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "caption": {
           "type": "text",
@@ -33,8 +32,7 @@
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -45,8 +43,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -106,7 +103,7 @@
         "text_ipwGzL": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Aufbau</strong></p><p>Die Trainingseinheiten sind immer gleich aufgebaut – zusätzlich gibt es Übungen für Zuhause und begleitende Elternabende.</p>"
+            "text": "<p><strong>Aufbau</strong></p><p>Die Trainingseinheiten sind immer gleich aufgebaut – zusätzlich gibt es begleitende Elternabende.</p>"
           }
         }
       },
@@ -143,7 +140,7 @@
         "text_HJmfFW": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Termine</strong></p><ul><li>15.01.2024-11.03.2024, 1. + 2. Klasse, Montag 16.30 Uhr, 8 x 60 Minuten + Elternabend am 23.01.2024 um 18.30 Uhr</li><li>17.01.2024-22.03.2024, 3. + 4. Klasse, Mittwoch 17.00 Uhr, 8 x 60 Minuten + Elternabend am 23.01.2024 um 18.30 Uhr</li><li>15.04.2024-10.06.2024, 1. + 2. Klasse, Montag 16.30 Uhr, 8 x 60 Minuten + Elternabend am 23.04.2024 um 18.30 Uhr</li><li>17.04.2024-12.06.2024, 3. + 4. Klasse, Mittwoch 17.00 Uhr, 8 x 60 Minuten + Elternabend am 23.04.2024 um 18.30 Uhr</li><li>28.10.2024-16.12.2024, 1. + 2. Klasse, Montag 16.30 Uhr, 8 x 60 Minuten + Elternabend am 05. 11.2024 um 18.30 Uhr</li><li>30.10.2024-18.12.2024, 3. + 4. Klasse, Mittwoch 17.00 Uhr, 8 x 60 Minuten + Elternabend am 05.11.2024 um 18.30 Uhr</li></ul><p></p><p>Haben Sie noch Fragen? Rufen Sie uns gerne an.</p>"
+            "text": "<p><strong>Termine</strong></p><ul><li>22.01.2025-12.03.2025, 1. - 4. Klasse, Mittwoch 17.15 Uhr - 18.15 Uhr, 8 x 60 Minuten + Elternabend 28.01.2025 um 18.30 Uhr</li><li>30.04.2025-18.06.2025, 1. - 4. Klasse, Mittwoch 17.15 Uhr - 18.15 Uhr, 8 x 60 Minuten + Elternabend 06.05.2025 um 18.30 Uhr</li><li>29.10.2025-17.12.2025, 1. - 4. Klasse, Mittwoch 17.15 Uhr - 18.15 Uhr, 8 x 60 Minuten + Elternabend 04.11.2025 um 18.30 Uhr</li></ul><p></p><p>Die Teilnehmerzahl ist auf 8 pro Kurs begrenzt.</p><p></p><p>Haben Sie noch Fragen? Rufen Sie uns gerne an.</p>"
           }
         }
       },
