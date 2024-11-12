@@ -152,9 +152,7 @@
         "block_order": [
           "text_47Fczr"
         ],
-        "custom_css": [
-          "@media (min-width: 990px) {.twcss-grid-cols-3 {grid-template-columns: repeat(3, minmax(0, 1fr)); }}"
-        ],
+        "custom_css": [],
         "settings": {}
       },
       "hero-image-section-template": {
