@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -23,7 +23,7 @@
         "heading_gnWFqQ": {
           "type": "heading",
           "settings": {
-            "heading": "Orthopädie \/ Rheumatologie \/ Traumatologie",
+            "heading": "Orthopädie / Rheumatologie / Traumatologie",
             "heading_size": "h1"
           }
         },
@@ -55,7 +55,7 @@
         ".banner__box {background-color: rgba(255, 255, 255, 0.5);}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/orthopaedie.jpg",
+        "image": "shopify://shop_images/14.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -81,7 +81,7 @@
         "text_YrMhp7": {
           "type": "text",
           "settings": {
-            "text": "<p>Erhalt, Verbesserung und Wiederherstellung von körperlichen Funktionen.<\/p>"
+            "text": "<p>Erhalt, Verbesserung und Wiederherstellung von körperlichen Funktionen.</p>"
           }
         },
         "button_cCCqMV": {
@@ -116,7 +116,7 @@
         "column_FgjBpq": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ergotherapie_bulthaup_Orthopaedie_content.jpg",
+            "image": "shopify://shop_images/ergotherapie_bulthaup_Orthopaedie_content.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -157,19 +157,19 @@
         "text_A8Q7nd": {
           "type": "text",
           "settings": {
-            "text": "<p>Haben Sie angeborene oder erworbene Störungen des Stütz- und Bewegungsapparates, der Knochen, Gelenke, Muskeln und Sehnen? Die Verbindung von Ergotherapie und Orthopädie bietet Ihnen vielfältige Möglichkeiten.<\/p><p>Mit einer Kombination von verschiedenen aktiven und passiven Behandlungsmethoden oder auch einem Umtrainieren können wir Ihnen helfen.<\/p><p>Die ergotherapeutische Behandlung im Bereich der Orthopädie basiert hauptsächlich auf motorisch-funktionellem Training. Dies sind spezielle Bewegungsübungen zum Muskelaufbau und zum Training der Ausdauer, damit Sie alltägliche Aufgaben wie z. B. putzen und spülen wieder erledigen können.<\/p><p>Körperliche Folgen Ihrer Krankheit werden durch unsere ergotherapeutischen Maßnahmen gemildert und vorhandene Fähigkeiten gestärkt!<\/p>"
+            "text": "<p>Haben Sie angeborene oder erworbene Störungen des Stütz- und Bewegungsapparates, der Knochen, Gelenke, Muskeln und Sehnen? Die Verbindung von Ergotherapie und Orthopädie bietet Ihnen vielfältige Möglichkeiten.</p><p>Mit einer Kombination von verschiedenen aktiven und passiven Behandlungsmethoden oder auch einem Umtrainieren können wir Ihnen helfen.</p><p>Die ergotherapeutische Behandlung im Bereich der Orthopädie basiert hauptsächlich auf motorisch-funktionellem Training. Dies sind spezielle Bewegungsübungen zum Muskelaufbau und zum Training der Ausdauer, damit Sie alltägliche Aufgaben wie z. B. putzen und spülen wieder erledigen können.</p><p>Körperliche Folgen Ihrer Krankheit werden durch unsere ergotherapeutischen Maßnahmen gemildert und vorhandene Fähigkeiten gestärkt!</p>"
           }
         },
         "text_GGDYYH": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Typische Anwendungsgebiete<\/strong><\/p><ul><li>Erkrankungen des rheumatischen Formenkreises<\/li><li>traumatische und degenerative Störungen der Wirbelsäule, der oberen und unteren Extremitäten<\/li><li>Dysmelien<\/li><li>Amputationen<\/li><li>Fehlbildungen oder Abnutzungserscheinungen<\/li><\/ul>"
+            "text": "<p><strong>Typische Anwendungsgebiete</strong></p><ul><li>Erkrankungen des rheumatischen Formenkreises</li><li>traumatische und degenerative Störungen der Wirbelsäule, der oberen und unteren Extremitäten</li><li>Dysmelien</li><li>Amputationen</li><li>Fehlbildungen oder Abnutzungserscheinungen</li></ul>"
           }
         },
         "text_EiyVyH": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Inhalte der Therapie<\/strong><\/p><p>In der Ergotherapie lernen Sie, Ihre Kräfte optimal zu nutzen und durch veränderte Verhaltensweisen und Abläufe eine bleibende Behinderung auszugleichen. Wir arbeiten dabei auch mit speziellen Hilfsmitteln.<\/p><ul><li>Verbesserung oder Erhalt der Beweglichkeit, Muskelkraft, Ausdauer<\/li><li>Verhinderung von Kontrakturen und Schonhaltung<\/li><li>Wohnraumanpassung\/Hilfsmittelversorgung<\/li><li>Verbesserung der Feinmotorik, Koordination und Geschicklichkeit<\/li><li>Stimulierung der Sensibilität<\/li><li>Schmerzlinderung<\/li><li>Umtrainieren der Gebrauchshand<\/li><\/ul>"
+            "text": "<p><strong>Inhalte der Therapie</strong></p><p>In der Ergotherapie lernen Sie, Ihre Kräfte optimal zu nutzen und durch veränderte Verhaltensweisen und Abläufe eine bleibende Behinderung auszugleichen. Wir arbeiten dabei auch mit speziellen Hilfsmitteln.</p><ul><li>Verbesserung oder Erhalt der Beweglichkeit, Muskelkraft, Ausdauer</li><li>Verhinderung von Kontrakturen und Schonhaltung</li><li>Wohnraumanpassung/Hilfsmittelversorgung</li><li>Verbesserung der Feinmotorik, Koordination und Geschicklichkeit</li><li>Stimulierung der Sensibilität</li><li>Schmerzlinderung</li><li>Umtrainieren der Gebrauchshand</li></ul>"
           }
         }
       },
@@ -194,7 +194,7 @@
         "text_kbTtCF": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Ziele<\/strong><\/p><p>Wir vereinbaren gemeinsam die genauen Behandlungsziele. Erreichen Sie ein Maximum an Lebensqualität und eine größtmögliche Selbstständigkeit in Ihrem beruflichen, häuslichen und sozialen Alltag.<\/p>"
+            "text": "<p><strong>Ziele</strong></p><p>Wir vereinbaren gemeinsam die genauen Behandlungsziele. Erreichen Sie ein Maximum an Lebensqualität und eine größtmögliche Selbstständigkeit in Ihrem beruflichen, häuslichen und sozialen Alltag.</p>"
           }
         }
       },
@@ -218,7 +218,7 @@
           "settings": {
             "heading": "Wer übernimmt die Kosten?",
             "icon": "check_mark",
-            "row_content": "<p>Die Verordnung für eine ambulante Ergotherapie kann nur ein Arzt ausstellen. Pro Verordnung (Rezept) hat der Patient eine Zuzahlung in Höhe von 10 % zzgl. 10 € Rezeptgebühr zu leisten, außer er ist von Seiten der Krankenkasse von den Zuzahlungen befreit, z. B. bei einer chronischen Krankheit. Bei der Lerntherapie handelt es sich um eine Selbstzahlerleistung.<\/p>",
+            "row_content": "<p>Die Verordnung für eine ambulante Ergotherapie kann nur ein Arzt ausstellen. Pro Verordnung (Rezept) hat der Patient eine Zuzahlung in Höhe von 10 % zzgl. 10 € Rezeptgebühr zu leisten, außer er ist von Seiten der Krankenkasse von den Zuzahlungen befreit, z. B. bei einer chronischen Krankheit. Bei der Lerntherapie handelt es sich um eine Selbstzahlerleistung.</p>",
             "page": ""
           }
         },
@@ -227,7 +227,7 @@
           "settings": {
             "heading": "Wie ist der Behandlungsablauf?",
             "icon": "check_mark",
-            "row_content": "<p>Bei uns hat jeder Patient einen Bezugstherapeuten. Nach einem sorgfältigen Aufnahmegespräch und der Befunderhebung werden Sie, und bei Bedarf Ihre Angehörigen, in die Planung der Therapie einbezogen.<\/p>",
+            "row_content": "<p>Bei uns hat jeder Patient einen Bezugstherapeuten. Nach einem sorgfältigen Aufnahmegespräch und der Befunderhebung werden Sie, und bei Bedarf Ihre Angehörigen, in die Planung der Therapie einbezogen.</p>",
             "page": ""
           }
         },
@@ -236,7 +236,7 @@
           "settings": {
             "heading": "Wie viele Therapieeinheiten bekomme ich?",
             "icon": "check_mark",
-            "row_content": "<p>Der Arzt entscheidet über die Anzahl Ihrer Behandlungseinheiten. Pro Rezept können im Regelfall maximal 10 Behandlungseinheiten verordnet werden. Eine mögliche Weiterbehandlung und deren Umfang legt der Arzt fest.<\/p>",
+            "row_content": "<p>Der Arzt entscheidet über die Anzahl Ihrer Behandlungseinheiten. Pro Rezept können im Regelfall maximal 10 Behandlungseinheiten verordnet werden. Eine mögliche Weiterbehandlung und deren Umfang legt der Arzt fest.</p>",
             "page": ""
           }
         },
@@ -245,7 +245,7 @@
           "settings": {
             "heading": "Wie lange dauert eine Behandlung?",
             "icon": "check_mark",
-            "row_content": "<p>Eine Therapieeinheit dauert je nach Verordnung zwischen 30 und 60 Minuten. Die Häufigkeit der Behandlungstermine ist ebenfalls abhängig von der Verordnung des Arztes.<\/p>",
+            "row_content": "<p>Eine Therapieeinheit dauert je nach Verordnung zwischen 30 und 60 Minuten. Die Häufigkeit der Behandlungstermine ist ebenfalls abhängig von der Verordnung des Arztes.</p>",
             "page": ""
           }
         },
@@ -254,7 +254,7 @@
           "settings": {
             "heading": "Werden Hausbesuche gemacht?",
             "icon": "check_mark",
-            "row_content": "<p>Grundsätzlich bieten wir die Behandlung (bei medizinischer Notwendigkeit) auch als Hausbesuch an, wenn sie entweder ärztlich verordnet oder vertraglich vereinbart ist.<\/p>",
+            "row_content": "<p>Grundsätzlich bieten wir die Behandlung (bei medizinischer Notwendigkeit) auch als Hausbesuch an, wenn sie entweder ärztlich verordnet oder vertraglich vereinbart ist.</p>",
             "page": ""
           }
         }
