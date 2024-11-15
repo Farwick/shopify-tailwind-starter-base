@@ -152,7 +152,7 @@
         "column_3knPBf": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/neurologie.jpg",
+            "image": "shopify://shop_images/13.png",
             "title": "Neurologie",
             "text": "<p>Mehr Lebensqualität bei neurologischen Erkrankungen.</p>",
             "link_label": "mehr Infos",
@@ -162,7 +162,7 @@
         "column_ENKJ4D": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/paediatrie.jpg",
+            "image": "shopify://shop_images/12_1.png",
             "title": "Pädiatrie",
             "text": "<p>Unterstützung bei Entwicklung und Lernverhalten.</p>",
             "link_label": "mehr Infos",
