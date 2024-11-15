@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -55,7 +55,7 @@
         ".banner__box {background-color: rgba(255, 255, 255, 0.5);}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/tape.jpg",
+        "image": "shopify://shop_images/17.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -74,13 +74,13 @@
         "text_YrMhp7": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Taping<\/strong><\/p><p>Taping ist ein medikamentenfreier und ganzheitlicher Therapieansatz. Über die Hautrezeptoren wird Einfluss auf die Propriozeption\/ Tiefenwahrnehmung genommen. Muskeln und Bänder und damit die physiologische Körperfunktion werden unterstütz. Bei einem elastischen Tape werden die Bewegungen nicht eingeschränkt und können weitere Therapiekonzepte unterstützen. Die Tapeanlage wirkt solange, wie sie getragen wird und kann somit auch über die Therapieeinheit hinaus wirkungsvoll sein.<\/p>"
+            "text": "<p><strong>Taping</strong></p><p>Taping ist ein medikamentenfreier und ganzheitlicher Therapieansatz. Über die Hautrezeptoren wird Einfluss auf die Propriozeption/ Tiefenwahrnehmung genommen. Muskeln und Bänder und damit die physiologische Körperfunktion werden unterstütz. Bei einem elastischen Tape werden die Bewegungen nicht eingeschränkt und können weitere Therapiekonzepte unterstützen. Die Tapeanlage wirkt solange, wie sie getragen wird und kann somit auch über die Therapieeinheit hinaus wirkungsvoll sein.</p>"
           }
         },
         "text_r3WKK7": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Cross Tape<\/strong><\/p><p>Ein spezielles Taping ist das Cross Tape, hier werden auf speziell definierte Stellen der Haut das Gitterpflaster aufgebracht. Es wirkt dort energetisch ausgleichend und kann bei Schmerzen und anderen Beschwerden Linderung verschaffen. Die Punkte, die für die Pflaster von Bedeutung sind, liegen auf den Meridianen bzw. Energiebahnen des menschlichen Körpers und folgen der Lehre der Traditionellen Chinesischen Medizin (TCM).<\/p>"
+            "text": "<p><strong>Cross Tape</strong></p><p>Ein spezielles Taping ist das Cross Tape, hier werden auf speziell definierte Stellen der Haut das Gitterpflaster aufgebracht. Es wirkt dort energetisch ausgleichend und kann bei Schmerzen und anderen Beschwerden Linderung verschaffen. Die Punkte, die für die Pflaster von Bedeutung sind, liegen auf den Meridianen bzw. Energiebahnen des menschlichen Körpers und folgen der Lehre der Traditionellen Chinesischen Medizin (TCM).</p>"
           }
         }
       },
