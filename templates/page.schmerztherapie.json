@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -73,6 +73,7 @@
       "blocks": {
         "text_YrMhp7": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Die Zahl der Schmerzpatienten, die sich neben der ärztlichen Behandlung professionelle Hilfe bei Ergotherapeuten suchen, nimmt stark zu. Patienten mit chronischen Schmerzen haben nicht nur körperliche Symptome, sie leiden auch unter psychischen und sozialen Auswirkungen. In der Schmerztherapie geht es neben klassischen Behandlungsmethoden wie der manuellen Therapie und der medizinischen Trainingstherapie um ganzheitliche Behandlungstechniken wie Fußreflexzonenmassage, Faszientechniken, GOT Techniken (General Osteopathic Treatment) und Behandlungsverfahren aus der Traditionellen Chinesischen Medizin. Es wird eine systematische Anamnese durchgeführt und ist die Basis einer individuell auf den Schmerzpatienten abgestimmten Therapieplanung.</p>"
           }
