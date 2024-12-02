@@ -217,6 +217,7 @@
         },
         "text_9GWM4a": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><strong>Ziele</strong></p><p>Wir arbeiten ganzheitlich und vereinbaren gemeinsam mit Ihnen die Behandlungsziele. Entdecken Sie neue Möglichkeiten und erlangen Sie verlorengegangene Fähigkeiten zurück – für eine Verbesserung Ihrer Alltags- und Lebensqualität.</p><p>FRAGEN RUND UM DIE THERAPIE</p><ul><li>1. Wer übernimmt die Kosten?</li><li>2. Wie ist der Behandlungsablauf?</li><li>3. Wie viele Therapieeinheiten bekomme ich?</li><li>4. Wie lange dauert eine Behandlung?</li><li>5. Werden auch Hausbesuche gemacht?</li></ul>"
           }
