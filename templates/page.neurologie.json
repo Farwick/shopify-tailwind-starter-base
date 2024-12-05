@@ -115,6 +115,7 @@
       "blocks": {
         "column_FgjBpq": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/ergotherapie_bulthaup_Neurologie_content.jpg",
             "title": "",
