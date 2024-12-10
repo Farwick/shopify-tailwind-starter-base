@@ -519,8 +519,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "ul {list-style-type: circle;}",
-      "body,p,li {text-align: justify; text-justify: inter-word;}"
+      "ul {list-style-type: circle;}"
     ]
   }
 }
