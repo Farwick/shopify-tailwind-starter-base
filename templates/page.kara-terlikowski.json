@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_mwPm3a": {
@@ -68,7 +68,7 @@
         ".banner__box {background-color: rgba(255, 255, 255, 0.5);}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/135_-_2024-05-16_Mitarbeiter_Bulthaup-06864.jpg",
+        "image": "shopify://shop_images/135_-_2024-05-16_Mitarbeiter_Bulthaup-06864.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -87,9 +87,9 @@
         "column_V7f97X": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/91_-_2024-05-16_Mitarbeiter_Bulthaup-06670.jpg",
+            "image": "shopify://shop_images/91_-_2024-05-16_Mitarbeiter_Bulthaup-06670.jpg",
             "title": "",
-            "text": "<p>Jana Aust<\/p>",
+            "text": "<p>Kara Terlikowski</p>",
             "link_label": "",
             "link": ""
           }
@@ -98,7 +98,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>Kara Terlikowski<\/strong><\/p><ul><li>Ergotherapeutin<\/li><\/ul>",
+            "text": "<p><strong>Kara Terlikowski</strong></p><ul><li>Ergotherapeutin</li></ul>",
             "link_label": "",
             "link": ""
           }
@@ -107,7 +107,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p><strong>Praxis Rheda-Wiedenbrück<\/strong><\/p><p>Fürst-Bentheim-Straße 3<\/p><p>33378 Rheda-Wiedenbrück<\/p><p>Fon: <a href=\"tel:+495242408508\">(0 52 42) 40 85 08<\/a><\/p><p>E-Mail: <a href=\"mailto:praxis@ergotherapie-bulthaup.de\">praxis@ergotherapie-bulthaup.de<\/a><\/p><p>-<\/p><p><strong>Praxis Herzebrock-Clarholz<\/strong><\/p><p>Uthofstr. 13<\/p><p>33442 Herzebrock-Clarholz<\/p><p>Fon: <a href=\"tel:+495245922280\">(0 52 45) 92 22 80<\/a><\/p><p>E-Mail: <a href=\"mailto:praxis@ergotherapie-bulthaup.de\">praxis@ergotherapie-bulthaup.de<\/a><\/p>",
+            "text": "<p><strong>Praxis Rheda-Wiedenbrück</strong></p><p>Fürst-Bentheim-Straße 3</p><p>33378 Rheda-Wiedenbrück</p><p>Fon: <a href=\"tel:+495242408508\">(0 52 42) 40 85 08</a></p><p>E-Mail: <a href=\"mailto:praxis@ergotherapie-bulthaup.de\">praxis@ergotherapie-bulthaup.de</a></p><p>-</p><p><strong>Praxis Herzebrock-Clarholz</strong></p><p>Uthofstr. 13</p><p>33442 Herzebrock-Clarholz</p><p>Fon: <a href=\"tel:+495245922280\">(0 52 45) 92 22 80</a></p><p>E-Mail: <a href=\"mailto:praxis@ergotherapie-bulthaup.de\">praxis@ergotherapie-bulthaup.de</a></p>",
             "link_label": "",
             "link": ""
           }
