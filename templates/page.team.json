@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -121,26 +121,6 @@
             "link": "shopify://pages/maria-lakmann"
           }
         },
-        "column_PKnxCF": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/101_-_2024-05-16_Mitarbeiter_Bulthaup-06721.jpg",
-            "title": "Jana Aust",
-            "text": "",
-            "link_label": "mehr Infos",
-            "link": "shopify://pages/kirsten-kaupmann"
-          }
-        },
-        "column_LT4XT8": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/50_-_2024-05-16_Mitarbeiter_Bulthaup-06378.jpg",
-            "title": "Vanessa Sluka",
-            "text": "",
-            "link_label": "mehr Infos",
-            "link": "shopify://pages/vanessa-sluka"
-          }
-        },
         "column_n9QrHc": {
           "type": "column",
           "settings": {
@@ -181,16 +161,6 @@
             "link": "shopify://pages/sandra-knipschild"
           }
         },
-        "column_aw9Vkw": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/88_-_2024-05-16_Mitarbeiter_Bulthaup-06641.jpg",
-            "title": "Marlene Winkler",
-            "text": "",
-            "link_label": "mehr Infos",
-            "link": "shopify://pages/marlene-winkler"
-          }
-        },
         "column_jeddEz": {
           "type": "column",
           "settings": {
@@ -218,13 +188,10 @@
         "column_hEjpyR",
         "column_77M9t7",
         "column_jpzRYC",
-        "column_PKnxCF",
-        "column_LT4XT8",
         "column_n9QrHc",
         "column_ARnfRA",
         "column_3E4GPi",
         "column_dM3qBR",
-        "column_aw9Vkw",
         "column_jeddEz",
         "column_zgyAaX"
       ],
